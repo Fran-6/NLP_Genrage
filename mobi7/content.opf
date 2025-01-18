@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="uid">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<dc:title>Dico_AcaFr8</dc:title>
+<dc:language>fr-ch</dc:language>
+<dc:identifier id="uid">1645745410</dc:identifier>
+<dc:creator>Mobipocket.com</dc:creator>
+<meta name="output encoding" content="utf-8" />
+<DictionaryInLanguage>fr</DictionaryInLanguage>
+<DictionaryOutLanguage>fr</DictionaryOutLanguage>
+<!-- BEGIN INFORMATION ONLY 
+<meta name="ASIN" content="d2a495d4-8667-4c42-b820-2f8fed0d5f61" />
+<meta name="Font-Signature_(hex)" content="0300000000000000000000000000008000200000000000000000000000000000e4f9beef01e901c201e801c9409340a6" />
+<meta name="Creator-Software" content="2" />
+<meta name="Creator-Major-Version" content="4" />
+<meta name="Creator-Minor-Version" content="2" />
+<meta name="Creator-Build-Number" content="39" />
+<meta name="cdeType" content="EBOK" />
+END INFORMATION ONLY -->
+</metadata>
+<manifest>
+<item id="item0" media-type="text/html" href="book.html" />
+<item id="item1" media-type="image/jpeg" href="Images/image04501.jpeg" />
+<item id="ncx" media-type="application/x-dtbncx+xml" href="toc.ncx" />
+</manifest>
+<spine toc="ncx">
+<itemref idref="item0"/>
+</spine>
+<tours>
+</tours>
+<guide>
+<reference title="Look up a word" type="index" onclick="index_search('', 'Alphabetical lookup', '', 'none')"/>
+</guide>
+</package>
