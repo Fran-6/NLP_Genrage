@@ -1,0 +1,42 @@
+Dictionnaire DM - Version extensionnelle - juin 2014
+François Trouilleux
+Clermont Université, Université Blaise Pascal, EA 999, LRL
+
+La version "extensionnelle" du dictionnaire DM est un ensemble
+de cinq fichiers TXT contenant l'ensemble des formes fléchies
+du dictionnaire. On trouve un fichier pour chacune des quatre
+grandes catégories lexicales + un fichier pour toutes les autres
+catégories (F.txt : mots fonctionnels).
+
+Les données sont organisées en colonnes, avec la tabulation
+comme séparateur. Les entêtes de colonnes sont identiques
+pour tous les fichiers, même si aucune donnée n'est présente
+pour certaines catégories. Par exemple, les valeurs de personne
+sont indiquées dans la sixième colonne et celle-ci est présente
+dans chacun des cinq fichiers, même si elle est inutile pour les
+noms, les adjectifs ou les adverbes.
+
+Les entêtes de colonnes reprennent les noms d'attributs du 
+dictionnaire ; voir la documentation du DM et la documentation
+NooJ pour leur interprétation.
+
+  0 - Forme
+  1 - Lemme
+  2 - Catégorie syntaxique
+  3 - Genre
+  4 - Nb
+  5 - Pers
+  6 - Temps
+  7 - Spec
+  8 - Fonc
+  9 - Gvn/Dist/Aux
+ 10 - Graph
+ 11 - Lang
+ 12 - Cmp
+ 13 - FLX
+ 14 - DRV
+ 15 - UNAMB
+ 16 - Ref
+ 17 - Sem
+ 18 - Info/Accent
+ 

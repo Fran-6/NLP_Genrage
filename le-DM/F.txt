@@ -1,0 +1,2308 @@
+Forme	Lemme	Cat	Genre	Nb	Pers	Temps	Spec	Fonc	Gvn/Dist/Aux	Graph	Lang	Cmp	FLX	DRV	UNAMB	Ref	Sem	Info/Accent
+voici	voici	PRES
+voilà	voilà	PRES
+revoici	voici	PRES
+revoilà	voilà	PRES
+ci-gît	ci-git	PRES								Opt					UNAMB
+ci-git	ci-git	PRES								Rec					UNAMB
+d'	de	DET	m	p									PL		UNAMB
+d'	de	DET	f	p									PL		UNAMB
+d’	de	DET	m	p									PL		UNAMB
+d’	de	DET	f	p									PL		UNAMB
+de	de	DET	m	p									PL
+de	de	DET	f	p									PL
+un	un	DET	m	s			ind
+une	un	DET	f	s			ind
+des	des	DET	f	p			ind
+des	des	DET	m	p			ind
+plus d'un	un	DET	m	s			ind
+plus d’un	un	DET	m	s			ind
+plus d'une	un	DET	f	s			ind
+plus d’une	un	DET	f	s			ind
+l'	l'	DET	m	s			def						SG		UNAMB
+l'	l'	DET	f	s			def						SG		UNAMB
+l’	l’	DET	m	s			def						SG		UNAMB
+l’	l’	DET	f	s			def						SG		UNAMB
+la	la	DET	f	s			def
+le	le	DET	m	s			def
+les	les	DET		p			def
+ledit	ledit	DET	m	s			def
+ladite	ledit	DET	f	s			def
+lesdits	ledit	DET	m	p			def
+lesdites	ledit	DET	f	p			def
+de l'	de l'	DET	m	s			part
+de l’	de l’	DET	m	s			part
+de la	de la	DET	f	s			part
+du	du	DET	m	s			part
+leur	leur	DET	m	s			pos						SG
+leur	leur	DET	f	s			pos						SG
+leurs	leurs	DET	m	p			pos						PL
+leurs	leurs	DET	f	p			pos						PL
+ma	ma	DET	f	s			pos
+mes	mes	DET	m	p			pos						PL
+mes	mes	DET	f	p			pos						PL
+mon	mon	DET	m	s			pos						SG
+mon	mon	DET	f	s			pos						SG
+nos	nos	DET	m	p			pos						PL
+nos	nos	DET	f	p			pos						PL
+notre	notre	DET	m	s			pos						SG
+notre	notre	DET	f	s			pos						SG
+sa	sa	DET	f	s			pos
+ses	ses	DET	m	p			pos						PL
+ses	ses	DET	f	p			pos						PL
+son	son	DET	m	s			pos						SG
+son	son	DET	f	s			pos						SG
+ta	ta	DET	f	s			pos
+tes	tes	DET	m	p			pos						PL
+tes	tes	DET	f	p			pos						PL
+ton	ton	DET	m	s			pos						SG
+ton	ton	DET	f	s			pos						SG
+vos	vos	DET	m	p			pos						PL
+vos	vos	DET	f	p			pos						PL
+votre	votre	DET	m	s			pos						SG
+votre	votre	DET	f	s			pos						SG
+ce	ce	DET	m	s			dem
+ces	ces	DET	m	p			dem						PL
+ces	ces	DET	f	p			dem						PL
+cet	cet	DET	m	s			dem
+cette	cette	DET	f	s			dem
+aucun	aucun	DET	m	s			ind
+aucune	aucun	DET	f	s			ind
+aucuns	aucun	DET	m	p			ind
+aucunes	aucun	DET	f	p			ind
+bien de l'	bien de l'	DET	m	s									SG		UNAMB
+bien de l'	bien de l'	DET	f	s									SG		UNAMB
+bien de l’	bien de l’	DET	m	s									SG		UNAMB
+bien de l’	bien de l’	DET	f	s									SG		UNAMB
+bien de la	bien de la	DET	f	s
+bien des	bien des	DET	m	p			ind						PL
+bien des	bien des	DET	f	p			ind						PL
+bien du	bien du	DET	m	s
+certaines	certains	DET	f	p			ind
+certains	certains	DET	m	p			ind
+chaque	chaque	DET	f	s			ind
+chaque	chaque	DET	m	s			ind
+différentes	différents	DET	f	p			ind
+différents	différents	DET	m	p			ind
+divers	divers	DET	m	p			ind
+diverses	divers	DET	f	p			ind
+force	force	DET	m	p			ind
+force	force	DET	f	p			ind
+maintes	maints	DET	f	p			ind
+maints	maints	DET	m	p			ind
+nombre d'	nombre de	DET	m	p			ind						PL
+nombre d'	nombre de	DET	f	p			ind						PL
+nombre d’	nombre de	DET	m	p			ind						PL
+nombre d’	nombre de	DET	f	p			ind						PL
+nombre de	nombre de	DET	m	p			ind						PL
+nombre de	nombre de	DET	f	p			ind						PL
+nul	nul	DET	m	s			ind
+nulle	nul	DET	f	s			ind
+plusieurs	plusieurs	DET	f	p			ind
+plusieurs	plusieurs	DET	m	p			ind
+quelque	quelque	DET	f	s			ind
+quelque	quelque	DET	m	s			ind
+quelques	quelques	DET	f	p			ind
+quelques	quelques	DET	m	p			ind
+tel	tel	DET	m	s			ind
+telle	tel	DET	f	s			ind
+telles	tel	DET	f	p			ind
+tels	tel	DET	m	p			ind
+tous	tout	DET	m	p			ind
+tout	tout	DET	m	s			ind
+toute	tout	DET	f	s			ind
+toutes sortes d'	toutes sortes de	DET		p			ind								UNAMB
+toutes sortes d’	toutes sortes de	DET		p			ind								UNAMB
+toutes sortes de	toutes sortes de	DET		p			ind								UNAMB
+toutes	tout	DET	f	p			ind
+quel	quel	DET	m	s			int						S_DE
+quels	quel	DET	m	p			int						S_DE
+quelle	quel	DET	f	s			int						S_DE
+quelles	quel	DET	f	p			int						S_DE
+auquel	<à><lequel>	<PREP><DET>	m	s			rel
+auxquelles	<à><lequel>	<PREP><DET>	f	p			rel
+auxquels	<à><lequel>	<PREP><DET>	m	p			rel
+desquelles	<de><lequel>	<PREP><DET>	f	p			rel
+desquels	<de><lequel>	<PREP><DET>	m	p			rel
+duquel	<de><lequel>	<PREP><DET>	m	s			rel
+laquelle	lequel	DET	m	s			rel
+lequel	lequel	DET	m	s			rel
+lesquelles	lequel	DET	f	p			rel
+lesquels	lequel	DET	m	p			rel
+feu	feu	PDET	m	s
+feue	feu	PDET	f	s
+tous	tout	PDET	m	p
+tout	tout	PDET	m	s
+toute	tout	PDET	f	s
+toutes	tout	PDET	f	p
+n'	ne	NEG													UNAMB
+n’	ne	NEG													UNAMB
+ne	ne	NEG
+j'	je	PRO		s	1			nom	clit						UNAMB
+j’	je	PRO		s	1			nom	clit						UNAMB
+je	je	PRO		s	1			nom	clit
+tu	tu	PRO		s	2			nom	clit
+t'	tu	PRO		s	2			nom	clit						UNAMB
+t’	tu	PRO		s	2			nom	clit						UNAMB
+il	il	PRO	m	s	3			nom	clit
+elle	elle	PRO	f	s	3			nom	clit
+on	on	PRO		s	3			nom	clit
+l'on	on	PRO		s	3			nom	clit						UNAMB
+l’on	on	PRO		s	3			nom	clit						UNAMB
+nous	nous	PRO		p	1			nom	clit
+vous	vous	PRO		p	2			nom	clit
+ils	ils	PRO	m	p	3			nom	clit
+elles	elles	PRO	f	p	3			nom	clit
+t-elle	elle	PRO	f	s	3			nom	clit						UNAMB
+t-elles	elles	PRO	f	p	3			nom	clit						UNAMB
+t-il	il	PRO	m	s	3			nom	clit						UNAMB
+t-ils	ils	PRO	m	p	3			nom	clit						UNAMB
+t-on	on	PRO		s	3			nom	clit						UNAMB
+c'	ce	PRO		p	3		dem	nom	clit						UNAMB
+c’	ce	PRO		p	3		dem	nom	clit						UNAMB
+ce	ce	PRO		p	3		dem	nom	clit
+l'	le	PRO		s	3			acc	clit						UNAMB
+l’	le	PRO		s	3			acc	clit						UNAMB
+la	le	PRO	f	s	3			acc	clit
+le	le	PRO	m	s	3			acc	clit
+les	le	PRO	m	p	3			acc	clit
+les	le	PRO	f	p	3			acc	clit
+m'	me	PRO		s	1		ref	acc	clit						UNAMB			aton
+m’	me	PRO		s	1		ref	acc	clit						UNAMB			aton
+me	me	PRO		s	1		ref	acc	clit									aton
+moi	moi	PRO		s	1		ref	acc	clit									ton
+t'	te	PRO		s	2		ref	acc	clit						UNAMB			aton
+t’	te	PRO		s	2		ref	acc	clit						UNAMB			aton
+te	te	PRO		s	2		ref	acc	clit									aton
+toi	toi	PRO		s	2		ref	acc	clit									ton
+s'	se	PRO	m	s	3		ref	acc	clit						UNAMB
+s’	se	PRO	m	s	3		ref	acc	clit						UNAMB
+s'	se	PRO	f	s	3		ref	acc	clit						UNAMB
+s’	se	PRO	f	s	3		ref	acc	clit						UNAMB
+s'	se	PRO	m	p	3		ref	acc	clit						UNAMB
+s’	se	PRO	m	p	3		ref	acc	clit						UNAMB
+s'	se	PRO	f	p	3		ref	acc	clit						UNAMB
+s’	se	PRO	f	p	3		ref	acc	clit						UNAMB
+se	se	PRO	m	s	3		ref	acc	clit
+se	se	PRO	f	s	3		ref	acc	clit
+se	se	PRO	m	p	3		ref	acc	clit
+se	se	PRO	f	p	3		ref	acc	clit
+nous	nous	PRO		p	1		ref	acc	clit
+vous	vous	PRO		p	2		ref	acc	clit
+leur	leur	PRO		p	3			dat	clit
+lui	lui	PRO		s	3			dat	clit
+m'	me	PRO		s	1		ref	dat	clit						UNAMB			aton
+m’	me	PRO		s	1		ref	dat	clit						UNAMB			aton
+me	me	PRO		s	1		ref	dat	clit									aton
+moi	moi	PRO		s	1		ref	dat	clit									ton
+t'	te	PRO		s	2		ref	dat	clit						UNAMB			aton
+t’	te	PRO		s	2		ref	dat	clit						UNAMB			aton
+te	te	PRO		s	2		ref	dat	clit									aton
+toi	toi	PRO		s	2		ref	dat	clit									ton
+s'	se	PRO			3		ref	dat	clit						UNAMB
+s’	se	PRO			3		ref	dat	clit						UNAMB
+se	se	PRO			3		ref	dat	clit
+nous	nous	PRO		p	1		ref	dat	clit
+vous	vous	PRO		p	2		ref	dat	clit
+te me	te me	PRO						eth	clit
+te nous	te nous	PRO						eth	clit
+te vous	te vous	PRO						eth	clit
+en	en	PRO							clit
+z-en	en	PRO							clit						UNAMB
+y	y	PRO							clit
+z-y	y	PRO							clit						UNAMB
+elle	elle	PRO	f	s	3				dis
+elles	elles	PRO	f	p	3				dis
+eux	eux	PRO	m	p	3				dis
+lui	lui	PRO	m	s	3				dis
+moi	moi	PRO		s	1				dis
+nous	nous	PRO		p	1				dis
+soi	soi	PRO		s	3				dis
+toi	toi	PRO		s	2				dis
+vous	vous	PRO		p	2				dis
+elle-même	elle-même	PRO	f	s	3		ref		dis						UNAMB
+elles-mêmes	elles-mêmes	PRO	f	p	3		ref		dis						UNAMB
+eux-mêmes	eux-mêmes	PRO	m	p	3		ref		dis						UNAMB
+lui-même	lui-même	PRO	m	s	3		ref		dis						UNAMB
+moi-même	moi-même	PRO		s	1		ref		dis						UNAMB
+nous-mêmes	nous-mêmes	PRO		p	1		ref		dis						UNAMB
+soi-même	soi-même	PRO		s	3		ref		dis						UNAMB
+toi-même	toi-même	PRO		s	2		ref		dis						UNAMB
+vous-mêmes	vous-mêmes	PRO		p	2		ref		dis						UNAMB
+vous-même	vous-même	PRO		p	2		ref		dis						UNAMB
+ça	ça	PRO		s	3		dem
+ce	ce	PRO		s	3		dem	acc
+ceci	ceci	PRO		s	3		dem
+cela	cela	PRO		s	3		dem
+celle	celle	PRO	f	s	3		dem
+celle-ci	celle-ci	PRO	f	s	3		dem
+celle-là	celle-là	PRO	f	s	3		dem
+celles	celles	PRO	f	p	3		dem
+celles-ci	celles-ci	PRO	f	p	3		dem
+celles-là	celles-là	PRO	f	p	3		dem
+celui	celui	PRO	m	s	3		dem
+celui-ci	celui-ci	PRO	m	s	3		dem
+celui-là	celui-là	PRO	m	s	3		dem
+ceux	ceux	PRO	m	p	3		dem
+ceux-ci	ceux-ci	PRO	m	p	3		dem
+ceux-là	ceux-là	PRO	m	p	3		dem
+tous ceux	tous ceux	PRO	m	p	3		dem								UNAMB
+tous ceux-ci	tous ceux-ci	PRO	m	p	3		dem								UNAMB
+tous ceux-là	tous ceux-là	PRO	m	p	3		dem								UNAMB
+tout ça	tout ça	PRO		s	3		dem								UNAMB
+tout ce	tout ce	PRO		s	3		dem								UNAMB
+tout ceci	tout ceci	PRO		s	3		dem								UNAMB
+tout cela	tout cela	PRO		s	3		dem								UNAMB
+toutes celles	toutes celles	PRO	f	p	3		dem								UNAMB
+toutes celles-ci	toutes celles-ci	PRO	f	p	3		dem								UNAMB
+toutes celles-là	toutes celles-là	PRO	f	p	3		dem								UNAMB
+qu'	que	PRO					int	acc							UNAMB
+qu’	que	PRO					int	acc							UNAMB
+que	que	PRO					int	acc
+qui	qui	PRO					int
+quoi	quoi	PRO					int
+qu'est-ce qu'	qu'est-ce que	PRO					int								UNAMB
+qu’est-ce qu’	qu'est-ce que	PRO					int								UNAMB
+qu'est-ce que	qu'est-ce que	PRO					int								UNAMB
+qu’est-ce que	qu'est-ce que	PRO					int								UNAMB
+qu'est-ce qui	qu'est-ce qui	PRO					int								UNAMB
+qu’est-ce qui	qu'est-ce qui	PRO					int								UNAMB
+qui est-ce qui	qui est-ce qui	PRO					int								UNAMB
+dont	dont	PRO					rel
+laquelle	lequel	PRO	m	s			rel	nom
+lequel	lequel	PRO	m	s			rel	nom
+lesquelles	lequel	PRO	f	p			rel	nom
+lesquels	lequel	PRO	m	p			rel	nom
+où	où	PRO					rel
+qu'	que	PRO					rel	acc							UNAMB
+qu’	que	PRO					rel	acc							UNAMB
+que	que	PRO					rel	acc
+qui	qui	PRO					rel	nom
+aucun	aucun	PRO	m	s			ind
+aucune	aucun	PRO	f	s			ind
+aucunes	aucun	PRO	f	p			ind
+aucuns	aucun	PRO	m	p			ind
+autrui	autrui	PRO	m	s			ind
+certaines	certains	PRO	f	p			ind
+certains	certains	PRO	m	p			ind
+chacun	chacun	PRO	m	s			ind
+chacune	chacun	PRO	f	s			ind
+maintes	maints	PRO	f	p			ind
+maints	maints	PRO	m	p			ind
+néant	néant	PRO	m	s			ind
+nul	nul	PRO	m	s			ind
+personne	personne	PRO	m	s			ind
+plusieurs	plusieurs	PRO		p			ind
+quiconque	quiconque	PRO	m	s			ind
+rien	rien	PRO	m	s			ind
+tous	tous	PRO	m	p			ind
+tout	tout	PRO	m	s			ind
+toutes	tous	PRO	f	p			ind
+untel	untel	PRO	m	s			ind
+unetelle	untel	PRO	f	s			ind
+d'aucunes	d'aucuns	PRO	f	p			ind
+d’aucunes	d'aucuns	PRO	f	p			ind
+d'aucuns	d'aucuns	PRO	m	p			ind
+d’aucuns	d'aucuns	PRO	m	p			ind
+d'autres	d'autres	PRO		p			ind
+d’autres	d'autres	PRO		p			ind
+grand-chose	grand-chose	PRO					ind								UNAMB
+je ne sais qui	je ne sais qui	PRO		s			ind
+je ne sais quoi	je ne sais quoi	PRO		s			ind
+je-ne-sais-qui	je ne sais qui	PRO		s			ind								UNAMB
+je-ne-sais-quoi	je ne sais quoi	PRO		s			ind								UNAMB
+le peu	le peu	PRO	m	s			ind								UNAMB
+les unes	l'un	PRO	f	p			ind								UNAMB
+les uns	l'un	PRO	m	p			ind								UNAMB
+l'un	l'un	PRO	m	s			ind								UNAMB
+l’un	l'un	PRO	m	s			ind								UNAMB
+l'une	l'un	PRO	f	s			ind								UNAMB
+l’une	l'un	PRO	f	s			ind								UNAMB
+n'importe laquelle	n'importe lequel	PRO	m	s			ind								UNAMB
+n’importe laquelle	n'importe lequel	PRO	m	s			ind								UNAMB
+n'importe lequel	n'importe lequel	PRO	m	s			ind								UNAMB
+n’importe lequel	n'importe lequel	PRO	m	s			ind								UNAMB
+n'importe lesquelles	n'importe lequel	PRO	f	p			ind								UNAMB
+n’importe lesquelles	n'importe lequel	PRO	f	p			ind								UNAMB
+n'importe lesquels	n'importe lequel	PRO	m	p			ind								UNAMB
+n’importe lesquels	n'importe lequel	PRO	m	p			ind								UNAMB
+n'importe qui	n'importe qui	PRO	m	s			ind								UNAMB
+n’importe qui	n'importe qui	PRO	m	s			ind								UNAMB
+n'importe quoi	n'importe quoi	PRO	m	s			ind								UNAMB
+n’importe quoi	n'importe quoi	PRO	m	s			ind								UNAMB
+quelques-unes	quelques-uns	PRO	f	p			ind								UNAMB
+quelques-uns	quelques-uns	PRO	m	p			ind								UNAMB
+quelqu'un	quelqu'un	PRO	m	s			ind
+quelqu’un	quelqu'un	PRO	m	s			ind
+quelqu'une	quelqu'un	PRO	f	s			ind
+quelqu’une	quelqu’un	PRO	f	s			ind
+tout un chacun	tout un chacun	PRO	m	s			ind								UNAMB
+d'	de	PREP							pv						UNAMB
+d’	de	PREP							pv						UNAMB
+de	de	PREP							pv
+du	<de><le>	<PREP><DET>	m	s			def
+des	<de><les>	<PREP><DET>	m	p			def
+des	<de><les>	<PREP><DET>	f	p			def
+duquel	<de><lequel>	<PREP><PRO>	m	s			rel	nom
+desquels	<de><lequel>	<PREP><PRO>	m	p			rel	nom
+desquelles	<de><lequel>	<PREP><PRO>	f	p			rel	nom
+dudit	<de><ledit>	<PREP><DET>	m	s			def
+desdits	<de><ledit>	<PREP><DET>	m	p			def
+desdites	<de><ledit>	<PREP><DET>	f	p			def
+à l’instar d’	à l'instar de	PREP													UNAMB
+à l’instar de	à l'instar de	PREP													UNAMB
+à l'instar d'	à l'instar de	PREP													UNAMB
+à l'instar de	à l'instar de	PREP													UNAMB
+à l'instar du	<à l'instar de><le>	<PREP><DET>	m	s			def
+à l’instar du	<à l’instar de><le>	<PREP><DET>	m	s			def
+à l'instar des	<à l'instar de><les>	<PREP><DET>	m	p			def
+à l’instar des	<à l’instar de><les>	<PREP><DET>	m	p			def
+à l'instar des	<à l'instar de><les>	<PREP><DET>	f	p			def
+à l’instar des	<à l’instar de><les>	<PREP><DET>	f	p			def
+à l'instar duquel	<à l'instar de><lequel>	<PREP><PRO>	m	s			rel	nom
+à l’instar duquel	<à l’instar de><lequel>	<PREP><PRO>	m	s			rel	nom
+à l'instar desquels	<à l'instar de><lequel>	<PREP><PRO>	m	p			rel	nom
+à l’instar desquels	<à l’instar de><lequel>	<PREP><PRO>	m	p			rel	nom
+à l'instar desquelles	<à l'instar de><lequel>	<PREP><PRO>	f	p			rel	nom
+à l’instar desquelles	<à l’instar de><lequel>	<PREP><PRO>	f	p			rel	nom
+à partir d'	à partir de	PREP
+à partir d’	à partir de	PREP
+à partir de	à partir de	PREP
+à partir du	<à partir de><le>	<PREP><DET>	m	s			def
+à partir des	<à partir de><les>	<PREP><DET>	m	p			def
+à partir des	<à partir de><les>	<PREP><DET>	f	p			def
+à partir duquel	<à partir de><lequel>	<PREP><PRO>	m	s			rel	nom
+à partir desquels	<à partir de><lequel>	<PREP><PRO>	m	p			rel	nom
+à partir desquelles	<à partir de><lequel>	<PREP><PRO>	f	p			rel	nom
+en dépit d'	en dépit de	PREP													UNAMB
+en dépit d’	en dépit de	PREP													UNAMB
+en dépit de	en dépit de	PREP													UNAMB
+en dépit du	<en dépit de><le>	<PREP><DET>	m	s			def
+en dépit des	<en dépit de><les>	<PREP><DET>	m	p			def
+en dépit des	<en dépit de><les>	<PREP><DET>	f	p			def
+en dépit duquel	<en dépit de><lequel>	<PREP><PRO>	m	s			rel	nom
+en dépit desquels	<en dépit de><lequel>	<PREP><PRO>	m	p			rel	nom
+en dépit desquelles	<en dépit de><lequel>	<PREP><PRO>	f	p			rel	nom
+vis=à=vis d'	vis-à-vis de	PREP													UNAMB
+vis=à=vis d’	vis-à-vis de	PREP													UNAMB
+vis=à=vis de	vis=à=vis de	PREP													UNAMB
+vis=à=vis du	<vis-à-vis de><le>	<PREP><DET>	m	s			def
+vis=à=vis des	<vis-à-vis de><les>	<PREP><DET>	m	p			def
+vis=à=vis des	<vis-à-vis de><les>	<PREP><DET>	f	p			def
+vis=à=vis duquel	<vis-à-vis de><lequel>	<PREP><PRO>	m	s			rel	nom
+vis=à=vis desquels	<vis-à-vis de><lequel>	<PREP><PRO>	m	p			rel	nom
+vis=à=vis desquelles	<vis-à-vis de><lequel>	<PREP><PRO>	f	p			rel	nom
+à	à	PREP							pv
+au	<à><le>	<PREP><DET>	m	s			def
+aux	<à><les>	<PREP><DET>	m	p			def
+aux	<à><les>	<PREP><DET>	f	p			def
+auquel	<à><lequel>	<PREP><PRO>	m	s			rel	nom
+auxquels	<à><lequel>	<PREP><PRO>	m	p			rel	nom
+auxquelles	<à><lequel>	<PREP><PRO>	f	p			rel	nom
+audit	<à><ledit>	<PREP><DET>	m	s			def
+auxdits	<à><ledit>	<PREP><DET>	m	p			def
+auxdites	<à><ledit>	<PREP><DET>	f	p			def
+quant à	quant à	PREP							pv						UNAMB
+quant au	<quant à><le>	<PREP><DET>	m	s			def
+quant aux	<quant à><les>	<PREP><DET>	m	p			def
+quant aux	<quant à><les>	<PREP><DET>	f	p			def
+eu égard à	eu égard à	PREP
+eu égard au	<eu égard à><le>	<PREP><DET>	m	s			def
+eu égard aux	<eu égard à><les>	<PREP><DET>	m	p			def
+eu égard aux	<eu égard à><les>	<PREP><DET>	f	p			def
+eu égard auquel	<eu égard à><lequel>	<PREP><PRO>	m	s			rel	nom
+eu égard auxquels	<eu égard à><lequel>	<PREP><PRO>	m	p			rel	nom
+eu égard auxquelles	<eu égard à><lequel>	<PREP><PRO>	f	p			rel	nom
+ès	ès	PREP
+après	après	PREP					ell		pv
+avant	avant	PREP					ell
+avec	avec	PREP					ell
+chez	chez	PREP
+contre	contre	PREP					ell
+d’après	d’après	PREP
+dès	dès	PREP
+d'après	d'après	PREP
+dans	dans	PREP
+depuis	depuis	PREP					ell
+derrière	derrière	PREP					ell
+dessous	dessous	PREP
+dessus	dessus	PREP					ell
+devant	devant	PREP					ell
+durant	durant	PREP
+en	en	PREP
+entre	entre	PREP
+envers	envers	PREP
+hormis	hormis	PREP
+hors	hors de	PREP
+jusqu’	jusque	PREP													UNAMB
+jusqu'	jusque	PREP													UNAMB
+jusque	jusque	PREP
+lès	lès	PREP
+lez	lès	PREP
+malgré	malgré	PREP
+moyennant	moyennant	PREP
+outre	outre	PREP					ell
+par	par	PREP							pv
+parmi	parmi	PREP
+pendant	pendant	PREP					ell
+plein	plein	PREP
+pour	pour	PREP					ell		pv
+sans	sans	PREP					ell		pv
+sauf à	sauf à	PREP							pv
+sauf	sauf	PREP
+selon	selon	PREP
+sous	sous	PREP
+suivant	suivant	PREP
+sur	sur	PREP
+vers	vers	PREP
+via	via	PREP
+à part	à part	PREP
+à travers	à travers	PREP													UNAMB
+afin d’	afin de	PREP							pv						UNAMB
+afin d'	afin de	PREP							pv						UNAMB
+afin de	afin de	PREP							pv						UNAMB
+avant d’	avant de	PREP							pv
+avant d'	avant de	PREP							pv
+avant de	avant de	PREP							pv
+de façon à	de façon à	PREP							pv						UNAMB
+de manière à	de manière à	PREP							pv						UNAMB
+de par	de par	PREP													UNAMB
+en tant qu’	en tant que	PREP													UNAMB
+en tant qu'	en tant que	PREP													UNAMB
+en tant que	en tant que	PREP													UNAMB
+hors d’	hors de	PREP													UNAMB
+hors d'	hors de	PREP													UNAMB
+hors de	hors de	PREP													UNAMB
+par=delà	par-delà	PREP													UNAMB
+par=dessous	par-dessous	PREP					ell								UNAMB
+par=dessus	par-dessus	PREP					ell								UNAMB
+par=devers	par-devers	PREP													UNAMB
+car	car	CONJC
+donc	donc	CONJC
+et	et	CONJC
+mais	mais	CONJC
+ni	ni	CONJC
+or	or	CONJC
+ou	ou	CONJC
+puis	puis	CONJC
+et puis	et puis	CONJC
+et/ou	et-ou	CONJC
+et-ou	et-ou	CONJC
+comme	comme	CONJS
+lorsqu’	lorsque	CONJS													UNAMB
+lorsqu'	lorsque	CONJS													UNAMB
+lorsque	lorsque	CONJS
+puisqu’	puisque	CONJS													UNAMB
+puisqu'	puisque	CONJS													UNAMB
+puisque	puisque	CONJS
+qu’	que	CONJS													UNAMB
+qu'	que	CONJS													UNAMB
+quand	quand	CONJS
+que	que	CONJS
+quoiqu’	quoique	CONJS													UNAMB
+quoiqu'	quoique	CONJS													UNAMB
+quoique	quoique	CONJS
+s’	si	CONJS													UNAMB
+s'	si	CONJS													UNAMB
+si	si	CONJS
+afin qu’	afin que	CONJS													UNAMB
+afin qu'	afin que	CONJS													UNAMB
+afin que	afin que	CONJS													UNAMB
+avant qu’	avant que	CONJS
+avant qu'	avant que	CONJS
+avant que	avant que	CONJS
+bien qu’	bien que	CONJS
+bien qu'	bien que	CONJS
+bien que	bien que	CONJS
+c’est-à-dire qu’	c'est-à-dire que	CONJS													UNAMB
+c’est-à-dire que	c'est-à-dire que	CONJS													UNAMB
+c'est-à-dire qu'	c'est-à-dire que	CONJS													UNAMB
+c'est-à-dire que	c'est-à-dire que	CONJS													UNAMB
+comme s’	comme si	CONJS													UNAMB
+comme s'	comme si	CONJS													UNAMB
+comme si	comme si	CONJS													UNAMB
+dès qu’	dès que	CONJS													UNAMB
+dès qu'	dès que	CONJS													UNAMB
+dès que	dès que	CONJS													UNAMB
+de telle sorte qu’	de telle sorte que	CONJS													UNAMB
+de telle sorte qu'	de telle sorte que	CONJS													UNAMB
+de telle sorte que	de telle sorte que	CONJS													UNAMB
+depuis qu’	depuis que	CONJS
+depuis qu'	depuis que	CONJS
+depuis que	depuis que	CONJS
+durant qu’	durant que	CONJS
+durant qu'	durant que	CONJS
+durant que	durant que	CONJS
+jusqu’à ce qu’	jusqu’à ce que	CONJS													UNAMB
+jusqu’à ce que	jusqu’à ce que	CONJS													UNAMB
+jusqu’à tant qu’	jusqu’à tant que	CONJS													UNAMB
+jusqu’à tant que	jusqu’à tant que	CONJS													UNAMB
+jusqu'à ce qu'	jusqu'à ce que	CONJS													UNAMB
+jusqu'à ce que	jusqu'à ce que	CONJS													UNAMB
+jusqu'à tant qu'	jusqu'à tant que	CONJS													UNAMB
+jusqu'à tant que	jusqu'à tant que	CONJS													UNAMB
+lors même qu’	lors même que	CONJS													UNAMB
+lors même qu'	lors même que	CONJS													UNAMB
+lors même que	lors même que	CONJS
+lors qu’	lors que	CONJS													UNAMB
+lors qu'	lors que	CONJS													UNAMB
+lors que	lors que	CONJS
+même s’	même si	CONJS
+même s'	même si	CONJS
+même si	même si	CONJS
+malgré qu’	malgré que	CONJS													UNAMB
+malgré qu'	malgré que	CONJS													UNAMB
+malgré que	malgré que	CONJS													UNAMB
+moyennant qu’	moyennant que	CONJS													UNAMB
+moyennant qu'	moyennant que	CONJS													UNAMB
+moyennant que	moyennant que	CONJS													UNAMB
+parce qu’	parce que	CONJS													UNAMB
+parce qu'	parce que	CONJS													UNAMB
+parce que	parce que	CONJS													UNAMB
+pendant qu’	pendant que	CONJS													UNAMB
+pendant qu'	pendant que	CONJS													UNAMB
+pendant que	pendant que	CONJS													UNAMB
+pour peu qu’	pour peu que	CONJS													UNAMB
+pour peu qu'	pour peu que	CONJS													UNAMB
+pour peu que	pour peu que	CONJS													UNAMB
+pour qu’	pour que	CONJS													UNAMB
+pour qu'	pour que	CONJS													UNAMB
+pour que	pour que	CONJS													UNAMB
+pourvu qu’	pourvu que	CONJS													UNAMB
+pourvu qu'	pourvu que	CONJS													UNAMB
+pourvu que	pourvu que	CONJS													UNAMB
+quand bien même	quand bien même	CONJS													UNAMB
+sans qu’	sans que	CONJS													UNAMB
+sans qu'	sans que	CONJS													UNAMB
+sans que	sans que	CONJS													UNAMB
+selon qu’	selon que	CONJS													UNAMB
+selon qu'	selon que	CONJS													UNAMB
+selon que	selon que	CONJS													UNAMB
+si bien qu’	si bien que	CONJS													UNAMB
+si bien qu'	si bien que	CONJS													UNAMB
+si bien que	si bien que	CONJS													UNAMB
+suivant qu’	suivant que	CONJS
+suivant qu'	suivant que	CONJS
+suivant que	suivant que	CONJS
+tandis qu’	tandis que	CONJS													UNAMB
+tandis qu'	tandis que	CONJS													UNAMB
+tandis que	tandis que	CONJS													UNAMB
+tant qu’	tant que	CONJS
+tant qu'	tant que	CONJS
+tant que	tant que	CONJS
+tout comme s’	comme si	CONJS													UNAMB
+tout comme s'	comme si	CONJS													UNAMB
+tout comme si	comme si	CONJS													UNAMB
+tout comme	comme	CONJS
+vu qu’	vu que	CONJS
+vu qu'	vu que	CONJS
+vu que	vu que	CONJS
+zéro	zéro	NUM		s
+deux	deux	NUM
+trois	trois	NUM
+quatre	quatre	NUM
+cinq	cinq	NUM
+six	six	NUM
+sept	sept	NUM
+huit	huit	NUM
+neuf	neuf	NUM
+dix	dix	NUM
+onze	onze	NUM
+douze	douze	NUM
+treize	treize	NUM
+quatorze	quatorze	NUM
+quinze	quinze	NUM
+seize	seize	NUM
+dix=sept	dix-sept	NUM													UNAMB
+dix=huit	dix-huit	NUM													UNAMB
+dix=neuf	dix-neuf	NUM													UNAMB
+vingt	vingt	NUM
+vingt=et=un	vingt et un	NUM	m												UNAMB
+vingt=et=une	vingt et un	NUM	f												UNAMB
+vingt=deux	vingt-deux	NUM													UNAMB
+vingt=trois	vingt-trois	NUM													UNAMB
+vingt=quatre	vingt-quatre	NUM													UNAMB
+vingt=cinq	vingt-cinq	NUM													UNAMB
+vingt=six	vingt-six	NUM													UNAMB
+vingt=sept	vingt-sept	NUM													UNAMB
+vingt=huit	vingt-huit	NUM													UNAMB
+vingt=neuf	vingt-neuf	NUM													UNAMB
+trente	trente	NUM
+trente=et=un	trente et un	NUM	m												UNAMB
+trente=et=une	trente et un	NUM	f												UNAMB
+trente=deux	trente-deux	NUM													UNAMB
+trente=trois	trente-trois	NUM													UNAMB
+trente=quatre	trente-quatre	NUM													UNAMB
+trente=cinq	trente-cinq	NUM													UNAMB
+trente=six	trente-six	NUM													UNAMB
+trente=sept	trente-sept	NUM													UNAMB
+trente=huit	trente-huit	NUM													UNAMB
+trente=neuf	trente-neuf	NUM													UNAMB
+quarante	quarante	NUM
+quarante=et=un	quarante et un	NUM	m												UNAMB
+quarante=et=une	quarante et un	NUM	f												UNAMB
+quarante=deux	quarante-deux	NUM													UNAMB
+quarante=trois	quarante-trois	NUM													UNAMB
+quarante=quatre	quarante-quatre	NUM													UNAMB
+quarante=cinq	quarante-cinq	NUM													UNAMB
+quarante=six	quarante-six	NUM													UNAMB
+quarante=sept	quarante-sept	NUM													UNAMB
+quarante=huit	quarante-huit	NUM													UNAMB
+quarante=neuf	quarante-neuf	NUM													UNAMB
+cinquante	cinquante	NUM
+cinquante=et=un	cinquante et un	NUM	m												UNAMB
+cinquante=et=une	cinquante et un	NUM	f												UNAMB
+cinquante=deux	cinquante-deux	NUM													UNAMB
+cinquante=trois	cinquante-trois	NUM													UNAMB
+cinquante=quatre	cinquante-quatre	NUM													UNAMB
+cinquante=cinq	cinquante-cinq	NUM													UNAMB
+cinquante=six	cinquante-six	NUM													UNAMB
+cinquante=sept	cinquante-sept	NUM													UNAMB
+cinquante=huit	cinquante-huit	NUM													UNAMB
+cinquante=neuf	cinquante-neuf	NUM													UNAMB
+soixante	soixante	NUM
+soixante=et=un	soixante et un	NUM	m												UNAMB
+soixante=et=une	soixante et un	NUM	f												UNAMB
+soixante=deux	soixante-deux	NUM													UNAMB
+soixante=trois	soixante-trois	NUM													UNAMB
+soixante=quatre	soixante-quatre	NUM													UNAMB
+soixante=cinq	soixante-cinq	NUM													UNAMB
+soixante=six	soixante-six	NUM													UNAMB
+soixante=sept	soixante-sept	NUM													UNAMB
+soixante=huit	soixante-huit	NUM													UNAMB
+soixante=neuf	soixante-neuf	NUM													UNAMB
+soixante=dix	soixante-dix	NUM													UNAMB
+soixante=et=onze	soixante et onze	NUM													UNAMB
+soixante=douze	soixante-douze	NUM													UNAMB
+soixante=treize	soixante-treize	NUM													UNAMB
+soixante=quatorze	soixante-quatorze	NUM													UNAMB
+soixante=quinze	soixante-quinze	NUM													UNAMB
+soixante=seize	soixante-seize	NUM													UNAMB
+soixante-dix=sept	soixante-dix-sept	NUM													UNAMB
+soixante-dix=huit	soixante-dix-huit	NUM													UNAMB
+soixante-dix=neuf	soixante-dix-neuf	NUM													UNAMB
+septante=et=un	septante et un	NUM	m												UNAMB
+septante=et=une	septante et un	NUM	f												UNAMB
+septante=deux	septante-deux	NUM													UNAMB
+septante=trois	septante-trois	NUM													UNAMB
+septante=quatre	septante-quatre	NUM													UNAMB
+septante=cinq	septante-cinq	NUM													UNAMB
+septante=six	septante-six	NUM													UNAMB
+septante=sept	septante-sept	NUM													UNAMB
+septante=huit	septante-huit	NUM													UNAMB
+septante=neuf	septante-neuf	NUM													UNAMB
+quatre=vingt	quatre-vingt	NUM													UNAMB
+quatre=vingts	quatre-vingts	NUM													UNAMB
+quatre-vingt=un	quatre-vingt-un	NUM	m												UNAMB
+quatre-vingt=une	quatre-vingt-un	NUM	f												UNAMB
+quatre-vingt=deux	quatre-vingt-deux	NUM													UNAMB
+quatre-vingt=trois	quatre-vingt-trois	NUM													UNAMB
+quatre-vingt=quatre	quatre-vingt-quatre	NUM													UNAMB
+quatre-vingt=cinq	quatre-vingt-cinq	NUM													UNAMB
+quatre-vingt=six	quatre-vingt-six	NUM													UNAMB
+quatre-vingt=sept	quatre-vingt-sept	NUM													UNAMB
+quatre-vingt=huit	quatre-vingt-huit	NUM													UNAMB
+quatre-vingt=neuf	quatre-vingt-neuf	NUM													UNAMB
+huitante	huitante	NUM
+huitante=et=un	huitante et un	NUM	m												UNAMB
+huitante=et=une	huitante et un	NUM	f												UNAMB
+huitante=deux	huitante-deux	NUM													UNAMB
+huitante=trois	huitante-trois	NUM													UNAMB
+huitante=quatre	huitante-quatre	NUM													UNAMB
+huitante=cinq	huitante-cinq	NUM													UNAMB
+huitante=six	huitante-six	NUM													UNAMB
+huitante=sept	huitante-sept	NUM													UNAMB
+huitante=huit	huitante-huit	NUM													UNAMB
+huitante=neuf	huitante-neuf	NUM													UNAMB
+octante	octante	NUM
+octante=et=un	octante et un	NUM	m												UNAMB
+octante=et=une	octante et un	NUM	f												UNAMB
+octante=deux	octante-deux	NUM													UNAMB
+octante=trois	octante-trois	NUM													UNAMB
+octante=quatre	octante-quatre	NUM													UNAMB
+octante=cinq	octante-cinq	NUM													UNAMB
+octante=six	octante-six	NUM													UNAMB
+octante=sept	octante-sept	NUM													UNAMB
+octante=huit	octante-huit	NUM													UNAMB
+octante=neuf	octante-neuf	NUM													UNAMB
+quatre-vingt=dix	quatre-vingt-dix	NUM													UNAMB
+quatre-vingt=onze	quatre-vingt-onze	NUM													UNAMB
+quatre-vingt=douze	quatre-vingt-douze	NUM													UNAMB
+quatre-vingt=treize	quatre-vingt-treize	NUM													UNAMB
+quatre-vingt=quatorze	quatre-vingt-quatorze	NUM													UNAMB
+quatre-vingt=quinze	quatre-vingt-quinze	NUM													UNAMB
+quatre-vingt=seize	quatre-vingt-seize	NUM													UNAMB
+quatre-vingt-dix=sept	quatre-vingt-dix-sept	NUM													UNAMB
+quatre-vingt-dix=huit	quatre-vingt-dix-huit	NUM													UNAMB
+quatre-vingt-dix=neuf	quatre-vingt-dix-neuf	NUM													UNAMB
+nonante	nonante	NUM
+nonante=et=un	nonante et un	NUM	m												UNAMB
+nonante=et=une	nonante et un	NUM	f												UNAMB
+nonante=deux	nonante-deux	NUM													UNAMB
+nonante=trois	nonante-trois	NUM													UNAMB
+nonante=quatre	nonante-quatre	NUM													UNAMB
+nonante=cinq	nonante-cinq	NUM													UNAMB
+nonante=six	nonante-six	NUM													UNAMB
+nonante=sept	nonante-sept	NUM													UNAMB
+nonante=huit	nonante-huit	NUM													UNAMB
+nonante=neuf	nonante-neuf	NUM													UNAMB
+six=vingt	six-vingt	NUM													UNAMB
+six=vingts	six-vingt	NUM													UNAMB
+cent	cent	NUM
+cents	cents	NUM
+mille	mille	NUM
+de l'ordre de	<de><de l'ordre de>	<PREP><ADV>					pnum
+de l’ordre de	<de><de l'ordre de>	<PREP><ADV>					pnum
+adieu	adieu	INTJ
+ah	ah	INTJ
+aïe	aïe	INTJ
+alleluia	alleluia	INTJ
+allo	allo	INTJ
+allô	allô	INTJ
+amen	amen	INTJ
+badaboum	badaboum	INTJ
+bah	bah	INTJ
+basta	basta	INTJ
+bernique	bernique	INTJ
+bof	bof	INTJ
+bon	bon	INTJ
+caramba	caramba	INTJ
+chut	chut	INTJ
+ciao	ciao	INTJ
+corbleu	corbleu	INTJ
+crénom	crénom	INTJ
+cristi	cristi	INTJ
+da	da	INTJ
+dia	dia	INTJ
+diantre	diantre	INTJ
+eh	eh	INTJ
+euh	euh	INTJ
+eurêka	eurêka	INTJ
+évoé	évoé	INTJ
+évohé	évohé	INTJ
+fi	fi	INTJ
+fichtre	fichtre	INTJ
+fouchtra	fouchtra	INTJ
+gai	gai	INTJ
+ha	ha	INTJ
+han	han	INTJ
+haro	haro	INTJ
+hein	hein	INTJ
+hélas	hélas	INTJ
+hello	hello	INTJ
+hem	hem	INTJ
+hep	hep	INTJ
+hi	hi	INTJ
+hip	hip	INTJ
+ho	ho	INTJ
+holà	holà	INTJ
+hop	hop	INTJ
+hou	hou	INTJ
+houp	houp	INTJ
+hourra	hourra	INTJ
+hue	hue	INTJ
+hum	hum	INTJ
+hurrah	hurrah	INTJ
+kss	kss	INTJ
+merci	merci	INTJ
+morbleu	morbleu	INTJ
+mordieu	mordieu	INTJ
+morgué	morgué	INTJ
+morguenne	morguenne	INTJ
+motus	motus	INTJ
+na	na	INTJ
+non	non	INTJ
+ô	ô	INTJ
+oh	oh	INTJ
+ohé	ohé	INTJ
+olé	olé	INTJ
+ouf	ouf	INTJ
+oui	oui	INTJ
+ouille	ouille	INTJ
+oust	oust	INTJ
+ouste	ouste	INTJ
+palsambleu	palsambleu	INTJ
+parbleu	parbleu	INTJ
+pardi	pardi	INTJ
+pardieu	pardieu	INTJ
+patatra	patatra	INTJ
+patatras	patatras	INTJ
+pécaïre	pécaïre	INTJ
+pechère	pechère	INTJ
+peuchère	peuchère	INTJ
+peuh	peuh	INTJ
+plouf	plouf	INTJ
+pouah	pouah	INTJ
+raca	raca	INTJ
+rebelote	rebelote	INTJ
+sacrebleu	sacrebleu	INTJ
+sacredieu	sacredieu	INTJ
+sacristi	sacristi	INTJ
+saperlipopette	saperlipopette	INTJ
+saperlotte	saperlotte	INTJ
+saprelotte	saprelotte	INTJ
+sapristi	sapristi	INTJ
+scrogneugneu	scrogneugneu	INTJ
+soit	soit	INTJ
+stop	stop	INTJ
+taïaut	taïaut	INTJ
+taratata	taratata	INTJ
+tchao	tchao	INTJ
+tope	tope	INTJ
+tralala	tralala	INTJ
+tudieu	tudieu	INTJ
+turlututu	turlututu	INTJ
+va	va	INTJ
+ventrebleu	ventrebleu	INTJ
+vertubleu	vertubleu	INTJ
+vertuchou	vertuchou	INTJ
+vertudieu	vertudieu	INTJ
+vivat	vivat	INTJ
+vlan	vlan	INTJ
+zut	zut	INTJ
+adieu=va	à dieu vat	INTJ													UNAMB
+adieu=vat	à dieu vat	INTJ													UNAMB
+à=dieu=vat	à dieu vat	INTJ													UNAMB
+clic_clac	clic-clac	INTJ													UNAMB
+coin_coin	coin-coin	INTJ													UNAMB
+coui_coui	coui-coui	INTJ													UNAMB
+cric_crac	cric-crac	INTJ													UNAMB
+cui_cui	cui-cui	INTJ													UNAMB
+flic_flac	flic-flac	INTJ													UNAMB
+glou_glou	glou-glou	INTJ													UNAMB
+gouzi_gouzi	gouzi-gouzi	INTJ													UNAMB
+guili_guili	guili-guili	INTJ													UNAMB
+hi_han	hi-han	INTJ													UNAMB
+miam_miam	miam-miam	INTJ													UNAMB
+pin_pon	pin-pon	INTJ													UNAMB
+plac_ploc	plac-ploc	INTJ													UNAMB
+plait-il	plait-il	INTJ								Rec					UNAMB
+plaît-il	plait-il	INTJ								Opt					UNAMB
+ploc_plac	ploc-plac	INTJ													UNAMB
+tchin_tchin	tchin-tchin	INTJ													UNAMB
+teuf_teuf	teuf-teuf	INTJ													UNAMB
+tic_tac	tic-tac	INTJ													UNAMB
+tsoin_tsoin	tsoin-tsoin	INTJ													UNAMB
+tss_tss	tss-tss	INTJ													UNAMB
+tutu_panpan	tutu-panpan	INTJ													UNAMB
+tête=dieu	tête-dieu	INTJ													UNAMB
+ventre=saint=gris	ventre-saint-gris	INTJ													UNAMB
+deo=gratias	deo gratias	INTJ									la				UNAMB
+vade=retro	vade retro	INTJ									la				UNAMB
+au gué	ô gué	INTJ													UNAMB
+macach bono	macache bono	INTJ									ar				UNAMB
+macache bono	macache bono	INTJ									ar				UNAMB
+n'est-ce pas	n'est-ce pas	INTJ
+n’est-ce pas	n'est-ce pas	INTJ
+ô gué	ô gué	INTJ													UNAMB
+s'il-te-plait	s'il te plait	INTJ								Rec					UNAMB
+s’il-te-plait	s'il te plait	INTJ								Rec					UNAMB
+s'il te plait	s'il te plait	INTJ								Rec
+s’il te plait	s'il te plait	INTJ								Rec
+s'il te plaît	s'il te plait	INTJ								Opt
+s’il te plaît	s'il te plait	INTJ								Opt
+s'il-vous-plait	s'il vous plait	INTJ								Rec					UNAMB
+s’il-vous-plait	s'il vous plait	INTJ								Rec					UNAMB
+s'il vous plait	s'il vous plait	INTJ								Rec
+s’il vous plait	s'il vous plait	INTJ								Rec
+s'il vous plaît	s'il vous plait	INTJ								Opt
+s’il vous plaît	s'il vous plait	INTJ								Opt
+eh bien	eh bien	INTJ													UNAMB
+nom de dieu	nom de dieu	INTJ
+a	a	PFX
+ab	ab	PFX
+abdomino	abdomino	PFX
+abiéto	abiéto	PFX
+académico	académico	PFX
+acéto	acéto	PFX
+acétoxy	acétoxy	PFX
+acétyl	acétyl	PFX
+achromo	achromo	PFX
+acido	acido	PFX
+acoustico	acoustico	PFX
+acro	acro	PFX
+acrobatico	acrobatico	PFX
+acromio	acromio	PFX
+acry	acry	PFX
+acryl	acryl	PFX
+acti	acti	PFX
+actino	actino	PFX
+acuti	acuti	PFX
+ad	ad	PFX
+adélo	adélo	PFX
+adéno	adéno	PFX
+adiabatico	adiabatico	PFX
+adipo	adipo	PFX
+adiposo	adiposo	PFX
+administrativo	administrativo	PFX
+adréno	adréno	PFX
+aelo	aelo	PFX
+aepy	aepy	PFX
+aéro	aéro	PFX
+agatho	agatho	PFX
+agro	agro	PFX
+aiolo	aiolo	PFX
+albumino	albumino	PFX
+alcalino	alcalino	PFX
+alcalo	alcalo	PFX
+alco	alco	PFX
+alcoolo	alcoolo	PFX
+alcoyl	alcoyl	PFX
+algébro	algébro	PFX
+algorithmico	algorithmico	PFX
+ali	ali	PFX
+allergico	allergico	PFX
+allo	allo	PFX
+allotrio	allotrio	PFX
+alphabético	alphabético	PFX
+alti	alti	PFX
+aluminico	aluminico	PFX
+alumino	alumino	PFX
+alvéolo	alvéolo	PFX
+ambi	ambi	PFX
+amblyo	amblyo	PFX
+ambo	ambo	PFX
+amino	amino	PFX
+aminoazo	aminoazo	PFX
+amito	amito	PFX
+ammoniaco	ammoniaco	PFX
+ammonio	ammonio	PFX
+amnio	amnio	PFX
+amphé	amphé	PFX
+amphi	amphi	PFX
+ampho	ampho	PFX
+amplexi	amplexi	PFX
+an	an	PFX
+ana	ana	PFX
+analytico	analytico	PFX
+anarcho	anarcho	PFX
+anatomo	anatomo	PFX
+ancylo	ancylo	PFX
+andro	andro	PFX
+angio	angio	PFX
+angusti	angusti	PFX
+anhydro	anhydro	PFX
+anilino	anilino	PFX
+animo	animo	PFX
+aniso	aniso	PFX
+ano	ano	PFX
+anomalo	anomalo	PFX
+anté	anté	PFX
+antéro	antéro	PFX
+anthropo	anthropo	PFX
+anti	anti	PFX
+antiglyco	antiglyco	PFX
+anxio	anxio	PFX
+aphani	aphani	PFX
+aphaso	aphaso	PFX
+apico	apico	PFX
+apo	apo	PFX
+aqua	aqua	PFX
+aralo	aralo	PFX
+archéo	archéo	PFX
+archi	archi	PFX
+aréo	aréo	PFX
+argento	argento	PFX
+argilo	argilo	PFX
+argio	argio	PFX
+argyro	argyro	PFX
+aristo	aristo	PFX
+arithmo	arithmo	PFX
+arménio	arménio	PFX
+aromatico	aromatico	PFX
+arrière	arrière	PFX
+arsénico	arsénico	PFX
+arsinico	arsinico	PFX
+arsonico	arsonico	PFX
+artério	artério	PFX
+arthro	arthro	PFX
+artio	artio	PFX
+artistico	artistico	PFX
+aryl	aryl	PFX
+ascético	ascético	PFX
+ascitico	ascitico	PFX
+ascorbico	ascorbico	PFX
+aseptico	aseptico	PFX
+asiatico	asiatico	PFX
+astragalo	astragalo	PFX
+astro	astro	PFX
+athro	athro	PFX
+atlantico	atlantico	PFX
+atomico	atomico	PFX
+atrio	atrio	PFX
+atto	atto	PFX
+audi	audi	PFX
+audio	audio	PFX
+auriculo	auriculo	PFX
+auro	auro	PFX
+autistico	autistico	PFX
+auto	auto	PFX							pv
+avio	avio	PFX
+aviso	aviso	PFX
+azoto	azoto	PFX
+bacho	bacho	PFX
+bacillo	bacillo	PFX
+baco	baco	PFX
+bactério	bactério	PFX
+balistico	balistico	PFX
+balkano	balkano	PFX
+balto	balto	PFX
+baro	baro	PFX
+bary	bary	PFX
+basalto	basalto	PFX
+basi	basi	PFX
+basico	basico	PFX
+basio	basio	PFX
+bathy	bathy	PFX
+batracho	batracho	PFX
+bentho	bentho	PFX
+benzo	benzo	PFX
+berbéro	berbéro	PFX
+bi	bi	PFX
+biblico	biblico	PFX
+biblio	biblio	PFX
+biélo	biélo	PFX
+bilio	bilio	PFX
+bini	bini	PFX
+bio	bio	PFX
+bis	bis	PFX
+blépharo	blépharo	PFX
+brachio	brachio	PFX
+brachy	brachy	PFX
+brady	brady	PFX
+brévi	brévi	PFX
+bronchio	bronchio	PFX
+bronchiolo	bronchiolo	PFX
+broncho	broncho	PFX
+bucco	bucco	PFX
+bulbo	bulbo	PFX
+câblo	câblo	PFX
+caco	caco	PFX
+cæco	caeco	PFX
+caeco	caeco	PFX
+calci	calci	PFX
+calcio	calcio	PFX
+calculo	calculo	PFX
+calli	calli	PFX
+calo	calo	PFX
+calorico	calorico	PFX
+calverio	calverio	PFX
+calypto	calypto	PFX
+campto	campto	PFX
+campylo	campylo	PFX
+cancéro	cancéro	PFX
+carbamyl	carbamyl	PFX
+carbo	carbo	PFX
+carboxy	carboxy	PFX
+cardi	cardi	PFX
+cardio	cardio	PFX
+carto	carto	PFX
+caryo	caryo	PFX
+cata	cata	PFX
+catalepto	catalepto	PFX
+cato	cato	PFX
+caudo	caudo	PFX
+cellulo	cellulo	PFX
+celtico	celtico	PFX
+céno	céno	PFX
+centi	centi	PFX
+centro	centro	PFX
+céphalo	céphalo	PFX
+céramico	céramico	PFX
+cérébello	cérébello	PFX
+cérébro	cérébro	PFX
+céroïdo	céroïdo	PFX
+céruléo	céruléo	PFX
+cervici	cervici	PFX
+cervico	cervico	PFX
+céto	céto	PFX
+chalco	chalco	PFX
+chamae	chamae	PFX
+chamito	chamito	PFX
+cheilo	cheilo	PFX
+cheiro	cheiro	PFX
+chemo	chemo	PFX
+chéto	chéto	PFX
+chilo	chilo	PFX
+chimico	chimico	PFX
+chimio	chimio	PFX
+chiro	chiro	PFX
+chloro	chloro	PFX
+cholangio	cholangio	PFX
+cholécysto	cholécysto	PFX
+cholédocho	cholédocho	PFX
+cholédoco	cholédoco	PFX
+chondro	chondro	PFX
+choréo	choréo	PFX
+chori	chori	PFX
+chorio	chorio	PFX
+choro	choro	PFX
+christo	christo	PFX
+chromato	chromato	PFX
+chromo	chromo	PFX
+chromohémo	chromohémo	PFX
+chrono	chrono	PFX
+chryso	chryso	PFX
+cilio	cilio	PFX
+ciné	ciné	PFX
+cinématico	cinématico	PFX
+cinémato	cinémato	PFX
+circa	circa	PFX
+circon	circon	PFX
+circum	circum	PFX
+cirrho	cirrho	PFX
+cis	cis	PFX
+citra	citra	PFX
+classico	classico	PFX
+claustro	claustro	PFX
+cléido	cléido	PFX
+cleisto	cleisto	PFX
+climato	climato	PFX
+clinico	clinico	PFX
+clino	clino	PFX
+co	co	PFX							pv
+cobalto	cobalto	PFX
+cocaïno	cocaïno	PFX
+coccy	coccy	PFX
+coccygio	coccygio	PFX
+coccygo	coccygo	PFX
+cochléo	cochléo	PFX
+cœco	coeco	PFX
+coeco	coeco	PFX
+coli	coli	PFX
+colo	colo	PFX
+colpo	colpo	PFX
+comico	comico	PFX
+compso	compso	PFX
+consisto	consisto	PFX
+contra	contra	PFX
+contre	contre	PFX							pv
+contro	contro	PFX
+coraco	coraco	PFX
+corono	corono	PFX
+corso	corso	PFX
+cortico	cortico	PFX
+cosméto	cosméto	PFX
+cosmi	cosmi	PFX
+cosmo	cosmo	PFX
+costo	costo	PFX
+coxo	coxo	PFX
+cranio	cranio	PFX
+crassi	crassi	PFX
+crétino	crétino	PFX
+crico	crico	PFX
+crio	crio	PFX
+cristallo	cristallo	PFX
+critico	critico	PFX
+cruro	cruro	PFX
+cryo	cryo	PFX
+cryophako	cryophako	PFX
+crypto	crypto	PFX
+cubico	cubico	PFX
+cubito	cubito	PFX
+cumulo	cumulo	PFX
+cunéo	cunéo	PFX
+cupro	cupro	PFX
+cutanéo	cutanéo	PFX
+cyano	cyano	PFX
+cyber	cyber	PFX
+cyclo	cyclo	PFX
+cylindrico	cylindrico	PFX
+cylindro	cylindro	PFX
+cystadéno	cystadéno	PFX
+cysto	cysto	PFX
+cyto	cyto	PFX
+dacryo	dacryo	PFX
+dacryocysto	dacryocysto	PFX
+dactylo	dactylo	PFX
+dasy	dasy	PFX
+dé	dé	PFX							pv
+déca	déca	PFX
+décarboxy	décarboxy	PFX
+déci	déci	PFX
+décim	décim	PFX
+déférento	déférento	PFX
+dégastro	dégastro	PFX
+déhydro	déhydro	PFX
+démago	démago	PFX
+demi	demi	PFX
+démo	démo	PFX
+dendro	dendro	PFX
+densi	densi	PFX
+dento	dento	PFX
+déoxy	déoxy	PFX
+dermato	dermato	PFX
+dermo	dermo	PFX
+désertico	désertico	PFX
+désoxy	désoxy	PFX
+deutéro	deutéro	PFX
+deuto	deuto	PFX
+dextro	dextro	PFX
+di	di	PFX
+dia	dia	PFX
+diabéto	diabéto	PFX
+diabolico	diabolico	PFX
+dialecto	dialecto	PFX
+diathermo	diathermo	PFX
+dichloro	dichloro	PFX
+dicho	dicho	PFX
+dichro	dichro	PFX
+dicrano	dicrano	PFX
+diélectro	diélectro	PFX
+diencéphalo	diencéphalo	PFX
+diiodo	diiodo	PFX
+diméthyl	diméthyl	PFX
+diphényl	diphényl	PFX
+diphtérino	diphtérino	PFX
+diphyo	diphyo	PFX
+diplo	diplo	PFX
+diplomatico	diplomatico	PFX
+disco	disco	PFX
+dodéca	dodéca	PFX
+dolicho	dolicho	PFX
+domestico	domestico	PFX
+dorso	dorso	PFX
+dramatico	dramatico	PFX
+duo	duo	PFX
+duodéno	duodéno	PFX
+duplici	duplici	PFX
+dynamo	dynamo	PFX
+dys	dys	PFX
+dyscéphalo	dyscéphalo	PFX
+dyscranio	dyscranio	PFX
+ébullio	ébullio	PFX
+ecclésio	ecclésio	PFX
+écho	écho	PFX
+éclectico	éclectico	PFX
+éco	éco	PFX
+écologico	écologico	PFX
+économico	économico	PFX
+ecto	ecto	PFX
+ectro	ectro	PFX
+égo	égo	PFX
+élachi	élachi	PFX
+élasto	élasto	PFX
+électro	électro	PFX
+éleuthéro	éleuthéro	PFX
+ellipto	ellipto	PFX
+élytro	élytro	PFX
+embryo	embryo	PFX
+éméto	éméto	PFX
+empirico	empirico	PFX
+énarcho	énarcho	PFX
+encéphalo	encéphalo	PFX
+encyclo	encyclo	PFX
+endémo	endémo	PFX
+endo	endo	PFX
+endocrino	endocrino	PFX
+endothélio	endothélio	PFX
+énéo	énéo	PFX
+énergético	énergético	PFX
+énigmatico	énigmatico	PFX
+ennéa	ennéa	PFX
+entélo	entélo	PFX
+entéro	entéro	PFX
+ento	ento	PFX
+entre	entre	PFX							pv
+enzymo	enzymo	PFX
+épendymo	épendymo	PFX
+épi	épi	PFX
+épicardo	épicardo	PFX
+épidermo	épidermo	PFX
+épiphyso	épiphyso	PFX
+épistémo	épistémo	PFX
+équi	équi	PFX
+ergo	ergo	PFX
+érotico	érotico	PFX
+érythémato	érythémato	PFX
+érytho	érytho	PFX
+érythro	érythro	PFX
+esthésio	esthésio	PFX
+esthético	esthético	PFX
+étatico	étatico	PFX
+éthico	éthico	PFX
+ethmoïdo	ethmoïdo	PFX
+ethno	ethno	PFX
+éthy	éthy	PFX
+éthyl	éthyl	PFX
+étio	étio	PFX
+étrusco	étrusco	PFX
+étymo	étymo	PFX
+eu	eu	PFX
+eucharistico	eucharistico	PFX
+eupho	eupho	PFX
+eury	eury	PFX
+euskaro	euskaro	PFX
+évangélico	évangélico	PFX
+ex	ex	PFX
+exa	exa	PFX
+excentro	excentro	PFX
+excito	excito	PFX
+exo	exo	PFX
+exsanguino	exsanguino	PFX
+extéro	extéro	PFX
+extra	extra	PFX
+extro	extro	PFX
+fantastico	fantastico	PFX
+fémoro	fémoro	PFX
+femto	femto	PFX
+ferri	ferri	PFX
+ferro	ferro	PFX
+fibrillo	fibrillo	PFX
+fibro	fibro	PFX
+filmo	filmo	PFX
+fissi	fissi	PFX
+fistulo	fistulo	PFX
+flasco	flasco	PFX
+flavo	flavo	PFX
+flexo	flexo	PFX
+fluo	fluo	PFX
+fluvio	fluvio	PFX
+fœto	foeto	PFX
+foeto	foeto	PFX
+folklo	folklo	PFX
+folliculo	folliculo	PFX
+fors	fors	PFX
+fracto	fracto	PFX
+frigo	frigo	PFX
+fronto	fronto	PFX
+fulmi	fulmi	PFX
+fusi	fusi	PFX
+fuso	fuso	PFX
+futuro	futuro	PFX
+gaba	gaba	PFX
+gaélico	gaélico	PFX
+galactico	galactico	PFX
+galacto	galacto	PFX
+gallo	gallo	PFX
+galvano	galvano	PFX
+gammaglobulino	gammaglobulino	PFX
+gamo	gamo	PFX
+gampso	gampso	PFX
+gastro	gastro	PFX
+gazo	gazo	PFX
+gélatino	gélatino	PFX
+géniculo	géniculo	PFX
+génio	génio	PFX
+génito	génito	PFX
+géno	géno	PFX
+géo	géo	PFX
+géorgeo	géorgeo	PFX
+géronto	géronto	PFX
+giga	giga	PFX
+giganto	giganto	PFX
+gingivo	gingivo	PFX
+glauco	glauco	PFX
+glio	glio	PFX
+glischro	glischro	PFX
+glomérulo	glomérulo	PFX
+glosso	glosso	PFX
+glucido	glucido	PFX
+gluco	gluco	PFX
+glutamo	glutamo	PFX
+glutamyl	glutamyl	PFX
+glutaryl	glutaryl	PFX
+glycéro	glycéro	PFX
+glyco	glyco	PFX
+glycuro	glycuro	PFX
+gnatho	gnatho	PFX
+gonado	gonado	PFX
+gothico	gothico	PFX
+granulo	granulo	PFX
+grapho	grapho	PFX
+grippo	grippo	PFX
+gymno	gymno	PFX
+gynéco	gynéco	PFX
+gyno	gyno	PFX
+gyro	gyro	PFX
+habro	habro	PFX
+hadro	hadro	PFX
+hagio	hagio	PFX
+haplo	haplo	PFX
+harmo	harmo	PFX
+harpo	harpo	PFX
+hébéphréno	hébéphréno	PFX
+hécato	hécato	PFX
+hecto	hecto	PFX
+hecto	hecto	PFX
+hélio	hélio	PFX
+hémangio	hémangio	PFX
+hématangio	hématangio	PFX
+hémato	hémato	PFX
+hémi	hémi	PFX
+hémo	hémo	PFX
+hémogéno	hémogéno	PFX
+hémohistioblasto	hémohistioblasto	PFX
+hémorragico	hémorragico	PFX
+hendéca	hendéca	PFX
+hépatico	hépatico	PFX
+hépato	hépato	PFX
+hépatocholangio	hépatocholangio	PFX
+hépatocyto	hépatocyto	PFX
+hepta	hepta	PFX
+herco	herco	PFX
+hérédo	hérédo	PFX
+hérético	hérético	PFX
+héroï	héroï	PFX
+herpo	herpo	PFX
+hétéro	hétéro	PFX
+heuristico	heuristico	PFX
+hexa	hexa	PFX
+hippo	hippo	PFX
+hispanico	hispanico	PFX														"Espagne"	Gent
+hista	hista	PFX
+histio	histio	PFX
+histioblasto	histioblasto	PFX
+histo	histo	PFX
+historico	historico	PFX
+hitléro	hitléro	PFX
+holo	holo	PFX
+homalo	homalo	PFX
+homéo	homéo	PFX								Rec
+homo	homo	PFX
+homœo	homéo	PFX								Opt
+homoeo	homéo	PFX								Opt
+hormono	hormono	PFX
+horo	horo	PFX
+hospitalo	hospitalo	PFX
+huméro	huméro	PFX
+humoristico	humoristico	PFX
+huro	huro	PFX
+hydra	hydra	PFX
+hydro	hydro	PFX
+hydroxi	hydroxi	PFX
+hydroxy	hydroxy	PFX
+hygiéno	hygiéno	PFX
+hygro	hygro	PFX
+hyo	hyo	PFX
+hyper	hyper	PFX
+hyper-hyper	hyper-hyper	PFX													UNAMB
+hyperleucino	hyperleucino	PFX
+hyperorgano	hyperorgano	PFX
+hypno	hypno	PFX
+hypo	hypo	PFX
+hypophyso	hypophyso	PFX
+hypothalamo	hypothalamo	PFX
+hypothético	hypothético	PFX
+hypsi	hypsi	PFX
+hystérico	hystérico	PFX
+hystéro	hystéro	PFX
+iatro	iatro	PFX
+ibérico	ibérico	PFX
+ibéro	ibéro	PFX
+icono	icono	PFX
+icosa	icosa	PFX
+ictero	ictéro	PFX
+ictéro	ictéro	PFX
+idéo	idéo	PFX
+idio	idio	PFX
+iléo	iléo	PFX
+ilio	ilio	PFX
+immuno	immuno	PFX
+immunocyto	immunocyto	PFX
+impari	impari	PFX
+in	in	PFX
+infantilo	infantilo	PFX
+infanto	infanto	PFX
+informatico	informatico	PFX
+infra	infra	PFX
+infundibulo	infundibulo	PFX
+inguino	inguino	PFX
+insulino	insulino	PFX
+intellectualo	intellectualo	PFX
+intello	intello	PFX
+inter	inter	PFX
+intéro	intéro	PFX
+interro	interro	PFX
+intestino	intestino	PFX
+intra	intra	PFX
+intro	intro	PFX
+iodo	iodo	PFX
+ipsi	ipsi	PFX
+irido	irido	PFX
+ischio	ischio	PFX
+ischno	ischno	PFX
+islamo	islamo	PFX
+iso	iso	PFX
+isoleuco	isoleuco	PFX
+isothrombo	isothrombo	PFX
+italico	italico	PFX
+ithy	ithy	PFX
+jantho	jantho	PFX
+jazzistico	jazzistico	PFX
+jéjuno	jéjuno	PFX
+journalistico	journalistico	PFX
+judéo	judéo	PFX															Gent
+juridico	juridico	PFX
+juxta	juxta	PFX
+kabbalistico	kabbalistico	PFX
+kérato	kérato	PFX
+kérauno	kérauno	PFX
+kilo	kilo	PFX
+kilo	kilo	PFX
+kiné	kiné	PFX
+kysto	kysto	PFX
+labio	labio	PFX
+lacrymo	lacrymo	PFX
+lacto	lacto	PFX
+lamelli	lamelli	PFX
+lampro	lampro	PFX
+lanthano	lanthano	PFX
+laparo	laparo	PFX
+laryngo	laryngo	PFX
+lasio	lasio	PFX
+latéro	latéro	PFX
+lathro	lathro	PFX
+lati	lati	PFX
+latino	latino	PFX															Gent
+léio	léio	PFX
+lepto	lepto	PFX
+leuco	leuco	PFX
+lévi	lévi	PFX
+lévo	lévo	PFX
+lexico	lexico	PFX
+ligamento	ligamento	PFX
+linguistico	linguistico	PFX
+liparo	liparo	PFX
+lipido	lipido	PFX
+lipio	lipio	PFX
+lipo	lipo	PFX
+lipoïdo	lipoïdo	PFX
+lisso	lisso	PFX
+litho	litho	PFX
+lito	lito	PFX
+logico	logico	PFX
+logo	logo	PFX
+lombo	lombo	PFX
+longi	longi	PFX
+loxo	loxo	PFX
+luo	luo	PFX
+lupo	lupo	PFX
+lutéo	lutéo	PFX
+lybico	lybico	PFX
+lygo	lygo	PFX
+lympho	lympho	PFX
+lymphocyto	lymphocyto	PFX
+lyse	lyse	PFX
+lyso	lyso	PFX
+macédo	macédo	PFX
+macro	macro	PFX
+maculo	maculo	PFX
+magico	magico	PFX
+magnéto	magnéto	PFX
+malaco	malaco	PFX
+malayo	malayo	PFX
+mangano	mangano	PFX
+maniaco	maniaco	PFX
+manno	manno	PFX
+materno	materno	PFX
+mathématico	mathématico	PFX
+maxi	maxi	PFX
+maxillo	maxillo	PFX
+mécano	mécano	PFX
+méco	méco	PFX
+mécyno	mécyno	PFX
+média	média	PFX
+médiatico	médiatico	PFX
+médico	médico	PFX
+médio	médio	PFX
+médullo	médullo	PFX
+méga	méga	PFX
+mégadolicho	mégadolicho	PFX
+mégalo	mégalo	PFX
+méio	méio	PFX
+mélanophoro	mélanophoro	PFX
+méningo	méningo	PFX
+méningoradiculo	méningoradiculo	PFX
+méno	méno	PFX
+menu	menu	PFX
+méri	méri	PFX
+més	més	PFX
+méso	méso	PFX
+méta	méta	PFX
+métacarpo	métacarpo	PFX
+métallo	métallo	PFX
+météo	météo	PFX
+méthyl	méthyl	PFX
+méthylombelliferyl	méthylombelliferyl	PFX
+mi	mi	PFX
+micro	micro	PFX
+militaro	militaro	PFX
+milli	milli	PFX
+mini	mini	PFX
+mio	mio	PFX
+mono	mono	PFX
+monoïodo	monoïodo	PFX
+morpho	morpho	PFX
+moto	moto	PFX
+muco	muco	PFX
+mucoso	mucoso	PFX
+multi	multi	PFX
+musculo	musculo	PFX
+musico	musico	PFX
+myco	myco	PFX
+myélo	myélo	PFX
+mylo	mylo	PFX
+myria	myria	PFX
+mytho	mytho	PFX
+nævo	naevo	PFX
+naevo	naevo	PFX
+nano	nano	PFX
+nano	nano	PFX
+narco	narco	PFX
+naso	naso	PFX
+nécro	nécro	PFX
+négro	négro	PFX
+néo	néo	PFX
+néphro	néphro	PFX
+nervo	nervo	PFX
+neuro	neuro	PFX
+neurofibro	neurofibro	PFX
+nigro	nigro	PFX
+nilo	nilo	PFX
+nimbo	nimbo	PFX
+nitro	nitro	PFX
+nitroso	nitroso	PFX
+nivo	nivo	PFX
+nodo	nodo	PFX
+non	non	PFX
+nona	nona	PFX
+noo	noo	PFX
+normo	normo	PFX
+notho	notho	PFX
+nucléo	nucléo	PFX
+nudi	nudi	PFX
+occidentalo	occidentalo	PFX
+occipito	occipito	PFX
+océano	océano	PFX
+ochro	ochro	PFX
+octi	octi	PFX
+octo	octo	PFX
+oculo	oculo	PFX
+ocy	ocy	PFX
+odonto	odonto	PFX
+œso	oeso	PFX
+oeso	oeso	PFX
+œsophago	oesophago	PFX
+oesophago	oesophago	PFX
+œstro	oestro	PFX
+oestro	oestro	PFX
+oléo	oléo	PFX
+olfacto	olfacto	PFX
+oligo	oligo	PFX
+olivo	olivo	PFX
+olo	olo	PFX
+ombilico	ombilico	PFX
+omni	omni	PFX
+omphalo	omphalo	PFX
+oncho	oncho	PFX
+oniro	oniro	PFX
+onto	onto	PFX
+onycho	onycho	PFX
+oophoro	oophoro	PFX
+ophtalmo	ophtalmo	PFX
+opistho	opistho	PFX
+oppositi	oppositi	PFX
+optico	optico	PFX
+opto	opto	PFX
+orbi	orbi	PFX
+orchi	orchi	PFX
+organo	organo	PFX
+oro	oro	PFX
+oropharyngo	oropharyngo	PFX
+ortho	ortho	PFX
+osco	osco	PFX
+ostéo	ostéo	PFX
+oto	oto	PFX
+ouralo	ouralo	PFX
+ovalo	ovalo	PFX
+oxalo	oxalo	PFX
+oxy	oxy	PFX
+oxydo	oxydo	PFX
+oxygéno	oxygéno	PFX
+pachy	pachy	PFX
+pagano	pagano	PFX
+palato	palato	PFX
+paléo	paléo	PFX
+paléonto	paléonto	PFX
+palestino	palestino	PFX
+pali	pali	PFX
+palin	palin	PFX
+palmi	palmi	PFX
+pan	pan	PFX
+pancréatico	pancréatico	PFX
+pancréato	pancréato	PFX
+panto	panto	PFX
+papillo	papillo	PFX
+papulo	papulo	PFX
+para	para	PFX
+pari	pari	PFX
+parvi	parvi	PFX
+pathético	pathético	PFX
+patho	patho	PFX
+pauci	pauci	PFX
+pauro	pauro	PFX
+pectoro	pectoro	PFX
+pédago	pédago	PFX
+pelvi	pelvi	PFX
+pelvimétro	pelvimétro	PFX
+péné	péné	PFX
+pénicillino	pénicillino	PFX
+penta	penta	PFX
+per	per	PFX
+percuti	percuti	PFX
+péri	péri	PFX
+péricardo	péricardo	PFX
+périmétro	périmétro	PFX
+périnéo	périnéo	PFX
+périsso	périsso	PFX
+péritonéo	péritonéo	PFX
+péritubo	péritubo	PFX
+perkno	perkno	PFX
+permo	permo	PFX
+péronéo	péronéo	PFX
+pétro	pétro	PFX
+pétroléo	pétroléo	PFX
+phaco	phaco	PFX
+phako	phako	PFX
+phalaro	phalaro	PFX
+phallo	phallo	PFX
+pharmaco	pharmaco	PFX
+pharyngo	pharyngo	PFX
+phénico	phénico	PFX
+phéno	phéno	PFX
+phénoxy	phénoxy	PFX
+phényl	phényl	PFX
+phéo	phéo	PFX
+philosophico	philosophico	PFX
+phono	phono	PFX
+phospho	phospho	PFX
+photo	photo	PFX
+phréno	phréno	PFX
+phtalyl	phtalyl	PFX
+physico	physico	PFX
+physio	physio	PFX
+phyto	phyto	PFX
+pico	pico	PFX
+picto	picto	PFX
+piézo	piézo	PFX
+pilo	pilo	PFX
+pis	pis	PFX
+plani	plani	PFX
+plati	plati	PFX
+plato	plato	PFX
+platy	platy	PFX
+pléco	pléco	PFX
+plecto	plecto	PFX
+pléio	pléio	PFX
+pleisto	pleisto	PFX
+pléni	pléni	PFX
+pléo	pléo	PFX
+plésio	plésio	PFX
+pleuro	pleuro	PFX
+plio	plio	PFX
+pluri	pluri	PFX
+pluvio	pluvio	PFX
+pneumo	pneumo	PFX
+podo	podo	PFX
+poético	poético	PFX
+polio	polio	PFX
+politico	politico	PFX
+pollaki	pollaki	PFX
+poly	poly	PFX
+polyuro	polyuro	PFX
+ponto	ponto	PFX
+porto	porto	PFX
+post	post	PFX							pv
+postéro	postéro	PFX
+pragmato	pragmato	PFX
+pratico	pratico	PFX
+pré	pré	PFX							pv
+presby	presby	PFX
+primi	primi	PFX
+primo	primo	PFX
+pro	pro	PFX
+proprio	proprio	PFX
+proso	proso	PFX
+protéino	protéino	PFX
+protéro	protéro	PFX
+proti	proti	PFX
+proto	proto	PFX
+pseudo	pseudo	PFX
+psilo	psilo	PFX
+psycho	psycho	PFX
+pubio	pubio	PFX
+publi	publi	PFX
+publico	publico	PFX
+pubo	pubo	PFX
+pycno	pycno	PFX
+pyélo	pyélo	PFX
+pygo	pygo	PFX
+pyo	pyo	PFX
+pyridoxino	pyridoxino	PFX
+pyro	pyro	PFX
+pyrrho	pyrrho	PFX
+quadri	quadri	PFX
+quadro	quadro	PFX
+quasi	quasi	PFX							pv
+quinti	quinti	PFX
+radicalo	radicalo	PFX
+radiculo	radiculo	PFX
+radio	radio	PFX
+re	re	PFX							pv
+ré	re	PFX							pv
+recti	recti	PFX
+recto	recto	PFX
+réticulo	réticulo	PFX
+rétino	rétino	PFX
+rétro	rétro	PFX
+rhéo	rhéo	PFX
+rhéto	rhéto	PFX
+rhino	rhino	PFX
+romantico	romantico	PFX
+rubéo	rubéo	PFX
+ruber	ruber	PFX
+rubidi	rubidi	PFX
+rufi	rufi	PFX
+rythmo	rythmo	PFX
+sacro	sacro	PFX
+salpingo	salpingo	PFX
+sarco	sarco	PFX
+scaléno	scaléno	PFX
+scandinavo	scandinavo	PFX
+scapulo	scapulo	PFX
+scato	scato	PFX
+scéno	scéno	PFX
+schisto	schisto	PFX
+schizo	schizo	PFX
+scientifico	scientifico	PFX
+scissi	scissi	PFX
+scléro	scléro	PFX
+scoto	scoto	PFX
+séco	séco	PFX
+secondi	secondi	PFX
+secundi	secundi	PFX
+séismo	séismo	PFX
+sélénio	sélénio	PFX
+séléno	séléno	PFX
+self	self	PFX
+sémantico	sémantico	PFX
+séméiotico	séméiotico	PFX
+semi	semi	PFX
+sémio	sémio	PFX
+sémitico	sémitico	PFX
+sensitivo	sensitivo	PFX
+sensori	sensori	PFX
+sentimentalo	sentimentalo	PFX
+septim	septim	PFX
+séro	séro	PFX
+servo	servo	PFX
+sesqui	sesqui	PFX
+sexo	sexo	PFX
+sialo	sialo	PFX
+sigmoïdo	sigmoïdo	PFX
+silico	silico	PFX
+simili	simili	PFX
+sinistro	sinistro	PFX
+sinuso	sinuso	PFX
+sismo	sismo	PFX
+social	social	PFX
+socialo	socialo	PFX
+socio	socio	PFX
+soli	soli	PFX
+somato	somato	PFX
+sous	sous	PFX							pv
+spanio	spanio	PFX
+spatio	spatio	PFX
+spectro	spectro	PFX
+sphéno	sphéno	PFX
+spino	spino	PFX
+spléno	spléno	PFX
+sporo	sporo	PFX
+stamino	stamino	PFX
+staso	staso	PFX
+stato	stato	PFX
+staturo	staturo	PFX
+stégano	stégano	PFX
+sténo	sténo	PFX
+stéréo	stéréo	PFX
+sterno	sterno	PFX
+stibio	stibio	PFX
+stilbo	stilbo	PFX
+stomato	stomato	PFX
+strato	strato	PFX
+strepto	strepto	PFX
+strongylo	strongylo	PFX
+stropho	stropho	PFX
+structuralo	structuralo	PFX
+structuro	structuro	PFX
+stylo	stylo	PFX
+sub	sub	PFX
+subéro	subéro	PFX
+sulfo	sulfo	PFX
+suméro	suméro	PFX
+super	super	PFX
+supra	supra	PFX
+sur	sur	PFX							pv
+sus	sus	PFX
+sym	sym	PFX
+sympathico	sympathico	PFX
+syn	syn	PFX
+synapto	synapto	PFX
+syndicalo	syndicalo	PFX
+syntactico	syntactico	PFX
+syntaxico	syntaxico	PFX
+syringo	syringo	PFX
+tachéo	tachéo	PFX
+tachisto	tachisto	PFX
+tachy	tachy	PFX
+tany	tany	PFX
+tardi	tardi	PFX
+tarso	tarso	PFX
+tauto	tauto	PFX
+technico	technico	PFX
+techno	techno	PFX
+tegmento	tegmento	PFX
+télé	télé	PFX
+temno	temno	PFX
+temporo	temporo	PFX
+téno	téno	PFX
+ténonto	ténonto	PFX
+tensio	tensio	PFX
+tenui	tenui	PFX
+téphro	téphro	PFX
+téra	téra	PFX
+téra	téra	PFX
+termino	termino	PFX
+terni	terni	PFX
+tétarto	tétarto	PFX
+tétra	tétra	PFX
+tétrahydro	tétrahydro	PFX
+tétraïodo	tétraïodo	PFX
+thalamo	thalamo	PFX
+thalasso	thalasso	PFX
+théo	théo	PFX
+théologico	théologico	PFX
+thermo	thermo	PFX
+thio	thio	PFX
+thlipso	thlipso	PFX
+thoraco	thoraco	PFX
+thrombo	thrombo	PFX
+thrombocyto	thrombocyto	PFX
+thymo	thymo	PFX
+thyréo	thyréo	PFX
+thyro	thyro	PFX
+tibio	tibio	PFX
+titano	titano	PFX
+topo	topo	PFX
+toti	toti	PFX
+touristico	touristico	PFX
+toxi	toxi	PFX
+toxico	toxico	PFX
+toxo	toxo	PFX
+trachélo	trachélo	PFX
+trachéo	trachéo	PFX
+trachy	trachy	PFX
+tragi	tragi	PFX
+trans	trans	PFX
+trapézo	trapézo	PFX
+trépano	trépano	PFX
+tri	tri	PFX
+tribo	tribo	PFX
+tricho	tricho	PFX
+triiodo	triiodo	PFX
+triplo	triplo	PFX
+tris	tris	PFX
+trochantéro	trochantéro	PFX
+tuberculino	tuberculino	PFX
+tubéro	tubéro	PFX
+tubo	tubo	PFX
+tungsto	tungsto	PFX
+turbo	turbo	PFX
+tympano	tympano	PFX
+typhlo	typhlo	PFX
+typho	typho	PFX
+ulcéro	ulcéro	PFX
+ulo	ulo	PFX
+ultimo	ultimo	PFX
+ultra	ultra	PFX							pv
+unci	unci	PFX
+undecim	undecim	PFX
+uni	uni	PFX
+urano	urano	PFX
+uréo	uréo	PFX
+urétéro	urétéro	PFX
+urétro	urétro	PFX
+urico	urico	PFX
+uro	uro	PFX
+utéro	utéro	PFX
+uto	uto	PFX
+uveo	uvéo	PFX
+uvéo	uvéo	PFX
+valvulo	valvulo	PFX
+variolo	variolo	PFX
+vasculo	vasculo	PFX
+vaso	vaso	PFX
+veino	veino	PFX
+ventriculo	ventriculo	PFX
+verbo	verbo	PFX
+vertébro	vertébro	PFX
+vésico	vésico	PFX
+vésiculo	vésiculo	PFX
+vestibulo	vestibulo	PFX
+vice	vice	PFX
+vidéo	vidéo	PFX
+viro	viro	PFX
+visco	visco	PFX
+visio	visio	PFX
+vitréo	vitréo	PFX
+volcano	volcano	PFX
+vulvo	vulvo	PFX
+wirsungo	wirsungo	PFX
+xantho	xantho	PFX
+xéno	xéno	PFX
+xéro	xéro	PFX
+xipho	xipho	PFX
+xylo	xylo	PFX
+yotta	yotta	PFX
+zantho	zantho	PFX
+zetta	zetta	PFX
+zopho	zopho	PFX
+zygo	zygo	PFX
+zymo	zymo	PFX
+égypto	égypto	PFX														"Égypte"	Gent
+émirato	émirato	PFX														"Émirats arabes unis"	Gent
+émiro	émiro	PFX														"Émirats arabes unis"	Gent
+équato	équato	PFX														"Équateur"	Gent
+équatoguinéo	équatoguinéo	PFX														"Guinée équatoriale"	Gent
+équatorio	équatorio	PFX														"Équateur"	Gent
+érythréo	érythréo	PFX														"Érythrée"	Gent
+éthiopo	éthiopo	PFX														"Éthiopie"	Gent
+abyssino	abyssino	PFX														"Éthiopie"	Gent
+afghano	afghano	PFX														"Afghanistan"	Gent
+afro	afro	PFX														"Afrique"	Gent
+albano	albano	PFX														"Albanie"	Gent
+algéro	algéro	PFX														"Algérie"	Gent
+américano	américano	PFX														"Amérique"	Gent
+américano	américano	PFX														"USA"	Gent
+andorro	andorro	PFX														"Andorre"	Gent
+anglo	anglo	PFX														"Angleterre"	Gent
+angolo	angolo	PFX														"Angola"	Gent
+antiguo	antiguo	PFX														"Antigua-et-Barbuda"	Gent
+arabo	arabo	PFX														"Arabie"	Gent
+argentino	argentino	PFX														"Argentine"	Gent
+argento	argento	PFX														"Argentine"	Gent
+arméno	arméno	PFX														"Arménie"	Gent
+australo	australo	PFX														"Australie"	Gent
+austro	austro	PFX														"Autriche"	Gent
+azéro	azéro	PFX														"Azerbaïdjan"	Gent
+bélarusso	bélarusso	PFX														"Belarus"	Gent
+bélizo	bélizo	PFX														"Belize"	Gent
+bénino	bénino	PFX														"Bénin"	Gent
+bahaméo	bahaméo	PFX														"Bahamas"	Gent
+bahreïno	bahreïno	PFX														"Bahreïn"	Gent
+banglado	banglado	PFX														"Bangladesh"	Gent
+barbado	barbado	PFX														"Barbade"	Gent
+barbudo	barbudo	PFX														"Antigua-et-Barbuda"	Gent
+belgo	belgo	PFX														"Belgique"	Gent
+bhoutano	bhoutano	PFX														"Bhoutan"	Gent
+biélorusso	biélorusso	PFX														"Biélorussie"	Gent
+birmano	birmano	PFX														"Birmanie"	Gent
+bissauguinéo	bissauguinéo	PFX														"Guinée-Bissau"	Gent
+boliviano	boliviano	PFX														"Bolivie"	Gent
+bolivio	bolivio	PFX														"Bolivie"	Gent
+bolivo	bolivo	PFX														"Bolivie"	Gent
+bosniaco	bosniaco	PFX														"Bosnie-Herzégovine"	Gent
+bosno	bosno	PFX														"Bosnie-Herzégovine"	Gent
+botswano	botswano	PFX														"Botswana"	Gent
+brésiliano	brésiliano	PFX														"Brésil"	Gent
+brésilio	brésilio	PFX														"Brésil"	Gent
+brésilo	brésilo	PFX														"Brésil"	Gent
+britanno	britanno	PFX														"Royaume-Uni"	Gent
+brunéo	brunéo	PFX														"Brunei"	Gent
+bulgaro	bulgaro	PFX														"Bulgarie"	Gent
+burkinabo	burkinabo	PFX														"Burkina Faso"	Gent
+burundo	burundo	PFX														"Burundi"	Gent
+caboverdo	caboverdo	PFX														"Cap-Vert"	Gent
+camerouno	camerouno	PFX														"Cameroun"	Gent
+canado	canado	PFX														"Canada"	Gent
+capverdo	capverdo	PFX														"Cap-Vert"	Gent
+centrafricano	centrafricano	PFX														"République centrafricaine"	Gent
+chilio	chilio	PFX														"Chili"	Gent
+cingalo	cingalo	PFX														"Ceylan"	Gent
+colombo	colombo	PFX														"Colombie"	Gent
+comoro	comoro	PFX														"Comores"	Gent
+congolo	congolo	PFX														"Congo belge"	Gent
+congolo	congolo	PFX														"Congo"	Gent
+congolo	congolo	PFX														"Congo-Kinshasa"	Gent
+congolo	congolo	PFX														"République du Congo"	Gent
+coréo	coréo	PFX														"Corée du Nord"	Gent
+coréo	coréo	PFX														"Corée du Sud"	Gent
+costarico	costarico	PFX														"Costa Rica"	Gent
+croato	croato	PFX														"Croatie"	Gent
+cubano	cubano	PFX														"Cuba"	Gent
+cyprio	cyprio	PFX														"Chypre"	Gent
+dano	dano	PFX														"Danemark"	Gent
+djibouto	djibouto	PFX														"Djibouti"	Gent
+dominicano	dominicano	PFX														"République dominicaine"	Gent
+dominico	dominico	PFX														"Dominique"	Gent
+esto	esto	PFX														"Estonie"	Gent
+euro	euro	PFX														"Europe"	Gent
+fidjio	fidjio	PFX														"Fidji"	Gent
+finlando	finlando	PFX														"Finlande"	Gent
+finno	finno	PFX														"Finlande"	Gent
+franco	franco	PFX														"France"	Gent
+géorgio	géorgio	PFX														"Géorgie"	Gent
+gabono	gabono	PFX														"Gabon"	Gent
+gambo	gambo	PFX														"Gambie"	Gent
+germano	germano	PFX														"Allemagne"	Gent
+ghanéo	ghanéo	PFX														"Ghana"	Gent
+gréco	gréco	PFX														"Grèce"	Gent
+grenado	grenado	PFX														"Grenade"	Gent
+guatémalto	guatémalto	PFX														"Guatemala"	Gent
+guinéo	guinéo	PFX														"Guinée espagnole"	Gent
+guinéo	guinéo	PFX														"Guinée portugaise"	Gent
+guinéo	guinéo	PFX														"Guinée"	Gent
+guyano	guyano	PFX														"Guyana"	Gent
+guyano	guyano	PFX														"Guyane britannique"	Gent
+guyano	guyano	PFX														"Guyane hollandaise"	Gent
+haïtiano	haïtiano	PFX														"Haïti"	Gent
+hellénico	hellénico	PFX														"Grèce"	Gent
+helléno	helléno	PFX														"Grèce"	Gent
+helvético	helvético	PFX														"Suisse"	Gent
+helvéto	helvéto	PFX														"Suisse"	Gent
+hispano	hispano	PFX														"Espagne"	Gent
+hollando	hollando	PFX														"Pays-Bas"	Gent
+honduro	honduro	PFX														"Honduras britannique"	Gent
+honduro	honduro	PFX														"Honduras"	Gent
+hungaro	hungaro	PFX														"Hongrie"	Gent
+indo	indo	PFX														"Inde"	Gent
+indonéso	indonéso	PFX														"Indonésie"	Gent
+irako	irako	PFX														"Irak"	Gent
+irano	irano	PFX														"Iran"	Gent
+irlando	irlando	PFX														"Irlande"	Gent
+islando	islando	PFX														"Islande"	Gent
+israélo	israélo	PFX														"Israël"	Gent
+italo	italo	PFX														"Italie"	Gent
+ivoiro	ivoiro	PFX														"Côte d'Ivoire"	Gent
+jamaïco	jamaïco	PFX														"Jamaïque"	Gent
+japono	japono	PFX														"Japon"	Gent
+jordano	jordano	PFX														"Jordanie"	Gent
+kényo	kényo	PFX														"Kenya"	Gent
+kazakho	kazakho	PFX														"Kazakhstan"	Gent
+khméro	khméro	PFX														"Cambodge"	Gent
+kino	kino	PFX														"République démocratique du Congo"	Gent
+kirghizo	kirghizo	PFX														"Kirghizistan"	Gent
+kiribato	kiribato	PFX														"Kiribati"	Gent
+koweïto	koweïto	PFX														"Koweït"	Gent
+lésotho	lésotho	PFX														"Lesotho"	Gent
+lao	lao	PFX														"Laos"	Gent
+letto	letto	PFX														"Lettonie"	Gent
+libéro	libéro	PFX														"Liberia"	Gent
+libano	libano	PFX														"Liban"	Gent
+libyo	libyo	PFX														"Libye"	Gent
+liechtensteino	liechtensteino	PFX														"Liechtenstein"	Gent
+lituano	lituano	PFX														"Lituanie"	Gent
+luso	luso	PFX														"Portugal"	Gent
+luxembourgeo	luxembourgeo	PFX														"Luxembourg"	Gent
+mélano	mélano	PFX														"Mélanésie"	Gent
+macédono	macédono	PFX														"Macédoine"	Gent
+malaiso	malaiso	PFX														"Malaisie"	Gent
+malawito	malawito	PFX														"Malawi"	Gent
+maldivo	maldivo	PFX														"Maldives"	Gent
+malgacho	malgacho	PFX														"Madagascar"	Gent
+malo	malo	PFX														"Mali"	Gent
+malto	malto	PFX														"Malte"	Gent
+maroco	maroco	PFX														"Maroc"	Gent
+marshallo	marshallo	PFX														"Îles Marshall"	Gent
+mauritano	mauritano	PFX														"Mauritanie"	Gent
+mexico	mexico	PFX														"Mexique"	Gent
+micronésio	micronésio	PFX														"Micronésie"	Gent
+moldavo	moldavo	PFX														"Moldavie"	Gent
+monégasco	monégasco	PFX														"Monaco"	Gent
+mongolo	mongolo	PFX														"Mongolie"	Gent
+mongolo	mongolo	PFX														"Mongolie-Extérieure"	Gent
+monténégrino	monténégrino	PFX														"Monténégro"	Gent
+mozambico	mozambico	PFX														"Mozambique"	Gent
+néerlando	néerlando	PFX														"Pays-Bas"	Gent
+néo-zélando	néo-zélando	PFX														"Nouvelle-Zélande"	Gent
+népalo	népalo	PFX														"Népal"	Gent
+namibio	namibio	PFX														"Namibie"	Gent
+nauro	nauro	PFX														"Nauru"	Gent
+nicaraguo	nicaraguo	PFX														"Nicaragua"	Gent
+nigériano	nigériano	PFX														"Nigeria"	Gent
+nigéro	nigéro	PFX														"Niger"	Gent
+nippo	nippo	PFX														"Japon"	Gent
+nord-coréo	nord-coréo	PFX														"Corée du Nord"	Gent
+norvégio	norvégio	PFX														"Norvège"	Gent
+omano	omano	PFX														"Oman"	Gent
+ougando	ougando	PFX														"Ouganda"	Gent
+ouzbéko	ouzbéko	PFX														"Ouzbékistan"	Gent
+péruviano	péruviano	PFX														"Pérou"	Gent
+péruvio	péruvio	PFX														"Pérou"	Gent
+péruvo	péruvo	PFX														"Pérou"	Gent
+pakistano	pakistano	PFX														"Pakistan"	Gent
+palao	palao	PFX														"Palaos"	Gent
+palaoso	palaoso	PFX														"Palaos"	Gent
+panaméo	panaméo	PFX														"Panama"	Gent
+paraguayo	paraguayo	PFX														"Paraguay"	Gent
+philippino	philippino	PFX														"Philippines"	Gent
+polono	polono	PFX														"Pologne"	Gent
+qataro	qataro	PFX														"Qatar"	Gent
+roumano	roumano	PFX														"Roumanie"	Gent
+russo	russo	PFX														"Russie"	Gent
+rwando	rwando	PFX														"Rwanda"	Gent
+sénégalo	sénégalo	PFX														"Sénégal"	Gent
+salvadoro	salvadoro	PFX														"Salvador"	Gent
+samoano	samoano	PFX														"Samoa occidentales"	Gent
+santoméo	santoméo	PFX														"Sao Tomé-et-Principe"	Gent
+saoudo	saoudo	PFX														"Arabie saoudite"	Gent
+serbo	serbo	PFX														"Serbie"	Gent
+seychello	seychello	PFX														"Seychelles"	Gent
+sierraléono	sierraléono	PFX														"Sierra-Leone"	Gent
+singapouro	singapouro	PFX														"Singapour"	Gent
+sino	sino	PFX														"Chine"	Gent
+slovéno	slovéno	PFX														"Slovénie"	Gent
+slovaco	slovaco	PFX														"Slovaquie"	Gent
+somalo	somalo	PFX														"Somalie"	Gent
+soudano	soudano	PFX														"Soudan"	Gent
+soviéto	soviéto	PFX														"URSS"	Gent
+srilanko	srilanko	PFX														"Sri Lanka"	Gent
+suédo	suédo	PFX														"Suède"	Gent
+sud-coréo	sud-coréo	PFX														"Corée du Sud"	Gent
+sudafricano	sudafricano	PFX														"Afrique du Sud"	Gent
+suisso	suisso	PFX														"Suisse"	Gent
+surinamo	surinamo	PFX														"Suriname"	Gent
+swazilando	swazilando	PFX														"Swaziland"	Gent
+swazo	swazo	PFX														"Swaziland"	Gent
+syro	syro	PFX														"Syrie"	Gent
+tadjiko	tadjiko	PFX														"Tadjikistan"	Gent
+tanzano	tanzano	PFX														"Tanzanie"	Gent
+tchéco	tchéco	PFX														"République tchèque"	Gent
+tchécoslovaco	tchécoslovaco	PFX														"Tchécoslovaquie"	Gent
+tchado	tchado	PFX														"Tchad"	Gent
+thaïlando	thaïlando	PFX														"Thaïlande"	Gent
+tibéto	tibéto	PFX														"Tibet"	Gent
+timoro	timoro	PFX														"Timor-Est"	Gent
+timoro	timoro	PFX														"Timor-Oriental"	Gent
+togolo	togolo	PFX														"Togo"	Gent
+tongano	tongano	PFX														"Tonga"	Gent
+touvalo	touvalo	PFX														"Tuvalu"	Gent
+trinidado	trinidado	PFX														"Trinité-et-Tobago"	Gent
+tuniso	tuniso	PFX														"Tunisie"	Gent
+turco	turco	PFX														"Turquie"	Gent
+turkméno	turkméno	PFX														"Turkménistan"	Gent
+tuvalo	tuvalo	PFX														"Tuvalu"	Gent
+ukraino	ukraino	PFX														"Ukraine"	Gent
+uruguayo	uruguayo	PFX														"Uruguay"	Gent
+vénézolano	vénézolano	PFX														"Venezuela"	Gent
+vénézuélo	vénézuélo	PFX														"Venezuela"	Gent
+vanouato	vanouato	PFX														"Vanuatu"	Gent
+vanuato	vanuato	PFX														"Vanuatu"	Gent
+vaticano	vaticano	PFX														"Vatican"	Gent
+vietnamo	vietnamo	PFX														"Viêt Nam"	Gent
+yéméno	yéméno	PFX														"Yémen"	Gent
+yougoslavo	yougoslavo	PFX														"Yougoslavie"	Gent
+zaïro	zaïro	PFX														"Zaïre"	Gent
+zambio	zambio	PFX														"Zambie"	Gent
+zimbabwéo	zimbabwéo	PFX														"Zimbabwe"	Gent

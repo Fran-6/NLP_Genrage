@@ -1,0 +1,2707 @@
+Forme	Lemme	Cat	Genre	Nb	Pers	Temps	Spec	Fonc	Gvn/Dist/Aux	Graph	Lang	Cmp	FLX	DRV	UNAMB	Ref	Sem	Info/Accent
+premièrement	premier	ADV					ord						ERS_ERE	EREMENT:NUL 				dadj
+deuxièmement	deuxième	ADV					ord						S_0	MENT:NUL 				dadj
+secondement	second	ADV					ord						S_E	EMENT:NUL 				dadj
+troisièmement	troisième	ADV					ord						S_0	MENT:NUL 				dadj
+quatrièmement	quatrième	ADV					ord						S_0	MENT:NUL 				dadj
+cinquièmement	cinquième	ADV					ord						S_0	MENT:NUL 				dadj
+sixièmement	sixième	ADV					ord						S_0	MENT:NUL 				dadj
+septièmement	septième	ADV					ord						S_0	MENT:NUL 				dadj
+huitièmement	huitième	ADV					ord						S_0	MENT:NUL 				dadj
+neuvièmement	neuvième	ADV					ord						S_0	MENT:NUL 				dadj
+dixièmement	dixième	ADV					ord						S_0	MENT:NUL 				dadj
+onzièmement	onzième	ADV					ord						S_0	MENT:NUL 				dadj
+douzièmement	douzième	ADV					ord						S_0	MENT:NUL 				dadj
+treizièmement	treizième	ADV					ord						S_0	MENT:NUL 				dadj
+quatorzièmement	quatorzième	ADV					ord						S_0	MENT:NUL 				dadj
+quinzièmement	quinzième	ADV					ord						S_0	MENT:NUL 				dadj
+seizièmement	seizième	ADV					ord						S_0	MENT:NUL 				dadj
+dix=septièmement	dix-septième	ADV					ord						S_0	MENT:NUL 	UNAMB			dadj
+dix=huitièmement	dix-huitième	ADV					ord						S_0	MENT:NUL 	UNAMB			dadj
+dix=neuvièmement	dix-neuvième	ADV					ord						S_0	MENT:NUL 	UNAMB			dadj
+vingtièmement	vingtième	ADV					ord						S_0	MENT:NUL 				dadj
+guère	guère	ADV					neg
+jamais	jamais	ADV					neg
+pas encore	pas encore	ADV					neg								UNAMB
+pas seulement	pas seulement	ADV					neg								UNAMB
+pas	pas	ADV					neg
+plus	plus	ADV					neg
+point	point	ADV					neg
+combien	combien	ADV					int
+comment	comment	ADV					int
+où	où	ADV					int
+pourquoi	pourquoi	ADV					int
+quand	quand	ADV					int
+près de	près de	ADV					pnum
+autour de	autour de	ADV					pnum
+plus de	plus de	ADV					pnum
+moins de	moins de	ADV					pnum
+de l'ordre de	de l'ordre de	ADV					pnum
+de l’ordre de	de l'ordre de	ADV					pnum
+environ	environ	ADV					pnum
+quelque	quelque	ADV					pnum
+seulement	seulement	ADV					pnum
+assez	assez	ADV					padj
+beaucoup trop	beaucoup trop	ADV					padj								UNAMB
+bien assez	bien assez	ADV					padj								UNAMB
+bien trop	bien trop	ADV					padj								UNAMB
+trop	trop	ADV					padj
+peu	peu	ADV					padj
+quelque peu	quelque peu	ADV					padj								UNAMB
+un petit peu	un petit peu	ADV					padj								UNAMB
+un peu	un peu	ADV					padj								UNAMB
+un tout petit peu	un tout petit peu	ADV					padj								UNAMB
+aussi	aussi	ADV					padj
+bien	bien	ADV					padj
+beaucoup plus	plus	ADV					det								UNAMB
+bien plus	plus	ADV					det								UNAMB
+d'autant plus	d'autant plus	ADV					det								UNAMB
+d’autant plus	d’autant plus	ADV					det								UNAMB
+de plus en plus	de plus en plus	ADV					det								UNAMB
+plus	plus	ADV					det
+un peu plus	plus	ADV					det								UNAMB
+beaucoup moins	moins	ADV					det								UNAMB
+bien moins	moins	ADV					det								UNAMB
+d'autant moins	d'autant moins	ADV					det								UNAMB
+d’autant moins	d'autant moins	ADV					det								UNAMB
+de moins en moins	de moins en moins	ADV					det								UNAMB
+moins	moins	ADV					det
+un peu moins	moins	ADV					det								UNAMB
+plus ou moins	plus ou moins	ADV					padj								UNAMB
+à demi	à demi	ADV					padj
+extrêmement	extrêmement	ADV					padj
+fort	fort	ADV					padj
+presqu'	presque	ADV					padj
+presqu’	presque	ADV					padj
+presque	presque	ADV					padj
+quasi	quasi	ADV					padj
+quasiment	quasiment	ADV					padj
+si	si	ADV					padj
+suffisamment	suffisamment	ADV					det
+tellement	tellement	ADV					det
+tout	tout	ADV					padj
+toute	toute	ADV					padj
+très	très	ADV					padj
+autant	autant	ADV					det
+beaucoup	beaucoup	ADV					det
+combien	combien	ADV					det
+davantage	davantage	ADV					det
+guère	guère	ADV					det
+pas mal	pas mal	ADV					det
+tant	tant	ADV					det
+autrement	autrement	ADV					det
+plein	plein	ADV					det
+quantité	quantité	ADV					det
+auprès	auprès	ADV					ppde
+autour	autour	ADV					ppde
+lors	lors	ADV					ppde
+près	près	ADV					ppde
+a=capella	à capella	ADV								Opt	la				UNAMB
+à=capella	à capella	ADV								Rec	la				UNAMB
+a=contrario	à contrario	ADV								Opt	la				UNAMB
+à=contrario	à contrario	ADV								Rec	la				UNAMB
+a=divinis	a divinis	ADV									la				UNAMB
+a=fortiori	à fortiori	ADV								Opt	la				UNAMB
+à=fortiori	à fortiori	ADV								Rec	la				UNAMB
+a=giorno	à giorno	ADV									it				UNAMB
+à=giorno	à giorno	ADV									it				UNAMB
+a=maxima	a maxima	ADV									la				UNAMB
+a=minima	à minima	ADV								Opt	la				UNAMB
+à=minima	à minima	ADV								Rec	la				UNAMB
+a=posteriori	à postériori	ADV								Opt	la				UNAMB
+à=posteriori	à postériori	ADV								Opt	la				UNAMB
+à=postériori	à postériori	ADV								Rec	la				UNAMB
+a=priori	à priori	ADV								Opt	la				UNAMB
+à=priori	à priori	ADV								Rec	la				UNAMB
+à=quia	à quia	ADV									la				UNAMB
+a=tempera	a tempera	ADV									it				UNAMB
+ab=hoc=et=ab=hac	ab hoc et ab hac	ADV									la				UNAMB
+ab=intestat	ab intestat	ADV									la				UNAMB
+ab=irato	ab irato	ADV									la				UNAMB
+ab=ovo	ab ovo	ADV									la				UNAMB
+ad=hoc	ad hoc	ADV									la				UNAMB
+ad=hominem	ad hominem	ADV									la				UNAMB
+ad=honores	ad honores	ADV									la				UNAMB
+ad=libitum	ad libitum	ADV									la				UNAMB
+ad=patres	ad patres	ADV									la				UNAMB
+ad=referendum	ad referendum	ADV									la				UNAMB
+ad=rem	ad rem	ADV									la				UNAMB
+alla=breve	alla breve	ADV									la				UNAMB
+da=capo	da capo	ADV									it				UNAMB
+de=facto	de facto	ADV									la				UNAMB
+de=visu	de visu	ADV									la				UNAMB
+ex=abrupto	ex abrupto	ADV									la				UNAMB
+ex=aequo	ex=aequo	ADV									la				UNAMB
+ex=cathedra	ex cathedra	ADV									la				UNAMB
+ex=nihilo	ex nihilo	ADV									la				UNAMB
+ex=professo	ex professo	ADV									la				UNAMB
+forte=piano	forte-piano	ADV									it				UNAMB
+gratis=pro=deo	gratis pro deo	ADV									la				UNAMB
+grosso=modo	grosso modo	ADV									la				UNAMB
+grosso=modo	grosso-modo	ADV									la				UNAMB
+hic=et=nunc	hic et nunc	ADV									la				UNAMB
+illico=presto	illico presto	ADV									la				UNAMB
+in=absentia	in absentia	ADV									la				UNAMB
+in=abstracto	in abstracto	ADV									la				UNAMB
+in=articulo=mortis	in articulo mortis	ADV									la				UNAMB
+in=concreto	in concreto	ADV									la				UNAMB
+in=extenso	in extenso	ADV									la				UNAMB
+in=extremis	in extrémis	ADV								Opt	la				UNAMB
+in=extrémis	in extrémis	ADV								Rec	la				UNAMB
+in=fine	in fine	ADV									la				UNAMB
+in=fiocchi	in fiocchi	ADV									it				UNAMB
+in=globo	in globo	ADV									la				UNAMB
+in=medias=res	in medias res	ADV									la				UNAMB
+in=naturalibus	in naturalibus	ADV									la				UNAMB
+in=partibus	in partibus	ADV									la				UNAMB
+in=petto	in petto	ADV									la				UNAMB
+in=praesentia	in praesentia	ADV									la				UNAMB
+in=prima=instantia	in prima instantia	ADV									la				UNAMB
+in=re	in re	ADV									la				UNAMB
+in=rem	in rem	ADV									la				UNAMB
+in=sensu=obvio	in sensu obvio	ADV									la				UNAMB
+in=situ	in situ	ADV									la				UNAMB
+in=specie	in specie	ADV									la				UNAMB
+in=statu=quo	in statu quo	ADV									la				UNAMB
+in=temporalibus	in temporalibus	ADV									la				UNAMB
+in=terminis	in terminis	ADV									la				UNAMB
+in=utroque=jure	in utroque jure	ADV									la				UNAMB
+in=vitro	in vitro	ADV									la				UNAMB
+in=vivo	in vivo	ADV									la				UNAMB
+intra=muros	intra muros	ADV									la				UNAMB
+intra-muros	intra-muros	ADV									la				UNAMB
+ipso=facto	ipso facto	ADV									la				UNAMB
+loco=citato	loco citato	ADV									la				UNAMB
+manu=militari	manu militari	ADV									la				UNAMB
+mezza=voce	mezza voce	ADV									la				UNAMB
+mezza=voce	mezza=voce	ADV									it				UNAMB
+mezzo=forte	mezzo=forte	ADV									it				UNAMB
+mezzo=voce	mezza=voce	ADV									it				UNAMB
+motu=proprio	motu proprio	ADV									la				UNAMB
+mutatis=mutandis	mutatis mutandis	ADV									la				UNAMB
+ne=varietur	ne varietur	ADV									la				UNAMB
+post=mortem	post mortem	ADV									la				UNAMB
+pro=domo	pro domo	ADV									la				UNAMB
+recto=tono	recto tono	ADV									la				UNAMB
+sine=die	sine die	ADV									la				UNAMB
+sine=qua=non	sine qua non	ADV									la				UNAMB
+stricto=sensu	stricto sensu	ADV									la				UNAMB
+sui=generis	sui generis	ADV									la				UNAMB
+tutti=quanti	tutti quanti	ADV									it				UNAMB
+ultra=petita	ultra-petita	ADV									la				UNAMB
+urbi=et=orbi	urbi et orbi	ADV									la				UNAMB
+vice=versa	vice-versa	ADV									la				UNAMB
+vison=visu	vison=visu	ADV									la				UNAMB
+à bon marché	à bon marché	ADV													UNAMB
+à boucheton	à boucheton	ADV													UNAMB
+à bout portant	à bout portant	ADV													UNAMB
+à bras=le=corps	à bras-le-corps	ADV													UNAMB
+à brûle=pourpoint	à brûle-pourpoint	ADV													UNAMB
+à califourchon	à califourchon	ADV													UNAMB
+à cloche=pied	à cloche-pied	ADV													UNAMB
+à contre_biais	à contre-biais	ADV													UNAMB
+à contre_bord	à contre-bord	ADV													UNAMB
+à contre_coeur	à contre-coeur	ADV													UNAMB
+à contre_fil	à contre-fil	ADV													UNAMB
+à contre_gré	à contre-gré	ADV													UNAMB
+à contre_lumière	à contre-lumière	ADV													UNAMB
+à contre_mesure	à contre-mesure	ADV													UNAMB
+à contre_mont	à contre-mont	ADV													UNAMB
+à contre_pied	à contre-pied	ADV													UNAMB
+à contre_poil	à contre-poil	ADV													UNAMB
+à contre_saison	à contre-saison	ADV													UNAMB
+à contre_voie	à contre-voie	ADV													UNAMB
+à contre-pied	à contre-pied	ADV													UNAMB
+à coup sûr	à coup sûr	ADV													UNAMB
+à court terme	à court terme	ADV													UNAMB
+à croupetons	à croupetons	ADV													UNAMB
+à demi-bas	à demi-bas	ADV													UNAMB
+à demi-hauteur	à demi-hauteur	ADV													UNAMB
+à demi-mot	à demi-mot	ADV													UNAMB
+à demi-voix	à demi-voix	ADV													UNAMB
+à franc=étrier	à franc-étrier	ADV													UNAMB
+à frise=lumière	à frise-lumière	ADV													UNAMB
+à gogo	à gogo	ADV													UNAMB
+à grand=peine	à grand-peine	ADV													UNAMB
+à jeun	à jeun	ADV													UNAMB
+à juste titre	à juste titre	ADV													UNAMB
+à l’amiable	à l'amiable	ADV													UNAMB
+à l’avenant	à l'avenant	ADV													UNAMB
+à l’aveuglette	à l'aveuglette	ADV													UNAMB
+à l’encontre	à l'encontre	ADV					ppde								UNAMB
+à l’endroit	à l'endroit	ADV
+à l’envers	à l'envers	ADV													UNAMB
+à l’envi	à l'envi	ADV													UNAMB
+à l’espère	à l'espère	ADV					ppde								UNAMB
+à l’étouffée	à l'étouffée	ADV													UNAMB
+à l’improviste	à l'improviste	ADV													UNAMB
+à la bonne franquette	à la bonne franquette	ADV													UNAMB
+à la brassette	à la brassette	ADV													UNAMB
+à la brunante	à la brunante	ADV													UNAMB
+à la croque=au=sel	à la croque-au-sel	ADV													UNAMB
+à la daumont	à la daumont	ADV													UNAMB
+à la je=m’en=fiche	à la je-m'en-fiche	ADV													UNAMB
+à la je=m'en=fiche	à la je-m'en-fiche	ADV													UNAMB
+à la malheure	à la malheure	ADV													UNAMB
+à la saint-glinglin	à la saint-glinglin	ADV													UNAMB
+à la sauvette	à la sauvette	ADV													UNAMB
+à la six=quatre=deux	à la six-quatre-deux	ADV													UNAMB
+à la va=vite	à la va-vite	ADV													UNAMB
+à la vanvole	à la vanvole	ADV													UNAMB
+à l'amiable	à l'amiable	ADV													UNAMB
+à l'avenant	à l'avenant	ADV													UNAMB
+à l'aveuglette	à l'aveuglette	ADV													UNAMB
+à lèche=doigt	à lèche-doigt	ADV													UNAMB
+à lèche=doigts	à lèche-doigts	ADV													UNAMB
+à l'encontre	à l'encontre	ADV					ppde								UNAMB
+à l'endroit	à l'endroit	ADV
+à l'envers	à l'envers	ADV													UNAMB
+à l'envi	à l'envi	ADV													UNAMB
+à l'espère	à l'espère	ADV					ppde								UNAMB
+à l'étouffée	à l'étouffée	ADV													UNAMB
+à lève=cul	à lève-cul	ADV													UNAMB
+à l'improviste	à l'improviste	ADV													UNAMB
+à long terme	à long terme	ADV													UNAMB
+à mi-bois	à mi-bois	ADV													UNAMB
+à mi-bras	à mi-bras	ADV													UNAMB
+à mi-chemin	à mi-chemin	ADV													UNAMB
+à mi-corps	à mi-corps	ADV													UNAMB
+à mi-côte	à mi-côte	ADV													UNAMB
+à mi-course	à mi-course	ADV													UNAMB
+à mi-cuisse	à mi-cuisse	ADV													UNAMB
+à mi-cuisses	à mi-cuisse	ADV													UNAMB
+à mi-distance	à mi-distance	ADV													UNAMB
+à mi-étage	à mi-étage	ADV													UNAMB
+à mi-flanc	à mi-flanc	ADV													UNAMB
+à mi-fleuve	à mi-fleuve	ADV													UNAMB
+à mi-hauteur	à mi-hauteur	ADV													UNAMB
+à mi-jambe	à mi-jambe	ADV													UNAMB
+à mi-jambes	à mi-jambe	ADV													UNAMB
+à mi-mollet	à mi-mollet	ADV													UNAMB
+à mi-mot	à mi-mot	ADV													UNAMB
+à mi-parcours	à mi-parcours	ADV													UNAMB
+à mi-pente	à mi-pente	ADV													UNAMB
+à mi-représentation	à mi-représentation	ADV													UNAMB
+à mi-route	à mi-route	ADV													UNAMB
+à mi-temps	à mi-temps	ADV													UNAMB
+à mi-voix	à mi-voix	ADV													UNAMB
+à moyen terme	à moyen terme	ADV													UNAMB
+à muche-pot	à muche-pot	ADV													UNAMB
+à musse-pot	à musse-pot	ADV													UNAMB
+à perpète	à perpète	ADV													UNAMB
+à pic	à pic	ADV
+à poste	à poste	ADV													UNAMB
+à présent	à présent	ADV													UNAMB
+à rebrousse=poil	à rebrousse-poil	ADV													UNAMB
+à reculons	à reculons	ADV													UNAMB
+à tâtons	à tâtons	ADV													UNAMB
+à tire_larigot	à tire-larigot	ADV													UNAMB
+à tire=d’aile	à tire-d'aile	ADV													UNAMB
+à tire=d'aile	à tire-d'aile	ADV													UNAMB
+à touche-touche	à touche-touche	ADV													UNAMB
+à tout jamais	à tout jamais	ADV													UNAMB
+à tout va	à tout va	ADV													UNAMB
+à tue=tête	à tue-tête	ADV													UNAMB
+à tue-tête	à tue-tête	ADV													UNAMB
+à vau=l’eau	à vau-l'eau	ADV													UNAMB
+à vau=l'eau	à vau-l'eau	ADV													UNAMB
+à vau=vent	à vau-vent	ADV													UNAMB
+à vau-de-route	à vau-de-route	ADV													UNAMB
+à vau-le-feu	à vau-le-feu	ADV													UNAMB
+à vrai dire	à vrai dire	ADV													UNAMB
+à=tout=va	à tout-va	ADV													UNAMB
+ainsi de suite	ainsi de suite	ADV													UNAMB
+après-demain	après-demain	ADV													UNAMB
+au diable vauvert	au diable vauvert	ADV													UNAMB
+au fur et à mesure	au fur et à mesure	ADV													UNAMB
+au loin	au loin	ADV													UNAMB
+au plus tard	au plus tard	ADV													UNAMB
+au plus tôt	au plus tôt	ADV													UNAMB
+au plus vite	au plus vite	ADV													UNAMB
+au visé	au visé	ADV													UNAMB
+au=deçà	au=deçà	ADV													UNAMB
+au=dedans	au=dedans	ADV					ppde								UNAMB
+au=dehors	au=dehors	ADV					ppde								UNAMB
+au=delà	au=delà	ADV					ppde								UNAMB
+au=dessous	au=dessous	ADV					ppde								UNAMB
+au=dessus	au=dessus	ADV					ppde								UNAMB
+au=devant	au=devant	ADV					ppde								UNAMB
+aujourd’hui	aujourd'hui	ADV													UNAMB
+aujourd'hui	aujourd'hui	ADV													UNAMB
+avant-hier	avant-hier	ADV													UNAMB
+bel et bien	bel et bien	ADV													UNAMB
+bien sûr	bien sûr	ADV
+bon an mal an	bon an mal an	ADV													UNAMB
+bout=à=bout	bout-à-bout	ADV													UNAMB
+bredi_breda	bredi-breda	ADV													UNAMB
+c’est-à-dire	c'est-à-dire	ADV													UNAMB
+çà et là	çà et là	ADV													UNAMB
+cahin_caha	cahin-caha	ADV													UNAMB
+c'est-à-dire	c'est-à-dire	ADV													UNAMB
+ci-annexé	ci-annexé	ADV													UNAMB
+ci-après	ci-après	ADV													UNAMB
+ci-contre	ci-contre	ADV													UNAMB
+ci-dessous	ci-dessous	ADV													UNAMB
+ci-dessus	ci-dessus	ADV													UNAMB
+ci-devant	ci-devant	ADV													UNAMB
+ci-inclus	ci-inclus	ADV													UNAMB
+ci-joint	ci-joint	ADV													UNAMB
+clopin=clopant	clopin-clopant	ADV													UNAMB
+côte=à=côte	côte-à-côte	ADV													UNAMB
+couci_couça	couci-couça	ADV													UNAMB
+couci_couci	couci-couci	ADV													UNAMB
+coup sur coup	coup sur coup	ADV
+d’abord	d'abord	ADV													UNAMB
+d’affilée	d'affilée	ADV													UNAMB
+d’arrache_pied	d'arrache-pied	ADV													UNAMB
+d’autre part	d'autre part	ADV													UNAMB
+d’emblée	d'emblée	ADV													UNAMB
+d’ici là	d’ici là	ADV													UNAMB
+d’ores et déjà	d’ores et déjà	ADV													UNAMB
+d'abord	d'abord	ADV													UNAMB
+d'affilée	d'affilée	ADV													UNAMB
+dare_dare	dare-dare	ADV													UNAMB
+d'arrache_pied	d'arrache-pied	ADV													UNAMB
+d'autre part	d'autre part	ADV													UNAMB
+de bric et de broc	de bric et de broc	ADV													UNAMB
+de franc-étable	de franc-étable	ADV													UNAMB
+de guingois	de guingois	ADV													UNAMB
+de prime abord	de prime abord	ADV													UNAMB
+de temps à autre	de temps à autre	ADV													UNAMB
+de temps en temps	de temps en temps	ADV													UNAMB
+de toute façon	de toute façon	ADV													UNAMB
+de toutes façons	de toute façon	ADV													UNAMB
+de toutes parts	de toutes parts	ADV													UNAMB
+d'emblée	d'emblée	ADV													UNAMB
+d'ici là	d'ici là	ADV													UNAMB
+d'ores et déjà	d'ores et déjà	ADV													UNAMB
+dos=à=dos	dos=à=dos	ADV													UNAMB
+en catimini	en catimini	ADV													UNAMB
+en contre_bas	en contre-bas	ADV													UNAMB
+en contre_haut	en contre-haut	ADV													UNAMB
+en contréchange	en contre-échange	ADV													UNAMB
+en contre-échange	en contre-échange	ADV													UNAMB
+en effet	en effet	ADV													UNAMB
+en même temps	en même temps	ADV													UNAMB
+en outre	en outre	ADV													UNAMB
+en quarante	en quarante	ADV
+en quelque sorte	en quelque sorte	ADV													UNAMB
+en quelques sortes	en quelque sorte	ADV													UNAMB
+en suspens	en suspens	ADV													UNAMB
+en tapinois	en tapinois	ADV													UNAMB
+en tout cas	en tout cas	ADV													UNAMB
+en un tournemain	en un tournemain	ADV													UNAMB
+en vain	en vain	ADV													UNAMB
+en vrac	en vrac	ADV													UNAMB
+entre_temps	entre-temps	ADV													UNAMB
+est-ce qu'	est-ce que	ADV					int								UNAMB
+est-ce qu’	est-ce que	ADV					int								UNAMB
+est-ce que	est-ce que	ADV					int								UNAMB
+et caetera	et caetera	ADV													UNAMB
+et cætera	et caetera	ADV													UNAMB
+et cetera	et caetera	ADV													UNAMB
+extra_muros	extra-muros	ADV													UNAMB
+extra-territorialement	extra-territorialement	ADV													UNAMB
+face=à=face	face=à=face	ADV													UNAMB
+haut=le=pied	haut-le-pied	ADV													UNAMB
+ici=bas	ici-bas	ADV													UNAMB
+intra_muros	intra-muros	ADV													UNAMB
+jusqu’à présent	jusqu'à présent	ADV													UNAMB
+jusqu’ici	jusqu'ici	ADV													UNAMB
+jusqu'à présent	jusqu'à présent	ADV													UNAMB
+jusque-là	jusque-là	ADV													UNAMB
+jusqu'ici	jusqu'ici	ADV													UNAMB
+kif_kif	kif-kif	ADV													UNAMB
+l’après-midi	l'après-midi	ADV
+l’avant-veille	l'avant-veille	ADV
+là-bas	là-bas	ADV													UNAMB
+là-dedans	là-dedans	ADV													UNAMB
+là-dehors	là-dehors	ADV													UNAMB
+là-derrière	là-derrière	ADV													UNAMB
+là-dessous	là-dessous	ADV													UNAMB
+là-dessus	là-dessus	ADV													UNAMB
+là-devant	là-devant	ADV													UNAMB
+là-haut	là-haut	ADV													UNAMB
+l'après-midi	l'après-midi	ADV
+l'avant-veille	l'avant-veille	ADV
+mal à propos	mal à propos	ADV													UNAMB
+mollo=mollo	mollo=mollo	ADV													UNAMB
+mot=à=mot	mot à mot	ADV													UNAMB
+n’importe où	n'importe où	ADV													UNAMB
+n’importe quand	n'importe quand	ADV													UNAMB
+n'importe où	n'importe où	ADV													UNAMB
+n'importe quand	n'importe quand	ADV													UNAMB
+non pas	non pas	ADV													UNAMB
+non plus	non plus	ADV													UNAMB
+nu-pied	nu-pied	ADV													UNAMB
+nu-tête	nu-tête	ADV													UNAMB
+on_line	online	ADV									en				UNAMB
+outre-atlantique	outre-Atlantique	ADV													UNAMB
+outre-manche	outre-Manche	ADV													UNAMB
+outre-mer	outre-mer	ADV													UNAMB
+outre-meuse	outre-Meuse	ADV													UNAMB
+outre-mont	outre-mont	ADV													UNAMB
+outre-monts	outre-monts	ADV													UNAMB
+outre-rhin	outre-Rhin	ADV													UNAMB
+outre-tombe	outre-tombe	ADV													UNAMB
+par-ci	par-ci	ADV													UNAMB
+par-derrière	par-derrière	ADV													UNAMB
+par-devant	par-devant	ADV													UNAMB
+par-là	par-là	ADV													UNAMB
+pas à pas	pas à pas	ADV													UNAMB
+pêle_mêle	pêle-mêle	ADV													UNAMB
+petit=à=petit	petit=à=petit	ADV													UNAMB
+peu à peu	peu à peu	ADV													UNAMB
+peu ou prou	peu ou prou	ADV													UNAMB
+peut-être	peut-être	ADV													UNAMB
+piane-piane	piane-piane	ADV													UNAMB
+plan_plan	plan-plan	ADV													UNAMB
+plus que jamais	plus que jamais	ADV													UNAMB
+poil-poil	poil-poil	ADV													UNAMB
+pour de bon	pour de bon	ADV													UNAMB
+quand bien même	quand bien même	ADV													UNAMB
+quand même	quand même	ADV
+quoi qu’il en soit	quoi qu'il en soit	ADV													UNAMB
+quoi qu'il en soit	quoi qu'il en soit	ADV													UNAMB
+ric_rac	ric-rac	ADV													UNAMB
+ric-à-rac	ric-rac	ADV													UNAMB
+ric-à-ric	ric-rac	ADV													UNAMB
+ric-et-rac	ric-rac	ADV													UNAMB
+sans coup férir	sans coup férir	ADV													UNAMB
+sans encombre	sans encombre	ADV													UNAMB
+seul à seul	seul à seul	ADV													UNAMB
+soi-disant	soi-disant	ADV													UNAMB
+souventes fois	souventes fois	ADV													UNAMB
+sur ces entrefaites	sur ces entrefaites	ADV													UNAMB
+sur le champ	sur-le-champ	ADV
+sur-le-champ	sur-le-champ	ADV													UNAMB
+tête-bêche	tête-bêche	ADV													UNAMB
+tour à tour	tour à tour	ADV													UNAMB
+tout d’abord	tout d'abord	ADV													UNAMB
+tout d'abord	tout d'abord	ADV													UNAMB
+tout de go	tout de go	ADV													UNAMB
+tout=à=coup	tout=à=coup	ADV													UNAMB
+tout=à=fait	tout-à-fait	ADV													UNAMB
+un à un	un à un	ADV													UNAMB
+un tantinet	un tantinet	ADV					padj								UNAMB
+une à une	une à une	ADV													UNAMB
+une fois pour toutes	une fois pour toutes	ADV													UNAMB
+une nouvelle fois	une nouvelle fois	ADV													UNAMB
+ventre=à=terre	ventre=à=terre	ADV													UNAMB
+vice versa	vice versa	ADV													UNAMB
+y compris	y compris	ADV													UNAMB
+asiatiquement	asiatique	ADV											S_0	MENT:NUL 		"Asie"	Gent	dadj
+chinoisement	chinois	ADV											0_E	EMENT:NUL 		"Chine"	Gent	dadj
+européennement	européen	ADV											S_DE	D_EMENT:NUL 		"Europe"	Gent	dadj
+abrégément	abrégément	ADV
+accelerando	accélérando	ADV								Opt
+accélérando	accélérando	ADV								Rec
+adagio	adagio	ADV
+adultérieurement	adultérieurement	ADV
+ailleurs	ailleurs	ADV
+ainsi	ainsi	ADV
+alentour	alentour	ADV
+alias	alias	ADV
+allègrement	allègrement	ADV								Rec
+allégrement	allègrement	ADV								Opt
+allégretto	allégretto	ADV								Rec
+allegretto	allégretto	ADV								Opt
+allégro	allégro	ADV								Rec
+allegro	allégro	ADV								Opt
+alors	alors	ADV
+amabile	amabile	ADV
+amiteusement	amiteusement	ADV
+amoroso	amoroso	ADV
+andante	andante	ADV
+andantino	andantino	ADV
+antan	antan	ADV
+apertement	apertement	ADV
+aucunement	aucunement	ADV
+auparavant	auparavant	ADV
+aussitôt	aussitôt	ADV
+autrefois	autrefois	ADV
+babéliquement	babéliquement	ADV
+bellement	bellement	ADV
+bénignement	bénignement	ADV
+bientôt	bientôt	ADV
+bigrement	bigrement	ADV
+bis	bis	ADV
+bougrement	bougrement	ADV
+brièvement	brièvement	ADV
+çà	çà	ADV
+cantabile	cantabile	ADV
+cash	cash	ADV
+céans	céans	ADV
+cedex	cedex	ADV
+cependant	cependant	ADV
+certes	certes	ADV
+chattement	chattement	ADV
+chiquement	chiquement	ADV
+ci	ci	ADV
+comme	comme	ADV
+confidemment	confidemment	ADV
+considérément	considérément	ADV
+contumélieusement	contumélieusement	ADV
+corolairement	corolairement	ADV								Rec
+corollairement	corolairement	ADV								Opt
+coutumièrement	coutumièrement	ADV
+crescendo	crescendo	ADV
+debout	debout	ADV
+décrescendo	décrescendo	ADV								Rec
+decrescendo	décrescendo	ADV								Opt
+dedans	dedans	ADV
+dehors	dehors	ADV
+déjà	déjà	ADV
+demain	demain	ADV
+derechef	derechef	ADV
+désormais	désormais	ADV
+dextrorsum	dextrorsum	ADV
+diablement	diablement	ADV
+diantrement	diantrement	ADV
+diminuendo	diminuendo	ADV
+dito	dito	ADV
+dolce	dolce	ADV
+donc	donc	ADV
+dorénavant	dorénavant	ADV
+doux	doux	ADV
+dru	dru	ADV
+dument	dument	ADV								Rec
+dûment	dument	ADV								Opt
+encore	encore	ADV
+enfin	enfin	ADV
+ensemble	ensemble	ADV
+ensuite	ensuite	ADV
+etc	etc	ADV
+exprès	exprès	ADV
+fastoche	fastoche	ADV
+fichtrement	fichtrement	ADV
+fissa	fissa	ADV
+flâneusement	flâneusement	ADV
+follement	follement	ADV
+forte	forte	ADV
+fortissimo	fortissimo	ADV
+foutrement	foutrement	ADV
+franchement	franchement	ADV
+franco	franco	ADV
+furioso	furioso	ADV
+gaiment	gaiment	ADV								Rec
+gaîment	gaiment	ADV								Opt
+gargantualement	gargantualement	ADV
+gentiment	gentiment	ADV
+goujatement	goujatement	ADV
+gratis	gratis	ADV
+grièvement	grièvement	ADV
+guères	guères	ADV
+haut	haut	ADV
+hier	hier	ADV
+humoureusement	humoureusement	ADV
+ibidem	ibidem	ADV
+ici	ici	ADV
+idem	idem	ADV
+illico	illico	ADV
+immémoriablement	immémoriablement	ADV
+impunément	impunément	ADV
+incognito	incognito	ADV
+incontinent	incontinent	ADV
+indévotement	indévotement	ADV
+infra	infra	ADV
+insciemment	insciemment	ADV
+irrévéremment	irrévéremment	ADV
+item	item	ADV
+itou	itou	ADV
+jadis	jadis	ADV
+jalousement	jalousement	ADV
+journellement	journellement	ADV
+là	là	ADV
+laïquement	laïquement	ADV
+larghetto	larghetto	ADV
+largo	largo	ADV
+légato	légato	ADV								Rec
+legato	légato	ADV								Opt
+lento	lento	ADV
+lerche	lerche	ADV
+loin	loin	ADV
+long	long	ADV
+longtemps	longtemps	ADV
+macache	macache	ADV
+maestoso	maestoso	ADV
+maintenant	maintenant	ADV
+mal	mal	ADV
+malignement	malignement	ADV
+marmiteusement	marmiteusement	ADV
+marre	marre	ADV
+maupiteusement	maupiteusement	ADV
+même	même	ADV
+mieux	mieux	ADV
+modérato	modérato	ADV								Rec
+moderato	modérato	ADV								Opt
+mollement	mollement	ADV
+mollo	mollo	ADV
+molto	molto	ADV
+mordicus	mordicus	ADV
+moult	moult	ADV
+murement	murement	ADV								Rec
+mûrement	murement	ADV								Opt
+naguère	naguère	ADV
+néanmoins	néanmoins	ADV
+nenni	nenni	ADV
+nib	nib	ADV
+nommément	nommément	ADV
+nonobstant	nonobstant	ADV
+notamment	notamment	ADV
+nouvellement	nouvellement	ADV
+nuitamment	nuitamment	ADV
+obrepticement	obrepticement	ADV
+onc	onc	ADV
+oncques	oncques	ADV
+onques	onques	ADV
+ores	ores	ADV
+oui	oui	ADV
+out	out	ADV
+pachaliquement	pachaliquement	ADV
+parfois	parfois	ADV
+partout	partout	ADV
+passim	passim	ADV
+peineusement	peineusement	ADV
+phénoméniquement	phénoméniquement	ADV
+pianissimo	pianissimo	ADV
+piano	piano	ADV
+plaignardement	plaignardement	ADV
+plutôt	plutôt	ADV
+pourtant	pourtant	ADV
+prestissimo	prestissimo	ADV
+presto	presto	ADV
+primo	primo	ADV
+prodigalement	prodigalement	ADV
+prou	prou	ADV
+quarto	quarto	ADV
+quater	quater	ADV
+quelquefois	quelquefois	ADV
+quinto	quinto	ADV
+rapido	rapido	ADV
+rapidos	rapidos	ADV
+rasibus	rasibus	ADV
+recta	recta	ADV
+révéremment	révéremment	ADV
+rinforzando	rinforzando	ADV
+ritardando	ritardando	ADV
+romancièrement	romancièrement	ADV
+salaudement	salaudement	ADV
+scherzando	scherzando	ADV
+scherzo	scherzo	ADV
+schuss	schuss	ADV
+sciemment	sciemment	ADV
+secundo	secundo	ADV
+sénestrorsum	sénestrorsum	ADV								Rec
+senestrorsum	sénestrorsum	ADV								Opt
+sforzando	sforzando	ADV
+sic	sic	ADV
+sinon	sinon	ADV
+sitôt	sitôt	ADV
+smorzando	smorzando	ADV
+soit	soit	ADV
+sorboniquement	sorboniquement	ADV
+sosténuto	sosténuto	ADV								Rec
+sostenuto	sosténuto	ADV								Opt
+soudain	soudain	ADV
+souvent	souvent	ADV
+souventefois	souventefois	ADV
+staccato	staccato	ADV
+subito	subito	ADV
+sultanesquement	sultanesquement	ADV
+supra	supra	ADV
+surement	surement	ADV								Rec
+sûrement	surement	ADV								Opt
+surtout	surtout	ADV
+sus	sus	ADV
+tantôt	tantôt	ADV
+tard	tard	ADV
+ténuto	ténuto	ADV								Rec
+tenuto	ténuto	ADV								Opt
+ter	ter	ADV
+tertio	tertio	ADV
+tétralogiquement	tétralogiquement	ADV
+texto	texto	ADV
+tôt	tôt	ADV
+toujours	toujours	ADV
+toute	tout	ADV
+toutefois	toutefois	ADV
+toutes	tout	ADV
+traitreusement	traitreusement	ADV								Rec
+traîtreusement	traitreusement	ADV								Opt
+ultimo	ultimo	ADV
+vachement	vachement	ADV
+vite	vite	ADV
+vitement	vitement	ADV
+vivace	vivace	ADV
+vivacement	vivacement	ADV
+voire	voire	ADV
+volontiers	volontiers	ADV
+vrai	vrai	ADV
+vulgo	vulgo	ADV
+abandonnément	abandonné	ADV											S_E	MENT:NUL 				dadj
+abjectement	abject	ADV											S_E	EMENT:NUL 				dadj
+abominablement	abominable	ADV											S_0	MENT:NUL 				dadj
+abondamment	abondant	ADV											S_E	MMENT:NUL 				dadj
+abréviativement	abréviatif	ADV											FS_VE	VEMENT:NUL 				dadj
+abruptement	abrupt	ADV											S_E	EMENT:NUL 				dadj
+absolument	absolu	ADV											S_E	MENT:NUL 				dadj
+abstractivement	abstractif	ADV											FS_VE	VEMENT:NUL 				dadj
+abstraitement	abstrait	ADV											S_E	EMENT:NUL 				dadj
+absurdement	absurde	ADV											S_0	MENT:NUL 				dadj
+abusivement	abusif	ADV											FS_VE	VEMENT:NUL 				dadj
+académiquement	académique	ADV											S_0	MENT:NUL 				dadj
+acceptablement	acceptable	ADV											S_0	MENT:NUL 				dadj
+accessoirement	accessoire	ADV											S_0	MENT:NUL 				dadj
+accidentellement	accidentel	ADV											S_DE	D_EMENT:NUL 				dadj
+accortement	accort	ADV											S_E	EMENT:NUL 				dadj
+acerbement	acerbe	ADV											S_0	MENT:NUL 				dadj
+acoustiquement	acoustique	ADV											S_0	MENT:NUL 				dadj
+âcrement	âcre	ADV											S_0	MENT:NUL 				dadj
+acrobatiquement	acrobatique	ADV											S_0	MENT:NUL 				dadj
+activement	actif	ADV											FS_VE	VEMENT:NUL 				dadj
+actiniquement	actinique	ADV											S_0	MENT:NUL 				dadj
+actuellement	actuel	ADV											S_DE	D_EMENT:NUL 				dadj
+additivement	additif	ADV											FS_VE	VEMENT:NUL 				dadj
+adéquatement	adéquat	ADV											S_E	EMENT:NUL 				dadj
+adiabatiquement	adiabatique	ADV											S_0	MENT:NUL 				dadj
+adipeusement	adipeux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+adjectivement	adjectif	ADV											FS_VE	VEMENT:NUL 				dadj
+administrativement	administratif	ADV											FS_VE	VEMENT:NUL 				dadj
+admirablement	admirable	ADV											S_0	MENT:NUL 				dadj
+admirativement	admiratif	ADV											FS_VE	VEMENT:NUL 				dadj
+adorablement	adorable	ADV											S_0	MENT:NUL 				dadj
+adroitement	adroit	ADV											S_E	EMENT:NUL 				dadj
+adverbialement	adverbial	ADV											AUX_ALE	EMENT:NUL 				dadj
+adversativement	adversatif	ADV											FS_VE	VEMENT:NUL 				dadj
+aériennement	aérien	ADV											S_DE	D_EMENT:NUL 				dadj
+affablement	affable	ADV											S_0	MENT:NUL 				dadj
+affectivement	affectif	ADV											FS_VE	VEMENT:NUL 				dadj
+affectionnément	affectionné	ADV											S_E	MENT:NUL 				dadj
+affectueusement	affectueux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+affirmativement	affirmatif	ADV											FS_VE	VEMENT:NUL 				dadj
+affreusement	affreux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+agilement	agile	ADV											S_0	MENT:NUL 				dadj
+agogiquement	agogique	ADV											S_0	MENT:NUL 				dadj
+agréablement	agréable	ADV											S_0	MENT:NUL 				dadj
+agressivement	agressif	ADV											FS_VE	VEMENT:NUL 				dadj
+aigrement	aigre	ADV											S_0	MENT:NUL 				dadj
+aigûment	aigu	ADV								Opt			S_Ë	UMENT:NUL 				dadj
+aigument	aigu	ADV								Rec			S_Ë	UMENT:NUL 				dadj
+aimablement	aimable	ADV											S_0	MENT:NUL 				dadj
+aisément	aise	ADV											S_0	B_EGRAVE_MENT:NUL 				dadj
+alcooliquement	alcoolique	ADV											S_0	MENT:NUL 				dadj
+aléatoirement	aléatoire	ADV											S_0	MENT:NUL 				dadj
+alertement	alerte	ADV											S_0	MENT:NUL 				dadj
+algébriquement	algébrique	ADV											S_0	MENT:NUL 				dadj
+algorithmiquement	algorithmique	ADV											S_0	MENT:NUL 				dadj
+allégoriquement	allégorique	ADV											S_0	MENT:NUL 				dadj
+alphabétiquement	alphabétique	ADV											S_0	MENT:NUL 				dadj
+alternativement	alternatif	ADV											FS_VE	VEMENT:NUL 				dadj
+altièrement	altier	ADV											ERS_ERE	EREMENT:NUL 				dadj
+ambigument	ambigu	ADV											S_Ë	MENT:NUL 				dadj
+ambitieusement	ambitieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+amènement	amène	ADV											S_0	MENT:NUL 				dadj
+amèrement	amer	ADV											ERS_ERE	EREMENT:NUL 				dadj
+amiablement	amiable	ADV											S_0	MENT:NUL 				dadj
+amicalement	amical	ADV											AUX_ALE	EMENT:NUL 				dadj
+amoureusement	amoureux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+amphibologiquement	amphibologique	ADV											S_0	MENT:NUL 				dadj
+amphigouriquement	amphigourique	ADV											S_0	MENT:NUL 				dadj
+amplement	ample	ADV											S_0	MENT:NUL 				dadj
+amusamment	amusant	ADV											S_E	MMENT:NUL 				dadj
+anachroniquement	anachronique	ADV											S_0	MENT:NUL 				dadj
+analogiquement	analogique	ADV											S_0	MENT:NUL 				dadj
+analytiquement	analytique	ADV											S_0	MENT:NUL 				dadj
+anarchiquement	anarchique	ADV											S_0	MENT:NUL 				dadj
+anatomiquement	anatomique	ADV											S_0	MENT:NUL 				dadj
+anciennement	ancien	ADV											S_DE	D_EMENT:NUL 				dadj
+angéliquement	angélique	ADV											S_0	MENT:NUL 				dadj
+angulairement	angulaire	ADV											S_0	MENT:NUL 				dadj
+anguleusement	anguleux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+animalement	animal	ADV											AUX_ALE	EMENT:NUL 				dadj
+annuellement	annuel	ADV											S_DE	D_EMENT:NUL 				dadj
+anonymement	anonyme	ADV											S_0	MENT:NUL 				dadj
+anormalement	anormal	ADV											AUX_ALE	EMENT:NUL 				dadj
+antécédemment	antécédent	ADV											S_E	MMENT:NUL 				dadj
+antérieurement	antérieur	ADV											S_E	EMENT:NUL 				dadj
+anthropologiquement	anthropologique	ADV											S_0	MENT:NUL 				dadj
+anthropomorphiquement	anthropomorphique	ADV											S_0	MENT:NUL 				dadj
+anticipativement	anticipatif	ADV											FS_VE	VEMENT:NUL 				dadj
+anticonstitutionnellement	anticonstitutionnel	ADV											S_DE	D_EMENT:NUL 				dadj
+antigéniquement	antigénique	ADV											S_0	MENT:NUL 				dadj
+antinomiquement	antinomique	ADV											S_0	MENT:NUL 				dadj
+antipathiquement	antipathique	ADV											S_0	MENT:NUL 				dadj
+antiquement	antique	ADV											S_0	MENT:NUL 				dadj
+anxieusement	anxieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+apocalyptiquement	apocalyptique	ADV											S_0	MENT:NUL 				dadj
+apodictiquement	apodictique	ADV											S_0	MENT:NUL 				dadj
+apostoliquement	apostolique	ADV											S_0	MENT:NUL 				dadj
+apparemment	apparent	ADV											S_E	MMENT:NUL 				dadj
+appréciablement	appréciable	ADV											S_0	MENT:NUL 				dadj
+approximativement	approximatif	ADV											FS_VE	VEMENT:NUL 				dadj
+âprement	âpre	ADV											S_0	MENT:NUL 				dadj
+arbitrairement	arbitraire	ADV											S_0	MENT:NUL 				dadj
+arbitralement	arbitral	ADV											AUX_ALE	EMENT:NUL 				dadj
+archaïquement	archaïque	ADV											S_0	MENT:NUL 				dadj
+archéologiquement	archéologique	ADV											S_0	MENT:NUL 				dadj
+architectoniquement	architectonique	ADV											S_0	MENT:NUL 				dadj
+architecturalement	architectural	ADV											AUX_ALE	EMENT:NUL 				dadj
+ardemment	ardent	ADV											S_E	MMENT:NUL 				dadj
+aristocratiquement	aristocratique	ADV											S_0	MENT:NUL 				dadj
+arithmétiquement	arithmétique	ADV											S_0	MENT:NUL 				dadj
+arrogamment	arrogant	ADV											S_E	MMENT:NUL 				dadj
+artificiellement	artificiel	ADV											S_DE	D_EMENT:NUL 				dadj
+artificieusement	artificieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+artisanalement	artisanal	ADV											AUX_ALE	EMENT:NUL 				dadj
+artistement	artiste	ADV											S_0	MENT:NUL 				dadj
+artistiquement	artistique	ADV											S_0	MENT:NUL 				dadj
+ascétiquement	ascétique	ADV											S_0	MENT:NUL 				dadj
+aseptiquement	aseptique	ADV											S_0	MENT:NUL 				dadj
+assidûment	assidu	ADV								Opt			S_E	UMENT:NUL 				dadj
+assidument	assidu	ADV								Rec			S_E	UMENT:NUL 				dadj
+associativement	associatif	ADV											FS_VE	VEMENT:NUL 				dadj
+assurément	assuré	ADV											S_E	MENT:NUL 				dadj
+astrologiquement	astrologique	ADV											S_0	MENT:NUL 				dadj
+astronomiquement	astronomique	ADV											S_0	MENT:NUL 				dadj
+astucieusement	astucieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+asymétriquement	asymétrique	ADV											S_0	MENT:NUL 				dadj
+asymptotiquement	asymptotique	ADV											S_0	MENT:NUL 				dadj
+athlétiquement	athlétique	ADV											S_0	MENT:NUL 				dadj
+atomiquement	atomique	ADV											S_0	MENT:NUL 				dadj
+atrocement	atroce	ADV											S_0	MENT:NUL 				dadj
+attentivement	attentif	ADV											FS_VE	VEMENT:NUL 				dadj
+attiquement	attique	ADV											S_0	MENT:NUL 				dadj
+audacieusement	audacieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+auguralement	augural	ADV											AUX_ALE	EMENT:NUL 				dadj
+augustement	auguste	ADV											S_0	MENT:NUL 				dadj
+austèrement	austère	ADV											S_0	MENT:NUL 				dadj
+authentiquement	authentique	ADV											S_0	MENT:NUL 				dadj
+autocratiquement	autocratique	ADV											S_0	MENT:NUL 				dadj
+automatiquement	automatique	ADV											S_0	MENT:NUL 				dadj
+autoritairement	autoritaire	ADV											S_0	MENT:NUL 				dadj
+auxiliairement	auxiliaire	ADV											S_0	MENT:NUL 				dadj
+avantageusement	avantageux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+avarement	avare	ADV											S_0	MENT:NUL 				dadj
+avaricieusement	avaricieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+aventurément	aventuré	ADV											S_E	MENT:NUL 				dadj
+aventureusement	aventureux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+aveuglément	aveugle	ADV											S_0	B_EGRAVE_MENT:NUL 				dadj
+avidement	avide	ADV											S_0	MENT:NUL 				dadj
+avunculairement	avunculaire	ADV											S_0	MENT:NUL 				dadj
+axialement	axial	ADV											AUX_ALE	EMENT:NUL 				dadj
+axiologiquement	axiologique	ADV											S_0	MENT:NUL 				dadj
+bactériologiquement	bactériologique	ADV											S_0	MENT:NUL 				dadj
+badinement	badin	ADV											S_E	EMENT:NUL 				dadj
+balourdement	balourd	ADV											S_E	EMENT:NUL 				dadj
+balsamiquement	balsamique	ADV											S_0	MENT:NUL 				dadj
+banalement	banal	ADV											FINAL	EMENT:NUL 				dadj
+barbarement	barbare	ADV											S_0	MENT:NUL 				dadj
+barométriquement	barométrique	ADV											S_0	MENT:NUL 				dadj
+baroquement	baroque	ADV											S_0	MENT:NUL 				dadj
+bassement	bas	ADV											X_SSE	D_EMENT:NUL 				dadj
+batailleusement	batailleur	ADV											EURS_EUSE	EUSEMENT:NUL 				dadj
+baveusement	baveux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+béatement	béat	ADV											S_E	EMENT:NUL 				dadj
+bellement	beau	ADV											BEAU	LLEMENT:NUL 				dadj
+belliqueusement	belliqueux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+bénévolement	bénévole	ADV											S_0	MENT:NUL 				dadj
+benoitement	benoit	ADV								Rec			S_E	EMENT:NUL 				dadj
+benoîtement	benoit	ADV								Opt			S_E	EMENT:NUL 				dadj
+bestialement	bestial	ADV											AUX_ALE	EMENT:NUL 				dadj
+bêtement	bête	ADV											S_0	MENT:NUL 				dadj
+bibliquement	biblique	ADV											S_0	MENT:NUL 				dadj
+bienheureusement	bienheureux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+bienveillamment	bienveillant	ADV											S_E	MMENT:NUL 				dadj
+bigotement	bigot	ADV											S_E	EMENT:NUL 				dadj
+bilatéralement	bilatéral	ADV											AUX_ALE	EMENT:NUL 				dadj
+bilieusement	bilieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+bimensuellement	bimensuel	ADV											S_DE	D_EMENT:NUL 				dadj
+biographiquement	biographique	ADV											S_0	MENT:NUL 				dadj
+biologiquement	biologique	ADV											S_0	MENT:NUL 				dadj
+bizarrement	bizarre	ADV											S_0	MENT:NUL 				dadj
+blafardement	blafard	ADV											S_E	EMENT:NUL 				dadj
+blanchement	blanc	ADV											CS_CHE	CHEMENT:NUL 				dadj
+blondement	blond	ADV											S_E	EMENT:NUL 				dadj
+bonnement	bon	ADV											S_DE	D_EMENT:NUL 				dadj
+bonassement	bonasse	ADV											S_0	MENT:NUL 				dadj
+botaniquement	botanique	ADV											S_0	MENT:NUL 				dadj
+boudeusement	boudeur	ADV											EURS_EUSE	EUSEMENT:NUL 				dadj
+boueusement	boueux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+bouffonnement	bouffon	ADV											S_DE	D_EMENT:NUL 				dadj
+bourgeoisement	bourgeois	ADV											0_E	EMENT:NUL 				dadj
+bravement	brave	ADV											S_0	MENT:NUL 				dadj
+brièvement	bref	ADV											EFS_EVE	IEVEMENT:NUL 				dadj
+brillamment	brillant	ADV											S_E	MMENT:NUL 				dadj
+brumeusement	brumeux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+brusquement	brusque	ADV											S_0	MENT:NUL 				dadj
+brutalement	brutal	ADV											AUX_ALE	EMENT:NUL 				dadj
+bruyamment	bruyant	ADV											S_E	MMENT:NUL 				dadj
+bucoliquement	bucolique	ADV											S_0	MENT:NUL 				dadj
+budgétairement	budgétaire	ADV											S_0	MENT:NUL 				dadj
+bureaucratiquement	bureaucratique	ADV											S_0	MENT:NUL 				dadj
+burlesquement	burlesque	ADV											S_0	MENT:NUL 				dadj
+cabalistiquement	cabalistique	ADV											S_0	MENT:NUL 				dadj
+câlinement	câlin	ADV											S_E	EMENT:NUL 				dadj
+calligraphiquement	calligraphique	ADV											S_0	MENT:NUL 				dadj
+calmement	calme	ADV											S_0	MENT:NUL 				dadj
+calomnieusement	calomnieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+canaillement	canaille	ADV											S_0	MENT:NUL 				dadj
+candidement	candide	ADV											S_0	MENT:NUL 				dadj
+canoniquement	canonique	ADV											S_0	MENT:NUL 				dadj
+capablement	capable	ADV											S_0	MENT:NUL 				dadj
+capitalement	capital	ADV											AUX_ALE	EMENT:NUL 				dadj
+capitulairement	capitulaire	ADV											S_0	MENT:NUL 				dadj
+capricieusement	capricieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+captieusement	captieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+caricaturalement	caricatural	ADV											AUX_ALE	EMENT:NUL 				dadj
+carrément	carré	ADV											S_E	MENT:NUL 				dadj
+casuellement	casuel	ADV											S_DE	D_EMENT:NUL 				dadj
+catégoriquement	catégorique	ADV											S_0	MENT:NUL 				dadj
+catholiquement	catholique	ADV											S_0	MENT:NUL 				dadj
+causalement	causal	ADV											FINAL	EMENT:NUL 				dadj
+cavalièrement	cavalier	ADV											ERS_ERE	EREMENT:NUL 				dadj
+caverneusement	caverneux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+célestement	céleste	ADV											S_0	MENT:NUL 				dadj
+cellulairement	cellulaire	ADV											S_0	MENT:NUL 				dadj
+censément	censé	ADV											S_E	MENT:NUL 				dadj
+centralement	central	ADV											AUX_ALE	EMENT:NUL 				dadj
+cérébralement	cérébral	ADV											AUX_ALE	EMENT:NUL 				dadj
+cérémoniellement	cérémoniel	ADV											S_DE	D_EMENT:NUL 				dadj
+cérémonieusement	cérémonieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+certainement	certain	ADV											S_E	EMENT:NUL 				dadj
+chaleureusement	chaleureux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+chaotiquement	chaotique	ADV											S_0	MENT:NUL 				dadj
+charitablement	charitable	ADV											S_0	MENT:NUL 				dadj
+charnellement	charnel	ADV											S_DE	D_EMENT:NUL 				dadj
+chastement	chaste	ADV											S_0	MENT:NUL 				dadj
+chaudement	chaud	ADV											S_E	EMENT:NUL 				dadj
+chenuement	chenu	ADV											S_E	EMENT:NUL 				dadj
+chèrement	cher	ADV											ERS_ERE	EREMENT:NUL 				dadj
+chétivement	chétif	ADV											FS_VE	VEMENT:NUL 				dadj
+chevaleresquement	chevaleresque	ADV											S_0	MENT:NUL 				dadj
+chichement	chiche	ADV											S_0	MENT:NUL 				dadj
+chimériquement	chimérique	ADV											S_0	MENT:NUL 				dadj
+chimiquement	chimique	ADV											S_0	MENT:NUL 				dadj
+chorégraphiquement	chorégraphique	ADV											S_0	MENT:NUL 				dadj
+chouettement	chouette	ADV											S_0	MENT:NUL 				dadj
+chrétiennement	chrétien	ADV											S_DE	D_EMENT:NUL 				dadj
+chromatiquement	chromatique	ADV											S_0	MENT:NUL 				dadj
+chroniquement	chronique	ADV											S_0	MENT:NUL 				dadj
+chronologiquement	chronologique	ADV											S_0	MENT:NUL 				dadj
+chronométriquement	chronométrique	ADV											S_0	MENT:NUL 				dadj
+cinématiquement	cinématique	ADV											S_0	MENT:NUL 				dadj
+cinématographiquement	cinématographique	ADV											S_0	MENT:NUL 				dadj
+circulairement	circulaire	ADV											S_0	MENT:NUL 				dadj
+civilement	civil	ADV											S_E	EMENT:NUL 				dadj
+civiquement	civique	ADV											S_0	MENT:NUL 				dadj
+clairement	clair	ADV											S_E	EMENT:NUL 				dadj
+clandestinement	clandestin	ADV											S_E	EMENT:NUL 				dadj
+classiquement	classique	ADV											S_0	MENT:NUL 				dadj
+cléricalement	clérical	ADV											AUX_ALE	EMENT:NUL 				dadj
+cliniquement	clinique	ADV											S_0	MENT:NUL 				dadj
+cocassement	cocasse	ADV											S_0	MENT:NUL 				dadj
+coléreusement	coléreux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+collatéralement	collatéral	ADV											AUX_ALE	EMENT:NUL 				dadj
+collectivement	collectif	ADV											FS_VE	VEMENT:NUL 				dadj
+collégialement	collégial	ADV											AUX_ALE	EMENT:NUL 				dadj
+colossalement	colossal	ADV											AUX_ALE	EMENT:NUL 				dadj
+comiquement	comique	ADV											S_0	MENT:NUL 				dadj
+commercialement	commercial	ADV											AUX_ALE	EMENT:NUL 				dadj
+commodément	commode	ADV											S_0	B_EGRAVE_MENT:NUL 				dadj
+communément	commun	ADV											S_E	EGRAVE_MENT:NUL 				dadj
+comparablement	comparable	ADV											S_0	MENT:NUL 				dadj
+comparativement	comparatif	ADV											FS_VE	VEMENT:NUL 				dadj
+compendieusement	compendieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+complaisamment	complaisant	ADV											S_E	MMENT:NUL 				dadj
+complémentairement	complémentaire	ADV											S_0	MENT:NUL 				dadj
+complètement	complet	ADV											ETS_ETE	ETEMENT:NUL 				dadj
+connement	con	ADV											S_DE	D_EMENT:NUL 				dadj
+concentriquement	concentrique	ADV											S_0	MENT:NUL 				dadj
+conceptuellement	conceptuel	ADV											S_DE	D_EMENT:NUL 				dadj
+concomitamment	concomitant	ADV											S_E	MMENT:NUL 				dadj
+concrètement	concret	ADV											ETS_ETE	ETEMENT:NUL 				dadj
+concurremment	concurrent	ADV											S_E	MMENT:NUL 				dadj
+conditionnellement	conditionnel	ADV											S_DE	D_EMENT:NUL 				dadj
+confidentiellement	confidentiel	ADV											S_DE	D_EMENT:NUL 				dadj
+conformément	conforme	ADV											S_0	B_EGRAVE_MENT:NUL 				dadj
+confortablement	confortable	ADV											S_0	MENT:NUL 				dadj
+confraternellement	confraternel	ADV											S_DE	D_EMENT:NUL 				dadj
+confusément	confus	ADV											0_E	EGRAVE_MENT:NUL 				dadj
+congénitalement	congénital	ADV											AUX_ALE	EMENT:NUL 				dadj
+congrûment	congru	ADV								Opt			S_E	UMENT:NUL 				dadj
+congrument	congru	ADV								Rec			S_E	UMENT:NUL 				dadj
+conjecturalement	conjectural	ADV											AUX_ALE	EMENT:NUL 				dadj
+conjointement	conjoint	ADV											S_E	EMENT:NUL 				dadj
+conjugalement	conjugal	ADV											AUX_ALE	EMENT:NUL 				dadj
+consciencieusement	consciencieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+consciemment	conscient	ADV											S_E	MMENT:NUL 				dadj
+consécutivement	consécutif	ADV											FS_VE	VEMENT:NUL 				dadj
+conséquemment	conséquent	ADV											S_E	MMENT:NUL 				dadj
+considérablement	considérable	ADV											S_0	MENT:NUL 				dadj
+consistorialement	consistorial	ADV											AUX_ALE	EMENT:NUL 				dadj
+constamment	constant	ADV											S_E	MMENT:NUL 				dadj
+constitutionnellement	constitutionnel	ADV											S_DE	D_EMENT:NUL 				dadj
+consubstantiellement	consubstantiel	ADV											S_DE	D_EMENT:NUL 				dadj
+contagieusement	contagieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+contemplativement	contemplatif	ADV											FS_VE	VEMENT:NUL 				dadj
+contentieusement	contentieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+continûment	continu	ADV								Opt			S_E	UMENT:NUL 				dadj
+continument	continu	ADV								Rec			S_E	UMENT:NUL 				dadj
+continuellement	continuel	ADV											S_DE	D_EMENT:NUL 				dadj
+contractuellement	contractuel	ADV											S_DE	D_EMENT:NUL 				dadj
+contradictoirement	contradictoire	ADV											S_0	MENT:NUL 				dadj
+contrairement	contraire	ADV											S_0	MENT:NUL 				dadj
+contributoirement	contributoire	ADV											S_0	MENT:NUL 				dadj
+convenablement	convenable	ADV											S_0	MENT:NUL 				dadj
+conventionnellement	conventionnel	ADV											S_DE	D_EMENT:NUL 				dadj
+conventuellement	conventuel	ADV											S_DE	D_EMENT:NUL 				dadj
+convivialement	convivial	ADV											AUX_ALE	EMENT:NUL 				dadj
+convulsivement	convulsif	ADV											FS_VE	VEMENT:NUL 				dadj
+copieusement	copieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+coquettement	coquet	ADV											S_DE	D_EMENT:NUL 				dadj
+coquinement	coquin	ADV											S_E	EMENT:NUL 				dadj
+cordialement	cordial	ADV											AUX_ALE	EMENT:NUL 				dadj
+corporativement	corporatif	ADV											FS_VE	VEMENT:NUL 				dadj
+corporellement	corporel	ADV											S_DE	D_EMENT:NUL 				dadj
+correctement	correct	ADV											S_E	EMENT:NUL 				dadj
+correctionnellement	correctionnel	ADV											S_DE	D_EMENT:NUL 				dadj
+corrélativement	corrélatif	ADV											FS_VE	VEMENT:NUL 				dadj
+cosmiquement	cosmique	ADV											S_0	MENT:NUL 				dadj
+cotonneusement	cotonneux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+couardement	couard	ADV											S_E	EMENT:NUL 				dadj
+coupablement	coupable	ADV											S_0	MENT:NUL 				dadj
+courageusement	courageux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+couramment	courant	ADV											S_E	MMENT:NUL 				dadj
+courtement	court	ADV											S_E	EMENT:NUL 				dadj
+courtoisement	courtois	ADV											0_E	EMENT:NUL 				dadj
+couteusement	couteux	ADV								Rec			EUX_EUSE	EUSEMENT:NUL 				dadj
+coûteusement	couteux	ADV								Opt			EUX_EUSE	EUSEMENT:NUL 				dadj
+craintivement	craintif	ADV											FS_VE	VEMENT:NUL 				dadj
+crânement	crâne	ADV											S_0	MENT:NUL 				dadj
+crapuleusement	crapuleux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+criminellement	criminel	ADV											S_DE	D_EMENT:NUL 				dadj
+crûment	cru	ADV								Opt			S_E	UMENT:NUL 				dadj
+crument	cru	ADV								Rec			S_E	UMENT:NUL 				dadj
+cruellement	cruel	ADV											S_DE	D_EMENT:NUL 				dadj
+cuisamment	cuisant	ADV											S_E	MMENT:NUL 				dadj
+cultuellement	cultuel	ADV											S_DE	D_EMENT:NUL 				dadj
+culturellement	culturel	ADV											S_DE	D_EMENT:NUL 				dadj
+cumulativement	cumulatif	ADV											FS_VE	VEMENT:NUL 				dadj
+curieusement	curieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+cursivement	cursif	ADV											FS_VE	VEMENT:NUL 				dadj
+cyniquement	cynique	ADV											S_0	MENT:NUL 				dadj
+cytologiquement	cytologique	ADV											S_0	MENT:NUL 				dadj
+dangereusement	dangereux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+débonnairement	débonnaire	ADV											S_0	MENT:NUL 				dadj
+décemment	décent	ADV											S_E	MMENT:NUL 				dadj
+décidément	décidé	ADV											S_E	MENT:NUL 				dadj
+décorativement	décoratif	ADV											FS_VE	VEMENT:NUL 				dadj
+dédaigneusement	dédaigneux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+déductivement	déductif	ADV											FS_VE	VEMENT:NUL 				dadj
+défavorablement	défavorable	ADV											S_0	MENT:NUL 				dadj
+défectueusement	défectueux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+défensivement	défensif	ADV											FS_VE	VEMENT:NUL 				dadj
+définitivement	définitif	ADV											FS_VE	VEMENT:NUL 				dadj
+dégoutamment	dégoutant	ADV								Rec			S_E	MMENT:NUL 				dadj
+dégoûtamment	dégoutant	ADV								Opt			S_E	MMENT:NUL 				dadj
+délectablement	délectable	ADV											S_0	MENT:NUL 				dadj
+délibérément	délibéré	ADV											S_E	MENT:NUL 				dadj
+délicatement	délicat	ADV											S_E	EMENT:NUL 				dadj
+délicieusement	délicieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+déloyalement	déloyal	ADV											AUX_ALE	EMENT:NUL 				dadj
+démesurément	démesuré	ADV											S_E	MENT:NUL 				dadj
+démocratiquement	démocratique	ADV											S_0	MENT:NUL 				dadj
+démoniaquement	démoniaque	ADV											S_0	MENT:NUL 				dadj
+densément	dense	ADV											S_0	B_EGRAVE_MENT:NUL 				dadj
+dépendamment	dépendant	ADV											S_E	MMENT:NUL 				dadj
+déplaisamment	déplaisant	ADV											S_E	MMENT:NUL 				dadj
+déplorablement	déplorable	ADV											S_0	MENT:NUL 				dadj
+déraisonnablement	déraisonnable	ADV											S_0	MENT:NUL 				dadj
+dérisoirement	dérisoire	ADV											S_0	MENT:NUL 				dadj
+dernièrement	dernier	ADV											ERS_ERE	EREMENT:NUL 				dadj
+désagréablement	désagréable	ADV											S_0	MENT:NUL 				dadj
+désastreusement	désastreux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+désavantageusement	désavantageux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+désespérément	désespéré	ADV											S_E	MENT:NUL 				dadj
+désobligeamment	désobligeant	ADV											S_E	MMENT:NUL 				dadj
+despotiquement	despotique	ADV											S_0	MENT:NUL 				dadj
+déterminément	déterminé	ADV											S_E	MENT:NUL 				dadj
+détestablement	détestable	ADV											S_0	MENT:NUL 				dadj
+dévotement	dévot	ADV											S_E	EMENT:NUL 				dadj
+dévotieusement	dévotieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+dextrement	dextre	ADV											S_0	MENT:NUL 				dadj
+diaboliquement	diabolique	ADV											S_0	MENT:NUL 				dadj
+diachroniquement	diachronique	ADV											S_0	MENT:NUL 				dadj
+diagonalement	diagonal	ADV											AUX_ALE	EMENT:NUL 				dadj
+dialectiquement	dialectique	ADV											S_0	MENT:NUL 				dadj
+diamétralement	diamétral	ADV											AUX_ALE	EMENT:NUL 				dadj
+diatoniquement	diatonique	ADV											S_0	MENT:NUL 				dadj
+dictatorialement	dictatorial	ADV											AUX_ALE	EMENT:NUL 				dadj
+didactiquement	didactique	ADV											S_0	MENT:NUL 				dadj
+différemment	différent	ADV											S_E	MMENT:NUL 				dadj
+difficilement	difficile	ADV											S_0	MENT:NUL 				dadj
+difficultueusement	difficultueux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+diffusément	diffus	ADV											0_E	EGRAVE_MENT:NUL 				dadj
+dignement	digne	ADV											S_0	MENT:NUL 				dadj
+diligemment	diligent	ADV											S_E	MMENT:NUL 				dadj
+diplomatiquement	diplomatique	ADV											S_0	MENT:NUL 				dadj
+directement	direct	ADV											S_E	EMENT:NUL 				dadj
+discrètement	discret	ADV											ETS_ETE	ETEMENT:NUL 				dadj
+discrétionnairement	discrétionnaire	ADV											S_0	MENT:NUL 				dadj
+discursivement	discursif	ADV											FS_VE	VEMENT:NUL 				dadj
+disgracieusement	disgracieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+disproportionnément	disproportionné	ADV											S_E	MENT:NUL 				dadj
+dissolument	dissolu	ADV											S_E	MENT:NUL 				dadj
+distinctement	distinct	ADV											S_E	EMENT:NUL 				dadj
+distraitement	distrait	ADV											S_E	EMENT:NUL 				dadj
+distributivement	distributif	ADV											FS_VE	VEMENT:NUL 				dadj
+diversement	divers	ADV											0_E	EMENT:NUL 				dadj
+divinement	divin	ADV											S_E	EMENT:NUL 				dadj
+docilement	docile	ADV											S_0	MENT:NUL 				dadj
+doctement	docte	ADV											S_0	MENT:NUL 				dadj
+doctoralement	doctoral	ADV											AUX_ALE	EMENT:NUL 				dadj
+doctrinalement	doctrinal	ADV											AUX_ALE	EMENT:NUL 				dadj
+dogmatiquement	dogmatique	ADV											S_0	MENT:NUL 				dadj
+dolemment	dolent	ADV											S_E	MMENT:NUL EMENT:NUL 				dadj
+dolentement	dolent	ADV											S_E	MMENT:NUL EMENT:NUL 				dadj
+dolosivement	dolosif	ADV											FS_VE	VEMENT:NUL 				dadj
+dommageablement	dommageable	ADV											S_0	MENT:NUL 				dadj
+doublement	double	ADV											S_0	MENT:NUL 				dadj
+doucereusement	doucereux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+doucettement	doucet	ADV											S_DE	D_EMENT:NUL 				dadj
+douillettement	douillet	ADV											S_DE	D_EMENT:NUL 				dadj
+douloureusement	douloureux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+douteusement	douteux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+doucement	doux	ADV											X_CE	CEMENT:NUL 				dadj
+dramatiquement	dramatique	ADV											S_0	MENT:NUL 				dadj
+droitement	droit	ADV											S_E	EMENT:NUL 				dadj
+drolatiquement	drolatique	ADV											S_0	MENT:NUL 				dadj
+drôlement	drôle	ADV											S_0	MENT:NUL 				dadj
+drument	dru	ADV											S_E	MENT:NUL 				dadj
+dubitativement	dubitatif	ADV											FS_VE	VEMENT:NUL 				dadj
+durement	dur	ADV											S_E	EMENT:NUL 				dadj
+durablement	durable	ADV											S_0	MENT:NUL 				dadj
+dynamiquement	dynamique	ADV											S_0	MENT:NUL 				dadj
+ecclésiastiquement	ecclésiastique	ADV											S_0	MENT:NUL 				dadj
+éclectiquement	éclectique	ADV											S_0	MENT:NUL 				dadj
+écologiquement	écologique	ADV											S_0	MENT:NUL 				dadj
+économiquement	économique	ADV											S_0	MENT:NUL 				dadj
+édéniquement	édénique	ADV											S_0	MENT:NUL 				dadj
+effectivement	effectif	ADV											FS_VE	VEMENT:NUL 				dadj
+efficacement	efficace	ADV											S_0	MENT:NUL 				dadj
+effrénément	effréné	ADV											S_E	MENT:NUL 				dadj
+effrontément	effronté	ADV											S_E	MENT:NUL 				dadj
+effroyablement	effroyable	ADV											S_0	MENT:NUL 				dadj
+également	égal	ADV											AUX_ALE	EMENT:NUL 				dadj
+égoïstement	égoïste	ADV											S_0	MENT:NUL 				dadj
+élastiquement	élastique	ADV											S_0	MENT:NUL 				dadj
+électivement	électif	ADV											FS_VE	VEMENT:NUL 				dadj
+électriquement	électrique	ADV											S_0	MENT:NUL 				dadj
+électroniquement	électronique	ADV											S_0	MENT:NUL 				dadj
+élégamment	élégant	ADV											S_E	MMENT:NUL 				dadj
+élémentairement	élémentaire	ADV											S_0	MENT:NUL 				dadj
+elliptiquement	elliptique	ADV											S_0	MENT:NUL 				dadj
+élogieusement	élogieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+éloquemment	éloquent	ADV											S_E	MMENT:NUL 				dadj
+emblématiquement	emblématique	ADV											S_0	MENT:NUL 				dadj
+éminemment	éminent	ADV											S_E	MMENT:NUL 				dadj
+emphatiquement	emphatique	ADV											S_0	MENT:NUL 				dadj
+énergétiquement	énergétique	ADV											S_0	MENT:NUL 				dadj
+énergiquement	énergique	ADV											S_0	MENT:NUL 				dadj
+énigmatiquement	énigmatique	ADV											S_0	MENT:NUL 				dadj
+ennuyeusement	ennuyeux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+énormément	énorme	ADV											S_0	B_EGRAVE_MENT:NUL 				dadj
+entièrement	entier	ADV											ERS_ERE	EREMENT:NUL 				dadj
+envieusement	envieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+épaissement	épais	ADV											X_SSE	D_EMENT:NUL 				dadj
+épatamment	épatant	ADV											S_E	MMENT:NUL 				dadj
+épileptiquement	épileptique	ADV											S_0	MENT:NUL 				dadj
+épiquement	épique	ADV											S_0	MENT:NUL 				dadj
+épisodiquement	épisodique	ADV											S_0	MENT:NUL 				dadj
+épouvantablement	épouvantable	ADV											S_0	MENT:NUL 				dadj
+équitablement	équitable	ADV											S_0	MENT:NUL 				dadj
+équivalemment	équivalent	ADV											S_E	MMENT:NUL 				dadj
+érotiquement	érotique	ADV											S_0	MENT:NUL 				dadj
+essentiellement	essentiel	ADV											S_DE	D_EMENT:NUL 				dadj
+esthétiquement	esthétique	ADV											S_0	MENT:NUL 				dadj
+éternellement	éternel	ADV											S_DE	D_EMENT:NUL 				dadj
+étonnamment	étonnant	ADV											S_E	MMENT:NUL 				dadj
+étrangement	étrange	ADV											S_0	MENT:NUL 				dadj
+étroitement	étroit	ADV											S_E	EMENT:NUL 				dadj
+étymologiquement	étymologique	ADV											S_0	MENT:NUL 				dadj
+évangéliquement	évangélique	ADV											S_0	MENT:NUL 				dadj
+évasivement	évasif	ADV											FS_VE	VEMENT:NUL 				dadj
+éventuellement	éventuel	ADV											S_DE	D_EMENT:NUL 				dadj
+évidemment	évident	ADV											S_E	MMENT:NUL 				dadj
+exactement	exact	ADV											S_E	EMENT:NUL 				dadj
+exagérément	exagéré	ADV											S_E	MENT:NUL 				dadj
+excellemment	excellent	ADV											S_E	MMENT:NUL 				dadj
+excentriquement	excentrique	ADV											S_0	MENT:NUL 				dadj
+exceptionnellement	exceptionnel	ADV											S_DE	D_EMENT:NUL 				dadj
+excessivement	excessif	ADV											FS_VE	VEMENT:NUL 				dadj
+exclusivement	exclusif	ADV											FS_VE	VEMENT:NUL 				dadj
+exécrablement	exécrable	ADV											S_0	MENT:NUL 				dadj
+exemplairement	exemplaire	ADV											S_0	MENT:NUL 				dadj
+exhaustivement	exhaustif	ADV											FS_VE	VEMENT:NUL 				dadj
+exorbitamment	exorbitant	ADV											S_E	MMENT:NUL 				dadj
+expérimentalement	expérimental	ADV											AUX_ALE	EMENT:NUL 				dadj
+expertement	expert	ADV											S_E	EMENT:NUL 				dadj
+explicitement	explicite	ADV											S_0	MENT:NUL 				dadj
+exponentiellement	exponentiel	ADV											S_DE	D_EMENT:NUL 				dadj
+expressément	exprès	ADV											ES_ESSE	ESSEMENT:NUL 				dadj
+expressivement	expressif	ADV											FS_VE	VEMENT:NUL 				dadj
+exquisément	exquis	ADV											0_E	EGRAVE_MENT:NUL 				dadj
+extérieurement	extérieur	ADV											S_E	EMENT:NUL 				dadj
+extraordinairement	extraordinaire	ADV											S_0	MENT:NUL 				dadj
+extravagamment	extravagant	ADV											S_E	MMENT:NUL 				dadj
+fabuleusement	fabuleux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+facétieusement	facétieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+fâcheusement	fâcheux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+facilement	facile	ADV											S_0	MENT:NUL 				dadj
+fadement	fade	ADV											S_0	MENT:NUL 				dadj
+faiblement	faible	ADV											S_0	MENT:NUL 				dadj
+fallacieusement	fallacieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+fameusement	fameux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+familièrement	familier	ADV											ERS_ERE	EREMENT:NUL 				dadj
+fanatiquement	fanatique	ADV											S_0	MENT:NUL 				dadj
+fantasquement	fantasque	ADV											S_0	MENT:NUL 				dadj
+fantastiquement	fantastique	ADV											S_0	MENT:NUL 				dadj
+farouchement	farouche	ADV											S_0	MENT:NUL 				dadj
+fastidieusement	fastidieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+fastueusement	fastueux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+fatalement	fatal	ADV											S_E	EMENT:NUL 				dadj
+fautivement	fautif	ADV											FS_VE	VEMENT:NUL 				dadj
+faussement	faux	ADV											X_SSE	SSEMENT:NUL 				dadj
+favorablement	favorable	ADV											S_0	MENT:NUL 				dadj
+fébrilement	fébrile	ADV											S_0	MENT:NUL 				dadj
+féériquement	féérique	ADV								Rec			S_0	MENT:NUL 				dadj
+féeriquement	féérique	ADV								Opt			S_0	MENT:NUL 				dadj
+félinement	félin	ADV											S_E	EMENT:NUL 				dadj
+fémininement	féminin	ADV											S_E	EMENT:NUL 				dadj
+féodalement	féodal	ADV											AUX_ALE	EMENT:NUL 				dadj
+fermement	ferme	ADV											S_0	MENT:NUL 				dadj
+férocement	féroce	ADV											S_0	MENT:NUL 				dadj
+fertilement	fertile	ADV											S_0	MENT:NUL 				dadj
+fervemment	fervent	ADV											S_E	MMENT:NUL 				dadj
+fétidement	fétide	ADV											S_0	MENT:NUL 				dadj
+fictivement	fictif	ADV											FS_VE	VEMENT:NUL 				dadj
+fidèlement	fidèle	ADV											S_0	MENT:NUL 				dadj
+fiduciairement	fiduciaire	ADV											S_0	MENT:NUL 				dadj
+fielleusement	fielleux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+fièrement	fier	ADV											ERS_ERE	EREMENT:NUL 				dadj
+fiévreusement	fiévreux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+figurativement	figuratif	ADV											FS_VE	VEMENT:NUL 				dadj
+figurément	figuré	ADV											S_E	MENT:NUL 				dadj
+filandreusement	filandreux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+filialement	filial	ADV											AUX_ALE	EMENT:NUL 				dadj
+filmiquement	filmique	ADV											S_0	MENT:NUL 				dadj
+finement	fin	ADV											S_E	EMENT:NUL 				dadj
+finalement	final	ADV											FINAL	EMENT:NUL 				dadj
+financièrement	financier	ADV											ERS_ERE	EREMENT:NUL 				dadj
+finaudement	finaud	ADV											S_E	EMENT:NUL 				dadj
+fiscalement	fiscal	ADV											AUX_ALE	EMENT:NUL 				dadj
+fixement	fixe	ADV											S_0	MENT:NUL 				dadj
+flasquement	flasque	ADV											S_0	MENT:NUL 				dadj
+flatteusement	flatteur	ADV											EURS_EUSE	EUSEMENT:NUL 				dadj
+flegmatiquement	flegmatique	ADV											S_0	MENT:NUL 				dadj
+flexionnellement	flexionnel	ADV											S_DE	D_EMENT:NUL 				dadj
+flexueusement	flexueux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+fluidement	fluide	ADV											S_0	MENT:NUL 				dadj
+folâtrement	folâtre	ADV											S_0	MENT:NUL 				dadj
+foncièrement	foncier	ADV											ERS_ERE	EREMENT:NUL 				dadj
+fonctionnellement	fonctionnel	ADV											S_DE	D_EMENT:NUL 				dadj
+fondamentalement	fondamental	ADV											AUX_ALE	EMENT:NUL 				dadj
+forcément	forcé	ADV											S_E	MENT:NUL 				dadj
+forestièrement	forestier	ADV											ERS_ERE	EREMENT:NUL 				dadj
+forfaitairement	forfaitaire	ADV											S_0	MENT:NUL 				dadj
+formellement	formel	ADV											S_DE	D_EMENT:NUL 				dadj
+formidablement	formidable	ADV											S_0	MENT:NUL 				dadj
+fortement	fort	ADV											S_E	EMENT:NUL 				dadj
+fortuitement	fortuit	ADV											S_E	EMENT:NUL 				dadj
+follement	fou	ADV											FOU	OLLEMENT:NUL 				dadj
+fougueusement	fougueux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+foutûment	foutu	ADV								Opt			S_E	UMENT:NUL 				dadj
+foutument	foutu	ADV								Rec			S_E	UMENT:NUL 				dadj
+fragilement	fragile	ADV											S_0	MENT:NUL 				dadj
+fragmentairement	fragmentaire	ADV											S_0	MENT:NUL 				dadj
+fraîchement	frais	ADV								Opt			FRAIS	AICHEMENT:NUL 				dadj
+fraichement	frais	ADV								Rec			FRAIS	AICHEMENT:NUL 				dadj
+franchement	franc_2	ADV											CS_CHE	CHEMENT:NUL 				dadj
+fraternellement	fraternel	ADV											S_DE	D_EMENT:NUL 				dadj
+frauduleusement	frauduleux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+frêlement	frêle	ADV											S_0	MENT:NUL 				dadj
+frénétiquement	frénétique	ADV											S_0	MENT:NUL 				dadj
+fréquemment	fréquent	ADV											S_E	MMENT:NUL 				dadj
+frigidement	frigide	ADV											S_0	MENT:NUL 				dadj
+frileusement	frileux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+frivolement	frivole	ADV											S_0	MENT:NUL 				dadj
+froidement	froid	ADV											S_E	EMENT:NUL 				dadj
+frontalement	frontal	ADV											AUX_ALE	EMENT:NUL 				dadj
+fructueusement	fructueux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+frugalement	frugal	ADV											AUX_ALE	EMENT:NUL 				dadj
+frustement	fruste	ADV											S_0	MENT:NUL 				dadj
+fugacement	fugace	ADV											S_0	MENT:NUL 				dadj
+fugitivement	fugitif	ADV											FS_VE	VEMENT:NUL 				dadj
+fuligineusement	fuligineux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+funèbrement	funèbre	ADV											S_0	MENT:NUL 				dadj
+funérairement	funéraire	ADV											S_0	MENT:NUL 				dadj
+funestement	funeste	ADV											S_0	MENT:NUL 				dadj
+furibondement	furibond	ADV											S_E	EMENT:NUL 				dadj
+furieusement	furieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+furtivement	furtif	ADV											FS_VE	VEMENT:NUL 				dadj
+futilement	futile	ADV											S_0	MENT:NUL 				dadj
+futurement	futur	ADV											S_E	EMENT:NUL 				dadj
+gaiement	gai	ADV											S_E	EMENT:NUL 				dadj
+gaillardement	gaillard	ADV											S_E	EMENT:NUL 				dadj
+galamment	galant	ADV											S_E	MMENT:NUL 				dadj
+gallicanement	gallican	ADV											S_E	EMENT:NUL 				dadj
+galvaniquement	galvanique	ADV											S_0	MENT:NUL 				dadj
+gaminement	gamin	ADV											S_E	EMENT:NUL 				dadj
+gastronomiquement	gastronomique	ADV											S_0	MENT:NUL 				dadj
+gâteusement	gâteux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+gauchement	gauche	ADV											S_0	MENT:NUL 				dadj
+geignardement	geignard	ADV											S_E	EMENT:NUL 				dadj
+gélatineusement	gélatineux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+généalogiquement	généalogique	ADV											S_0	MENT:NUL 				dadj
+généralement	général	ADV											AUX_ALE	EMENT:NUL 				dadj
+généreusement	généreux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+génériquement	générique	ADV											S_0	MENT:NUL 				dadj
+génétiquement	génétique	ADV											S_0	MENT:NUL 				dadj
+génialement	génial	ADV											AUX_ALE	EMENT:NUL 				dadj
+génitalement	génital	ADV											AUX_ALE	EMENT:NUL 				dadj
+géodésiquement	géodésique	ADV											S_0	MENT:NUL 				dadj
+géographiquement	géographique	ADV											S_0	MENT:NUL 				dadj
+géologiquement	géologique	ADV											S_0	MENT:NUL 				dadj
+géométralement	géométral	ADV											AUX_ALE	EMENT:NUL 				dadj
+géométriquement	géométrique	ADV											S_0	MENT:NUL 				dadj
+gigantesquement	gigantesque	ADV											S_0	MENT:NUL 				dadj
+giratoirement	giratoire	ADV											S_0	MENT:NUL 				dadj
+glacialement	glacial	ADV											FINAL	EMENT:NUL 				dadj
+glaireusement	glaireux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+glandulairement	glandulaire	ADV											S_0	MENT:NUL 				dadj
+glauquement	glauque	ADV											S_0	MENT:NUL 				dadj
+globalement	global	ADV											AUX_ALE	EMENT:NUL 				dadj
+glorieusement	glorieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+gloutonnement	glouton	ADV											S_DE	D_EMENT:NUL 				dadj
+gnoséologiquement	gnoséologique	ADV											S_0	MENT:NUL 				dadj
+gnostiquement	gnostique	ADV											S_0	MENT:NUL 				dadj
+goguenardement	goguenard	ADV											S_E	EMENT:NUL 				dadj
+gothiquement	gothique	ADV											S_0	MENT:NUL 				dadj
+gouailleusement	gouailleur	ADV											EURS_EUSE	EUSEMENT:NUL 				dadj
+goulûment	goulu	ADV								Opt			S_E	UMENT:NUL 				dadj
+goulument	goulu	ADV								Rec			S_E	UMENT:NUL 				dadj
+gourmandement	gourmand	ADV											S_E	EMENT:NUL 				dadj
+goutteusement	goutteux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+gouvernementalement	gouvernemental	ADV											AUX_ALE	EMENT:NUL 				dadj
+gracieusement	gracieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+gracilement	gracile	ADV											S_0	MENT:NUL 				dadj
+graduellement	graduel	ADV											S_DE	D_EMENT:NUL 				dadj
+grammaticalement	grammatical	ADV											AUX_ALE	EMENT:NUL 				dadj
+grandement	grand	ADV											S_E	EMENT:NUL 				dadj
+grandiosement	grandiose	ADV											S_0	MENT:NUL 				dadj
+graphiquement	graphique	ADV											S_0	MENT:NUL 				dadj
+grassement	gras	ADV											X_SSE	D_EMENT:NUL 				dadj
+gratuitement	gratuit	ADV											S_E	EMENT:NUL 				dadj
+gravement	grave	ADV											S_0	MENT:NUL 				dadj
+graveleusement	graveleux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+grincheusement	grincheux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+grivoisement	grivois	ADV											0_E	EMENT:NUL 				dadj
+grossement	gros	ADV											X_SSE	D_EMENT:NUL 				dadj
+grossièrement	grossier	ADV											ERS_ERE	EREMENT:NUL 				dadj
+grotesquement	grotesque	ADV											S_0	MENT:NUL 				dadj
+guillerettement	guilleret	ADV											S_DE	D_EMENT:NUL 				dadj
+gyroscopiquement	gyroscopique	ADV											S_0	MENT:NUL 				dadj
+habilement	habile	ADV											S_0	MENT:NUL 				dadj
+habituellement	habituel	ADV											S_DE	D_EMENT:NUL 				dadj
+haineusement	haineux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+hardiment	hardi	ADV											S_E	MENT:NUL 				dadj
+hargneusement	hargneux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+harmonieusement	harmonieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+harmoniquement	harmonique	ADV											S_0	MENT:NUL 				dadj
+hasardeusement	hasardeux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+hâtivement	hâtif	ADV											FS_VE	VEMENT:NUL 				dadj
+hautement	haut	ADV											S_E	EMENT:NUL 				dadj
+hautainement	hautain	ADV											S_E	EMENT:NUL 				dadj
+hebdomadairement	hebdomadaire	ADV											S_0	MENT:NUL 				dadj
+hébraïquement	hébraïque	ADV											S_0	MENT:NUL 				dadj
+héliaquement	héliaque	ADV											S_0	MENT:NUL 				dadj
+héraldiquement	héraldique	ADV											S_0	MENT:NUL 				dadj
+héréditairement	héréditaire	ADV											S_0	MENT:NUL 				dadj
+hermétiquement	hermétique	ADV											S_0	MENT:NUL 				dadj
+héroïquement	héroïque	ADV											S_0	MENT:NUL 				dadj
+hétéroclitement	hétéroclite	ADV											S_0	MENT:NUL 				dadj
+heureusement	heureux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+hideusement	hideux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+hiérarchiquement	hiérarchique	ADV											S_0	MENT:NUL 				dadj
+hiératiquement	hiératique	ADV											S_0	MENT:NUL 				dadj
+hiéroglyphiquement	hiéroglyphique	ADV											S_0	MENT:NUL 				dadj
+histologiquement	histologique	ADV											S_0	MENT:NUL 				dadj
+historiquement	historique	ADV											S_0	MENT:NUL 				dadj
+homéopathiquement	homéopathique	ADV											S_0	MENT:NUL 				dadj
+homériquement	homérique	ADV											S_0	MENT:NUL 				dadj
+homothétiquement	homothétique	ADV											S_0	MENT:NUL 				dadj
+honnêtement	honnête	ADV											S_0	MENT:NUL 				dadj
+honorablement	honorable	ADV											S_0	MENT:NUL 				dadj
+honorifiquement	honorifique	ADV											S_0	MENT:NUL 				dadj
+honteusement	honteux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+horizontalement	horizontal	ADV											AUX_ALE	EMENT:NUL 				dadj
+horriblement	horrible	ADV											S_0	MENT:NUL 				dadj
+hospitalièrement	hospitalier	ADV											ERS_ERE	EREMENT:NUL 				dadj
+hostilement	hostile	ADV											S_0	MENT:NUL 				dadj
+houleusement	houleux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+huileusement	huileux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+humainement	humain	ADV											S_E	EMENT:NUL 				dadj
+humanitairement	humanitaire	ADV											S_0	MENT:NUL 				dadj
+humblement	humble	ADV											S_0	MENT:NUL 				dadj
+humidement	humide	ADV											S_0	MENT:NUL 				dadj
+humoristiquement	humoristique	ADV											S_0	MENT:NUL 				dadj
+hygiéniquement	hygiénique	ADV											S_0	MENT:NUL 				dadj
+hyperboliquement	hyperbolique	ADV											S_0	MENT:NUL 				dadj
+hypnotiquement	hypnotique	ADV											S_0	MENT:NUL 				dadj
+hypocritement	hypocrite	ADV											S_0	MENT:NUL 				dadj
+hypostatiquement	hypostatique	ADV											S_0	MENT:NUL 				dadj
+hypothécairement	hypothécaire	ADV											S_0	MENT:NUL 				dadj
+hypothétiquement	hypothétique	ADV											S_0	MENT:NUL 				dadj
+hystériquement	hystérique	ADV											S_0	MENT:NUL 				dadj
+idéalement	idéal	ADV											FINAL	EMENT:NUL 				dadj
+idéellement	idéel	ADV											S_DE	D_EMENT:NUL 				dadj
+identiquement	identique	ADV											S_0	MENT:NUL 				dadj
+idéologiquement	idéologique	ADV											S_0	MENT:NUL 				dadj
+idiotement	idiot	ADV											S_E	EMENT:NUL 				dadj
+idolâtrement	idolâtre	ADV											S_0	MENT:NUL 				dadj
+idylliquement	idyllique	ADV											S_0	MENT:NUL 				dadj
+ignoblement	ignoble	ADV											S_0	MENT:NUL 				dadj
+ignominieusement	ignominieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+illégalement	illégal	ADV											AUX_ALE	EMENT:NUL 				dadj
+illégitimement	illégitime	ADV											S_0	MENT:NUL 				dadj
+illicitement	illicite	ADV											S_0	MENT:NUL 				dadj
+illisiblement	illisible	ADV											S_0	MENT:NUL 				dadj
+illogiquement	illogique	ADV											S_0	MENT:NUL 				dadj
+illusoirement	illusoire	ADV											S_0	MENT:NUL 				dadj
+illustrement	illustre	ADV											S_0	MENT:NUL 				dadj
+imaginairement	imaginaire	ADV											S_0	MENT:NUL 				dadj
+imaginativement	imaginatif	ADV											FS_VE	VEMENT:NUL 				dadj
+imbécilement	imbécile	ADV											S_0	MENT:NUL 				dadj
+immanquablement	immanquable	ADV											S_0	MENT:NUL 				dadj
+immatériellement	immatériel	ADV											S_DE	D_EMENT:NUL 				dadj
+immédiatement	immédiat	ADV											S_E	EMENT:NUL 				dadj
+immémorialement	immémorial	ADV											AUX_ALE	EMENT:NUL 				dadj
+immensément	immense	ADV											S_0	B_EGRAVE_MENT:NUL 				dadj
+immobilement	immobile	ADV											S_0	MENT:NUL 				dadj
+immodérément	immodéré	ADV											S_E	MENT:NUL 				dadj
+immodestement	immodeste	ADV											S_0	MENT:NUL 				dadj
+immoralement	immoral	ADV											AUX_ALE	EMENT:NUL 				dadj
+immortellement	immortel	ADV											S_DE	D_EMENT:NUL 				dadj
+immuablement	immuable	ADV											S_0	MENT:NUL 				dadj
+impairement	impair	ADV											S_E	EMENT:NUL 				dadj
+impalpablement	impalpable	ADV											S_0	MENT:NUL 				dadj
+imparablement	imparable	ADV											S_0	MENT:NUL 				dadj
+impardonnablement	impardonnable	ADV											S_0	MENT:NUL 				dadj
+imparfaitement	imparfait	ADV											S_E	EMENT:NUL 				dadj
+impartialement	impartial	ADV											AUX_ALE	EMENT:NUL 				dadj
+impassiblement	impassible	ADV											S_0	MENT:NUL 				dadj
+impatiemment	impatient	ADV											S_E	MMENT:NUL 				dadj
+impavidement	impavide	ADV											S_0	MENT:NUL 				dadj
+impeccablement	impeccable	ADV											S_0	MENT:NUL 				dadj
+impénétrablement	impénétrable	ADV											S_0	MENT:NUL 				dadj
+impensablement	impensable	ADV											S_0	MENT:NUL 				dadj
+impérativement	impératif	ADV											FS_VE	VEMENT:NUL 				dadj
+imperceptiblement	imperceptible	ADV											S_0	MENT:NUL 				dadj
+impérialement	impérial	ADV											AUX_ALE	EMENT:NUL 				dadj
+impérieusement	impérieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+impérissablement	impérissable	ADV											S_0	MENT:NUL 				dadj
+impersonnellement	impersonnel	ADV											S_DE	D_EMENT:NUL 				dadj
+impertinemment	impertinent	ADV											S_E	MMENT:NUL 				dadj
+imperturbablement	imperturbable	ADV											S_0	MENT:NUL 				dadj
+impétueusement	impétueux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+impitoyablement	impitoyable	ADV											S_0	MENT:NUL 				dadj
+implacablement	implacable	ADV											S_0	MENT:NUL 				dadj
+implicitement	implicite	ADV											S_0	MENT:NUL 				dadj
+impoliment	impoli	ADV											S_E	MENT:NUL 				dadj
+impolitiquement	impolitique	ADV											S_0	MENT:NUL 				dadj
+impopulairement	impopulaire	ADV											S_0	MENT:NUL 				dadj
+importunément	importun	ADV											S_E	EGRAVE_MENT:NUL 				dadj
+impossiblement	impossible	ADV											S_0	MENT:NUL 				dadj
+imprécisément	imprécis	ADV											0_E	EGRAVE_MENT:NUL 				dadj
+impressivement	impressif	ADV											FS_VE	VEMENT:NUL 				dadj
+imprévisiblement	imprévisible	ADV											S_0	MENT:NUL 				dadj
+improbablement	improbable	ADV											S_0	MENT:NUL 				dadj
+improductivement	improductif	ADV											FS_VE	VEMENT:NUL 				dadj
+improprement	impropre	ADV											S_0	MENT:NUL 				dadj
+imprudemment	imprudent	ADV											S_E	MMENT:NUL 				dadj
+impudemment	impudent	ADV											S_E	MMENT:NUL 				dadj
+impudiquement	impudique	ADV											S_0	MENT:NUL 				dadj
+impulsivement	impulsif	ADV											FS_VE	VEMENT:NUL 				dadj
+impurement	impur	ADV											S_E	EMENT:NUL 				dadj
+inadéquatement	inadéquat	ADV											S_E	EMENT:NUL 				dadj
+inaliénablement	inaliénable	ADV											S_0	MENT:NUL 				dadj
+inaltérablement	inaltérable	ADV											S_0	MENT:NUL 				dadj
+inamicalement	inamical	ADV											AUX_ALE	EMENT:NUL 				dadj
+inamoviblement	inamovible	ADV											S_0	MENT:NUL 				dadj
+inappréciablement	inappréciable	ADV											S_0	MENT:NUL 				dadj
+inattaquablement	inattaquable	ADV											S_0	MENT:NUL 				dadj
+inattentivement	inattentif	ADV											FS_VE	VEMENT:NUL 				dadj
+inavouablement	inavouable	ADV											S_0	MENT:NUL 				dadj
+incalculablement	incalculable	ADV											S_0	MENT:NUL 				dadj
+incapablement	incapable	ADV											S_0	MENT:NUL 				dadj
+incertainement	incertain	ADV											S_E	EMENT:NUL 				dadj
+incessamment	incessant	ADV											S_E	MMENT:NUL 				dadj
+incestueusement	incestueux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+incidemment	incident	ADV											S_E	MMENT:NUL 				dadj
+incisivement	incisif	ADV											FS_VE	VEMENT:NUL 				dadj
+incivilement	incivil	ADV											S_E	EMENT:NUL 				dadj
+inciviquement	incivique	ADV											S_0	MENT:NUL 				dadj
+inclusivement	inclusif	ADV											FS_VE	VEMENT:NUL 				dadj
+incoerciblement	incoercible	ADV											S_0	MENT:NUL 				dadj
+incommensurablement	incommensurable	ADV											S_0	MENT:NUL 				dadj
+incommodément	incommode	ADV											S_0	B_EGRAVE_MENT:NUL 				dadj
+incommutablement	incommutable	ADV											S_0	MENT:NUL 				dadj
+incomparablement	incomparable	ADV											S_0	MENT:NUL 				dadj
+incompétemment	incompétent	ADV											S_E	MMENT:NUL 				dadj
+incomplètement	incomplet	ADV											ETS_ETE	ETEMENT:NUL 				dadj
+incompréhensiblement	incompréhensible	ADV											S_0	MENT:NUL 				dadj
+inconcevablement	inconcevable	ADV											S_0	MENT:NUL 				dadj
+inconciliablement	inconciliable	ADV											S_0	MENT:NUL 				dadj
+inconditionnellement	inconditionnel	ADV											S_DE	D_EMENT:NUL 				dadj
+inconfortablement	inconfortable	ADV											S_0	MENT:NUL 				dadj
+incongrûment	incongru	ADV								Opt			S_E	UMENT:NUL 				dadj
+incongrument	incongru	ADV								Rec			S_E	UMENT:NUL 				dadj
+inconsciemment	inconscient	ADV											S_E	MMENT:NUL 				dadj
+inconséquemment	inconséquent	ADV											S_E	MMENT:NUL 				dadj
+inconsidérément	inconsidéré	ADV											S_E	MENT:NUL 				dadj
+inconsolablement	inconsolable	ADV											S_0	MENT:NUL 				dadj
+inconstamment	inconstant	ADV											S_E	MMENT:NUL 				dadj
+inconstitutionnellement	inconstitutionnel	ADV											S_DE	D_EMENT:NUL 				dadj
+incontestablement	incontestable	ADV											S_0	MENT:NUL 				dadj
+inconvenablement	inconvenable	ADV											S_0	MENT:NUL 				dadj
+incorporellement	incorporel	ADV											S_DE	D_EMENT:NUL 				dadj
+incorrectement	incorrect	ADV											S_E	EMENT:NUL 				dadj
+incorrigiblement	incorrigible	ADV											S_0	MENT:NUL 				dadj
+incorruptiblement	incorruptible	ADV											S_0	MENT:NUL 				dadj
+incrédulement	incrédule	ADV											S_0	MENT:NUL 				dadj
+incroyablement	incroyable	ADV											S_0	MENT:NUL 				dadj
+incurablement	incurable	ADV											S_0	MENT:NUL 				dadj
+indécemment	indécent	ADV											S_E	MMENT:NUL 				dadj
+indécrottablement	indécrottable	ADV											S_0	MENT:NUL 				dadj
+indéfectiblement	indéfectible	ADV											S_0	MENT:NUL 				dadj
+indéfiniment	indéfini	ADV											S_E	MENT:NUL 				dadj
+indéfinissablement	indéfinissable	ADV											S_0	MENT:NUL 				dadj
+indélébilement	indélébile	ADV											S_0	MENT:NUL 				dadj
+indélicatement	indélicat	ADV											S_E	EMENT:NUL 				dadj
+indémontablement	indémontable	ADV											S_0	MENT:NUL 				dadj
+indéniablement	indéniable	ADV											S_0	MENT:NUL 				dadj
+indépendamment	indépendant	ADV											S_E	MMENT:NUL 				dadj
+indéracinablement	indéracinable	ADV											S_0	MENT:NUL 				dadj
+indescriptiblement	indescriptible	ADV											S_0	MENT:NUL 				dadj
+indésirablement	indésirable	ADV											S_0	MENT:NUL 				dadj
+indestructiblement	indestructible	ADV											S_0	MENT:NUL 				dadj
+indéterminément	indéterminé	ADV											S_E	MENT:NUL 				dadj
+indiciblement	indicible	ADV											S_0	MENT:NUL 				dadj
+indifféremment	indifférent	ADV											S_E	MMENT:NUL 				dadj
+indigemment	indigent	ADV											S_E	MMENT:NUL 				dadj
+indigestement	indigeste	ADV											S_0	MENT:NUL 				dadj
+indignement	indigne	ADV											S_0	MENT:NUL 				dadj
+indirectement	indirect	ADV											S_E	EMENT:NUL 				dadj
+indiscernablement	indiscernable	ADV											S_0	MENT:NUL 				dadj
+indiscrètement	indiscret	ADV											ETS_ETE	ETEMENT:NUL 				dadj
+indiscutablement	indiscutable	ADV											S_0	MENT:NUL 				dadj
+indispensablement	indispensable	ADV											S_0	MENT:NUL 				dadj
+indissociablement	indissociable	ADV											S_0	MENT:NUL 				dadj
+indissolublement	indissoluble	ADV											S_0	MENT:NUL 				dadj
+indistinctement	indistinct	ADV											S_E	EMENT:NUL 				dadj
+individuellement	individuel	ADV											S_DE	D_EMENT:NUL 				dadj
+indivisément	indivis	ADV											0_E	EGRAVE_MENT:NUL 				dadj
+indivisiblement	indivisible	ADV											S_0	MENT:NUL 				dadj
+indocilement	indocile	ADV											S_0	MENT:NUL 				dadj
+indolemment	indolent	ADV											S_E	MMENT:NUL 				dadj
+indomptablement	indomptable	ADV											S_0	MENT:NUL 				dadj
+indûment	indu	ADV								Opt			S_E	UMENT:NUL 				dadj
+indument	indu	ADV								Rec			S_E	UMENT:NUL 				dadj
+indubitablement	indubitable	ADV											S_0	MENT:NUL 				dadj
+inductivement	inductif	ADV											FS_VE	VEMENT:NUL 				dadj
+indulgemment	indulgent	ADV											S_E	MMENT:NUL 				dadj
+industriellement	industriel	ADV											S_DE	D_EMENT:NUL 				dadj
+industrieusement	industrieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+inébranlablement	inébranlable	ADV											S_0	MENT:NUL 				dadj
+ineffablement	ineffable	ADV											S_0	MENT:NUL 				dadj
+ineffaçablement	ineffaçable	ADV											S_0	MENT:NUL 				dadj
+inefficacement	inefficace	ADV											S_0	MENT:NUL 				dadj
+inégalement	inégal	ADV											AUX_ALE	EMENT:NUL 				dadj
+inégalablement	inégalable	ADV											S_0	MENT:NUL 				dadj
+inélégamment	inélégant	ADV											S_E	MMENT:NUL 				dadj
+inéluctablement	inéluctable	ADV											S_0	MENT:NUL 				dadj
+inénarrablement	inénarrable	ADV											S_0	MENT:NUL 				dadj
+ineptement	inepte	ADV											S_0	MENT:NUL 				dadj
+inépuisablement	inépuisable	ADV											S_0	MENT:NUL 				dadj
+inéquitablement	inéquitable	ADV											S_0	MENT:NUL 				dadj
+inertement	inerte	ADV											S_0	MENT:NUL 				dadj
+inespérément	inespéré	ADV											S_E	MENT:NUL 				dadj
+inestimablement	inestimable	ADV											S_0	MENT:NUL 				dadj
+inévitablement	inévitable	ADV											S_0	MENT:NUL 				dadj
+inexactement	inexact	ADV											S_E	EMENT:NUL 				dadj
+inexcusablement	inexcusable	ADV											S_0	MENT:NUL 				dadj
+inexorablement	inexorable	ADV											S_0	MENT:NUL 				dadj
+inexpiablement	inexpiable	ADV											S_0	MENT:NUL 				dadj
+inexplicablement	inexplicable	ADV											S_0	MENT:NUL 				dadj
+inexprimablement	inexprimable	ADV											S_0	MENT:NUL 				dadj
+inexpugnablement	inexpugnable	ADV											S_0	MENT:NUL 				dadj
+inextinguiblement	inextinguible	ADV											S_0	MENT:NUL 				dadj
+inextricablement	inextricable	ADV											S_0	MENT:NUL 				dadj
+infailliblement	infaillible	ADV											S_0	MENT:NUL 				dadj
+infantilement	infantile	ADV											S_0	MENT:NUL 				dadj
+infatigablement	infatigable	ADV											S_0	MENT:NUL 				dadj
+infectement	infect	ADV											S_E	EMENT:NUL 				dadj
+inférieurement	inférieur	ADV											S_E	EMENT:NUL 				dadj
+infernalement	infernal	ADV											AUX_ALE	EMENT:NUL 				dadj
+infidèlement	infidèle	ADV											S_0	MENT:NUL 				dadj
+infiniment	infini	ADV											S_E	MENT:NUL 				dadj
+infinitésimalement	infinitésimal	ADV											AUX_ALE	EMENT:NUL 				dadj
+inflexiblement	inflexible	ADV											S_0	MENT:NUL 				dadj
+infructueusement	infructueux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+ingénieusement	ingénieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+ingénument	ingénu	ADV											S_E	MENT:NUL 				dadj
+inglorieusement	inglorieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+ingratement	ingrat	ADV											S_E	EMENT:NUL 				dadj
+inguérissablement	inguérissable	ADV											S_0	MENT:NUL 				dadj
+inhabilement	inhabile	ADV											S_0	MENT:NUL 				dadj
+inharmonieusement	inharmonieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+inharmoniquement	inharmonique	ADV											S_0	MENT:NUL 				dadj
+inhospitalièrement	inhospitalier	ADV											ERS_ERE	EREMENT:NUL 				dadj
+inhumainement	inhumain	ADV											S_E	EMENT:NUL 				dadj
+inimaginablement	inimaginable	ADV											S_0	MENT:NUL 				dadj
+inimitablement	inimitable	ADV											S_0	MENT:NUL 				dadj
+inintelligiblement	inintelligible	ADV											S_0	MENT:NUL 				dadj
+iniquement	inique	ADV											S_0	MENT:NUL 				dadj
+initialement	initial	ADV											AUX_ALE	EMENT:NUL 				dadj
+injurieusement	injurieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+injustement	injuste	ADV											S_0	MENT:NUL 				dadj
+inlassablement	inlassable	ADV											S_0	MENT:NUL 				dadj
+innocemment	innocent	ADV											S_E	MMENT:NUL 				dadj
+innombrablement	innombrable	ADV											S_0	MENT:NUL 				dadj
+inoffensivement	inoffensif	ADV											FS_VE	VEMENT:NUL 				dadj
+inopinément	inopiné	ADV											S_E	MENT:NUL 				dadj
+inopportunément	inopportun	ADV											S_E	EGRAVE_MENT:NUL 				dadj
+inoubliablement	inoubliable	ADV											S_0	MENT:NUL 				dadj
+inquiètement	inquiet	ADV											ETS_ETE	ETEMENT:NUL 				dadj
+inquisitorialement	inquisitorial	ADV											AUX_ALE	EMENT:NUL 				dadj
+insalubrement	insalubre	ADV											S_0	MENT:NUL 				dadj
+insatiablement	insatiable	ADV											S_0	MENT:NUL 				dadj
+insensément	insensé	ADV											S_E	MENT:NUL 				dadj
+insensiblement	insensible	ADV											S_0	MENT:NUL 				dadj
+inséparablement	inséparable	ADV											S_0	MENT:NUL 				dadj
+insidieusement	insidieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+insipidement	insipide	ADV											S_0	MENT:NUL 				dadj
+insolemment	insolent	ADV											S_E	MMENT:NUL 				dadj
+insolitement	insolite	ADV											S_0	MENT:NUL 				dadj
+insondablement	insondable	ADV											S_0	MENT:NUL 				dadj
+insouciamment	insouciant	ADV											S_E	MMENT:NUL 				dadj
+insoucieusement	insoucieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+insoupçonnablement	insoupçonnable	ADV											S_0	MENT:NUL 				dadj
+instamment	instant	ADV											S_E	MMENT:NUL 				dadj
+instantanément	instantané	ADV											S_E	MENT:NUL 				dadj
+instinctivement	instinctif	ADV											FS_VE	VEMENT:NUL 				dadj
+institutionnellement	institutionnel	ADV											S_DE	D_EMENT:NUL 				dadj
+instructivement	instructif	ADV											FS_VE	VEMENT:NUL 				dadj
+instrumentalement	instrumental	ADV											AUX_ALE	EMENT:NUL 				dadj
+insuffisamment	insuffisant	ADV											S_E	MMENT:NUL 				dadj
+insupportablement	insupportable	ADV											S_0	MENT:NUL 				dadj
+insurmontablement	insurmontable	ADV											S_0	MENT:NUL 				dadj
+intarissablement	intarissable	ADV											S_0	MENT:NUL 				dadj
+intégralement	intégral	ADV											AUX_ALE	EMENT:NUL 				dadj
+intègrement	intègre	ADV											S_0	MENT:NUL 				dadj
+intellectuellement	intellectuel	ADV											S_DE	D_EMENT:NUL 				dadj
+intelligemment	intelligent	ADV											S_E	MMENT:NUL 				dadj
+intelligiblement	intelligible	ADV											S_0	MENT:NUL 				dadj
+intempestivement	intempestif	ADV											FS_VE	VEMENT:NUL 				dadj
+intemporellement	intemporel	ADV											S_DE	D_EMENT:NUL 				dadj
+intensément	intense	ADV											S_0	B_EGRAVE_MENT:NUL 				dadj
+intensivement	intensif	ADV											FS_VE	VEMENT:NUL 				dadj
+intentionnellement	intentionnel	ADV											S_DE	D_EMENT:NUL 				dadj
+intérieurement	intérieur	ADV											S_E	EMENT:NUL 				dadj
+interminablement	interminable	ADV											S_0	MENT:NUL 				dadj
+internationalement	international	ADV											AUX_ALE	EMENT:NUL 				dadj
+interprofessionnellement	interprofessionnel	ADV											S_DE	D_EMENT:NUL 				dadj
+interrogativement	interrogatif	ADV											FS_VE	VEMENT:NUL 				dadj
+intimement	intime	ADV											S_0	MENT:NUL 				dadj
+intolérablement	intolérable	ADV											S_0	MENT:NUL 				dadj
+intraitablement	intraitable	ADV											S_0	MENT:NUL 				dadj
+intransitivement	intransitif	ADV											FS_VE	VEMENT:NUL 				dadj
+intrépidement	intrépide	ADV											S_0	MENT:NUL 				dadj
+intrinsèquement	intrinsèque	ADV											S_0	MENT:NUL 				dadj
+introspectivement	introspectif	ADV											FS_VE	VEMENT:NUL 				dadj
+intuitivement	intuitif	ADV											FS_VE	VEMENT:NUL 				dadj
+inutilement	inutile	ADV											S_0	MENT:NUL 				dadj
+invalidement	invalide	ADV											S_0	MENT:NUL 				dadj
+invariablement	invariable	ADV											S_0	MENT:NUL 				dadj
+inversement	inverse	ADV											S_0	MENT:NUL 				dadj
+invinciblement	invincible	ADV											S_0	MENT:NUL 				dadj
+inviolablement	inviolable	ADV											S_0	MENT:NUL 				dadj
+invisiblement	invisible	ADV											S_0	MENT:NUL 				dadj
+involontairement	involontaire	ADV											S_0	MENT:NUL 				dadj
+invraisemblablement	invraisemblable	ADV											S_0	MENT:NUL 				dadj
+irasciblement	irascible	ADV											S_0	MENT:NUL 				dadj
+ironiquement	ironique	ADV											S_0	MENT:NUL 				dadj
+irraisonnablement	irraisonnable	ADV											S_0	MENT:NUL 				dadj
+irrationnellement	irrationnel	ADV											S_DE	D_EMENT:NUL 				dadj
+irréconciliablement	irréconciliable	ADV											S_0	MENT:NUL 				dadj
+irrécusablement	irrécusable	ADV											S_0	MENT:NUL 				dadj
+irréductiblement	irréductible	ADV											S_0	MENT:NUL 				dadj
+irréellement	irréel	ADV											S_DE	D_EMENT:NUL 				dadj
+irréfragablement	irréfragable	ADV											S_0	MENT:NUL 				dadj
+irréfutablement	irréfutable	ADV											S_0	MENT:NUL 				dadj
+irrégulièrement	irrégulier	ADV											ERS_ERE	EREMENT:NUL 				dadj
+irréligieusement	irréligieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+irrémédiablement	irrémédiable	ADV											S_0	MENT:NUL 				dadj
+irrémissiblement	irrémissible	ADV											S_0	MENT:NUL 				dadj
+irréparablement	irréparable	ADV											S_0	MENT:NUL 				dadj
+irrépressiblement	irrépressible	ADV											S_0	MENT:NUL 				dadj
+irréprochablement	irréprochable	ADV											S_0	MENT:NUL 				dadj
+irrésistiblement	irrésistible	ADV											S_0	MENT:NUL 				dadj
+irrespectueusement	irrespectueux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+irrévérencieusement	irrévérencieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+irréversiblement	irréversible	ADV											S_0	MENT:NUL 				dadj
+irrévocablement	irrévocable	ADV											S_0	MENT:NUL 				dadj
+isolément	isolé	ADV											S_E	MENT:NUL 				dadj
+itérativement	itératif	ADV											FS_VE	VEMENT:NUL 				dadj
+jésuitement	jésuite	ADV											S_0	MENT:NUL 				dadj
+jésuitiquement	jésuitique	ADV											S_0	MENT:NUL 				dadj
+jeunement	jeune	ADV											S_0	MENT:NUL 				dadj
+jobardement	jobard	ADV											S_E	EMENT:NUL 				dadj
+jointivement	jointif	ADV											FS_VE	VEMENT:NUL 				dadj
+joliment	joli	ADV											S_E	MENT:NUL 				dadj
+journalistiquement	journalistique	ADV											S_0	MENT:NUL 				dadj
+jovialement	jovial	ADV											FINAL	EMENT:NUL 				dadj
+joyeusement	joyeux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+judaïquement	judaïque	ADV											S_0	MENT:NUL 				dadj
+judiciairement	judiciaire	ADV											S_0	MENT:NUL 				dadj
+judicieusement	judicieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+juridiquement	juridique	ADV											S_0	MENT:NUL 				dadj
+justement	juste	ADV											S_0	MENT:NUL 				dadj
+juvénilement	juvénile	ADV											S_0	MENT:NUL 				dadj
+juxtalinéairement	juxtalinéaire	ADV											S_0	MENT:NUL 				dadj
+kaléidoscopiquement	kaléidoscopique	ADV											S_0	MENT:NUL 				dadj
+kilométriquement	kilométrique	ADV											S_0	MENT:NUL 				dadj
+laborieusement	laborieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+lâchement	lâche	ADV											S_0	MENT:NUL 				dadj
+laconiquement	laconique	ADV											S_0	MENT:NUL 				dadj
+lactiquement	lactique	ADV											S_0	MENT:NUL 				dadj
+ladrement	ladre	ADV											S_0	MENT:NUL 				dadj
+laidement	laid	ADV											S_E	EMENT:NUL 				dadj
+laiteusement	laiteux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+lamentablement	lamentable	ADV											S_0	MENT:NUL 				dadj
+langoureusement	langoureux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+languissamment	languissant	ADV											S_E	MMENT:NUL 				dadj
+largement	large	ADV											S_0	MENT:NUL 				dadj
+lassement	las	ADV											X_SSE	D_EMENT:NUL 				dadj
+lascivement	lascif	ADV											FS_VE	VEMENT:NUL 				dadj
+latéralement	latéral	ADV											AUX_ALE	EMENT:NUL 				dadj
+latinement	latin	ADV											S_E	EMENT:NUL 				dadj
+légalement	légal	ADV											AUX_ALE	EMENT:NUL 				dadj
+légendairement	légendaire	ADV											S_0	MENT:NUL 				dadj
+légèrement	léger	ADV											ERS_ERE	EREMENT:NUL 				dadj
+législativement	législatif	ADV											FS_VE	VEMENT:NUL 				dadj
+légitimement	légitime	ADV											S_0	MENT:NUL 				dadj
+lentement	lent	ADV											S_E	EMENT:NUL 				dadj
+lestement	leste	ADV											S_0	MENT:NUL 				dadj
+léthargiquement	léthargique	ADV											S_0	MENT:NUL 				dadj
+libéralement	libéral	ADV											AUX_ALE	EMENT:NUL 				dadj
+libertinement	libertin	ADV											S_E	EMENT:NUL 				dadj
+librement	libre	ADV											S_0	MENT:NUL 				dadj
+licencieusement	licencieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+licitement	licite	ADV											S_0	MENT:NUL 				dadj
+liminairement	liminaire	ADV											S_0	MENT:NUL 				dadj
+limitativement	limitatif	ADV											FS_VE	VEMENT:NUL 				dadj
+limpidement	limpide	ADV											S_0	MENT:NUL 				dadj
+linéairement	linéaire	ADV											S_0	MENT:NUL 				dadj
+linguistiquement	linguistique	ADV											S_0	MENT:NUL 				dadj
+liquidement	liquide	ADV											S_0	MENT:NUL 				dadj
+lisiblement	lisible	ADV											S_0	MENT:NUL 				dadj
+littérairement	littéraire	ADV											S_0	MENT:NUL 				dadj
+littéralement	littéral	ADV											AUX_ALE	EMENT:NUL 				dadj
+liturgiquement	liturgique	ADV											S_0	MENT:NUL 				dadj
+lividement	livide	ADV											S_0	MENT:NUL 				dadj
+livresquement	livresque	ADV											S_0	MENT:NUL 				dadj
+localement	local	ADV											AUX_ALE	EMENT:NUL 				dadj
+logarithmiquement	logarithmique	ADV											S_0	MENT:NUL 				dadj
+logiquement	logique	ADV											S_0	MENT:NUL 				dadj
+lointainement	lointain	ADV											S_E	EMENT:NUL 				dadj
+loisiblement	loisible	ADV											S_0	MENT:NUL 				dadj
+longuement	long	ADV											GS_GUE	GUEMENT:NUL 				dadj
+longitudinalement	longitudinal	ADV											AUX_ALE	EMENT:NUL 				dadj
+loquacement	loquace	ADV											S_0	MENT:NUL 				dadj
+louablement	louable	ADV											S_0	MENT:NUL 				dadj
+louangeusement	louangeur	ADV											EURS_EUSE	EUSEMENT:NUL 				dadj
+louchement	louche	ADV											S_0	MENT:NUL 				dadj
+lourdement	lourd	ADV											S_E	EMENT:NUL 				dadj
+loyalement	loyal	ADV											AUX_ALE	EMENT:NUL 				dadj
+lubriquement	lubrique	ADV											S_0	MENT:NUL 				dadj
+lucidement	lucide	ADV											S_0	MENT:NUL 				dadj
+lucrativement	lucratif	ADV											FS_VE	VEMENT:NUL 				dadj
+lugubrement	lugubre	ADV											S_0	MENT:NUL 				dadj
+lumineusement	lumineux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+lunairement	lunaire	ADV											S_0	MENT:NUL 				dadj
+lustralement	lustral	ADV											AUX_ALE	EMENT:NUL 				dadj
+luxueusement	luxueux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+luxurieusement	luxurieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+lymphatiquement	lymphatique	ADV											S_0	MENT:NUL 				dadj
+lyriquement	lyrique	ADV											S_0	MENT:NUL 				dadj
+macabrement	macabre	ADV											S_0	MENT:NUL 				dadj
+machiavéliquement	machiavélique	ADV											S_0	MENT:NUL 				dadj
+machinalement	machinal	ADV											AUX_ALE	EMENT:NUL 				dadj
+macroscopiquement	macroscopique	ADV											S_0	MENT:NUL 				dadj
+magiquement	magique	ADV											S_0	MENT:NUL 				dadj
+magistralement	magistral	ADV											AUX_ALE	EMENT:NUL 				dadj
+magnanimement	magnanime	ADV											S_0	MENT:NUL 				dadj
+magnétiquement	magnétique	ADV											S_0	MENT:NUL 				dadj
+magnifiquement	magnifique	ADV											S_0	MENT:NUL 				dadj
+maigrement	maigre	ADV											S_0	MENT:NUL 				dadj
+majestueusement	majestueux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+majoritairement	majoritaire	ADV											S_0	MENT:NUL 				dadj
+maladivement	maladif	ADV											FS_VE	VEMENT:NUL 				dadj
+maladroitement	maladroit	ADV											S_E	EMENT:NUL 				dadj
+malaisément	malaisé	ADV											S_E	MENT:NUL 				dadj
+maléfiquement	maléfique	ADV											S_0	MENT:NUL 				dadj
+malencontreusement	malencontreux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+malhabilement	malhabile	ADV											S_0	MENT:NUL 				dadj
+malheureusement	malheureux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+malhonnêtement	malhonnête	ADV											S_0	MENT:NUL 				dadj
+malicieusement	malicieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+malproprement	malpropre	ADV											S_0	MENT:NUL 				dadj
+malsainement	malsain	ADV											S_E	EMENT:NUL 				dadj
+malveillamment	malveillant	ADV											S_E	MMENT:NUL 				dadj
+maniaquement	maniaque	ADV											S_0	MENT:NUL 				dadj
+manifestement	manifeste	ADV											S_0	MENT:NUL 				dadj
+manuellement	manuel	ADV											S_DE	D_EMENT:NUL 				dadj
+marginalement	marginal	ADV											AUX_ALE	EMENT:NUL 				dadj
+maritalement	marital	ADV											AUX_ALE	EMENT:NUL 				dadj
+martialement	martial	ADV											AUX_ALE	EMENT:NUL 				dadj
+masculinement	masculin	ADV											S_E	EMENT:NUL 				dadj
+massivement	massif	ADV											FS_VE	VEMENT:NUL 				dadj
+matérialistement	matérialiste	ADV											S_0	MENT:NUL 				dadj
+matériellement	matériel	ADV											S_DE	D_EMENT:NUL 				dadj
+maternellement	maternel	ADV											S_DE	D_EMENT:NUL 				dadj
+mathématiquement	mathématique	ADV											S_0	MENT:NUL 				dadj
+matinalement	matinal	ADV											AUX_ALE	EMENT:NUL 				dadj
+matoisement	matois	ADV											0_E	EMENT:NUL 				dadj
+matrimonialement	matrimonial	ADV											AUX_ALE	EMENT:NUL 				dadj
+mauresquement	mauresque	ADV											S_0	MENT:NUL 				dadj
+maussadement	maussade	ADV											S_0	MENT:NUL 				dadj
+mauvaisement	mauvais	ADV											0_E	EMENT:NUL 				dadj
+mécaniquement	mécanique	ADV											S_0	MENT:NUL 				dadj
+mécanographiquement	mécanographique	ADV											S_0	MENT:NUL 				dadj
+méchamment	méchant	ADV											S_E	MMENT:NUL 				dadj
+médiatement	médiat	ADV											S_E	EMENT:NUL 				dadj
+médiatiquement	médiatique	ADV											S_0	MENT:NUL 				dadj
+médicalement	médical	ADV											AUX_ALE	EMENT:NUL 				dadj
+médicinalement	médicinal	ADV											AUX_ALE	EMENT:NUL 				dadj
+médiocrement	médiocre	ADV											S_0	MENT:NUL 				dadj
+méditativement	méditatif	ADV											FS_VE	VEMENT:NUL 				dadj
+mélancoliquement	mélancolique	ADV											S_0	MENT:NUL 				dadj
+mélodieusement	mélodieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+mélodiquement	mélodique	ADV											S_0	MENT:NUL 				dadj
+mélodramatiquement	mélodramatique	ADV											S_0	MENT:NUL 				dadj
+mêmement	même	ADV											S_0	MENT:NUL 				dadj
+mémorablement	mémorable	ADV											S_0	MENT:NUL 				dadj
+mensongèrement	mensonger	ADV											ERS_ERE	EREMENT:NUL 				dadj
+mensuellement	mensuel	ADV											S_DE	D_EMENT:NUL 				dadj
+mentalement	mental	ADV											AUX_ALE	EMENT:NUL 				dadj
+menteusement	menteur	ADV											EURS_EUSE	EUSEMENT:NUL 				dadj
+méphistophéliquement	méphistophélique	ADV											S_0	MENT:NUL 				dadj
+méprisablement	méprisable	ADV											S_0	MENT:NUL 				dadj
+méridionalement	méridional	ADV											AUX_ALE	EMENT:NUL 				dadj
+méritoirement	méritoire	ADV											S_0	MENT:NUL 				dadj
+merveilleusement	merveilleux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+mesquinement	mesquin	ADV											S_E	EMENT:NUL 				dadj
+métaboliquement	métabolique	ADV											S_0	MENT:NUL 				dadj
+métalliquement	métallique	ADV											S_0	MENT:NUL 				dadj
+métaphoriquement	métaphorique	ADV											S_0	MENT:NUL 				dadj
+métaphysiquement	métaphysique	ADV											S_0	MENT:NUL 				dadj
+météorologiquement	météorologique	ADV											S_0	MENT:NUL 				dadj
+méthodiquement	méthodique	ADV											S_0	MENT:NUL 				dadj
+méthodologiquement	méthodologique	ADV											S_0	MENT:NUL 				dadj
+méticuleusement	méticuleux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+métonymiquement	métonymique	ADV											S_0	MENT:NUL 				dadj
+micrométriquement	micrométrique	ADV											S_0	MENT:NUL 				dadj
+microscopiquement	microscopique	ADV											S_0	MENT:NUL 				dadj
+mielleusement	mielleux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+mièvrement	mièvre	ADV											S_0	MENT:NUL 				dadj
+mignardement	mignard	ADV											S_E	EMENT:NUL 				dadj
+mignonnement	mignon	ADV											S_DE	D_EMENT:NUL 				dadj
+militairement	militaire	ADV											S_0	MENT:NUL 				dadj
+mimétiquement	mimétique	ADV											S_0	MENT:NUL 				dadj
+minablement	minable	ADV											S_0	MENT:NUL 				dadj
+mincement	mince	ADV											S_0	MENT:NUL 				dadj
+minéralogiquement	minéralogique	ADV											S_0	MENT:NUL 				dadj
+minimement	minime	ADV											S_0	MENT:NUL 				dadj
+ministériellement	ministériel	ADV											S_DE	D_EMENT:NUL 				dadj
+minusculement	minuscule	ADV											S_0	MENT:NUL 				dadj
+minutieusement	minutieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+miraculeusement	miraculeux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+mirifiquement	mirifique	ADV											S_0	MENT:NUL 				dadj
+mirobolamment	mirobolant	ADV											S_E	MMENT:NUL 				dadj
+misanthropiquement	misanthropique	ADV											S_0	MENT:NUL 				dadj
+misérablement	misérable	ADV											S_0	MENT:NUL 				dadj
+miséreusement	miséreux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+miséricordieusement	miséricordieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+miteusement	miteux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+mobilièrement	mobilier	ADV											ERS_ERE	EREMENT:NUL 				dadj
+mochement	moche	ADV											S_0	MENT:NUL 				dadj
+modalement	modal	ADV											AUX_ALE	EMENT:NUL 				dadj
+modérément	modéré	ADV											S_E	MENT:NUL 				dadj
+modernement	moderne	ADV											S_0	MENT:NUL 				dadj
+modestement	modeste	ADV											S_0	MENT:NUL 				dadj
+modiquement	modique	ADV											S_0	MENT:NUL 				dadj
+moelleusement	moelleux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+moindrement	moindre	ADV											S_0	MENT:NUL 				dadj
+moléculairement	moléculaire	ADV											S_0	MENT:NUL 				dadj
+mollassement	mollasse	ADV											S_0	MENT:NUL 				dadj
+momentanément	momentané	ADV											S_E	MENT:NUL 				dadj
+monacalement	monacal	ADV											AUX_ALE	EMENT:NUL 				dadj
+monarchiquement	monarchique	ADV											S_0	MENT:NUL 				dadj
+monastiquement	monastique	ADV											S_0	MENT:NUL 				dadj
+mondainement	mondain	ADV											S_E	EMENT:NUL 				dadj
+mondialement	mondial	ADV											AUX_ALE	EMENT:NUL 				dadj
+monétairement	monétaire	ADV											S_0	MENT:NUL 				dadj
+monographiquement	monographique	ADV											S_0	MENT:NUL 				dadj
+monotonement	monotone	ADV											S_0	MENT:NUL 				dadj
+monstrueusement	monstrueux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+monumentalement	monumental	ADV											AUX_ALE	EMENT:NUL 				dadj
+moqueusement	moqueur	ADV											EURS_EUSE	EUSEMENT:NUL 				dadj
+moralement	moral	ADV											AUX_ALE	EMENT:NUL 				dadj
+moralistement	moraliste	ADV											S_0	MENT:NUL 				dadj
+morbidement	morbide	ADV											S_0	MENT:NUL 				dadj
+morganatiquement	morganatique	ADV											S_0	MENT:NUL 				dadj
+mornement	morne	ADV											S_0	MENT:NUL 				dadj
+morosement	morose	ADV											S_0	MENT:NUL 				dadj
+morphologiquement	morphologique	ADV											S_0	MENT:NUL 				dadj
+mortellement	mortel	ADV											S_DE	D_EMENT:NUL 				dadj
+mortuairement	mortuaire	ADV											S_0	MENT:NUL 				dadj
+mollement	mou	ADV											FOU	OLLEMENT:NUL 				dadj
+moyennement	moyen	ADV											S_DE	D_EMENT:NUL 				dadj
+moyenâgeusement	moyenâgeux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+muettement	muet	ADV											S_DE	D_EMENT:NUL 				dadj
+multiplement	multiple	ADV											S_0	MENT:NUL 				dadj
+municipalement	municipal	ADV											AUX_ALE	EMENT:NUL 				dadj
+musculairement	musculaire	ADV											S_0	MENT:NUL 				dadj
+musculeusement	musculeux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+musicalement	musical	ADV											AUX_ALE	EMENT:NUL 				dadj
+mutinement	mutin	ADV											S_E	EMENT:NUL 				dadj
+mutuellement	mutuel	ADV											S_DE	D_EMENT:NUL 				dadj
+mystérieusement	mystérieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+mystiquement	mystique	ADV											S_0	MENT:NUL 				dadj
+mythiquement	mythique	ADV											S_0	MENT:NUL 				dadj
+mythologiquement	mythologique	ADV											S_0	MENT:NUL 				dadj
+naïvement	naïf	ADV											FS_VE	VEMENT:NUL 				dadj
+narquoisement	narquois	ADV											0_E	EMENT:NUL 				dadj
+nasalement	nasal	ADV											AUX_ALE	EMENT:NUL 				dadj
+natalement	natal	ADV											S_E	EMENT:NUL 				dadj
+nativement	natif	ADV											FS_VE	VEMENT:NUL 				dadj
+nationalement	national	ADV											AUX_ALE	EMENT:NUL 				dadj
+naturellement	naturel	ADV											S_DE	D_EMENT:NUL 				dadj
+nébuleusement	nébuleux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+nécessairement	nécessaire	ADV											S_0	MENT:NUL 				dadj
+négativement	négatif	ADV											FS_VE	VEMENT:NUL 				dadj
+négligemment	négligent	ADV											S_E	MMENT:NUL 				dadj
+nerveusement	nerveux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+nettement	net	ADV											S_DE	D_EMENT:NUL 				dadj
+niaisement	niais	ADV											0_E	EMENT:NUL 				dadj
+noblement	noble	ADV											S_0	MENT:NUL 				dadj
+nocturnement	nocturne	ADV											S_0	MENT:NUL 				dadj
+noirement	noir	ADV											S_E	EMENT:NUL 				dadj
+nombreusement	nombreux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+nominalement	nominal	ADV											AUX_ALE	EMENT:NUL 				dadj
+nominativement	nominatif	ADV											FS_VE	VEMENT:NUL 				dadj
+nonchalamment	nonchalant	ADV											S_E	MMENT:NUL 				dadj
+normalement	normal	ADV											AUX_ALE	EMENT:NUL 				dadj
+nostalgiquement	nostalgique	ADV											S_0	MENT:NUL 				dadj
+notablement	notable	ADV											S_0	MENT:NUL 				dadj
+notarialement	notarial	ADV											AUX_ALE	EMENT:NUL 				dadj
+notoirement	notoire	ADV											S_0	MENT:NUL 				dadj
+nouménalement	nouménal	ADV											AUX_ALE	EMENT:NUL 				dadj
+nouvellement	nouveau	ADV											BEAU	LLEMENT:NUL 				dadj
+nûment	nu	ADV								Opt			S_E	UMENT:NUL 				dadj
+nument	nu	ADV								Rec			S_E	UMENT:NUL 				dadj
+nuageusement	nuageux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+nucléairement	nucléaire	ADV											S_0	MENT:NUL 				dadj
+nuisiblement	nuisible	ADV											S_0	MENT:NUL 				dadj
+nullement	nul	ADV											S_DE	D_EMENT:NUL 				dadj
+numériquement	numérique	ADV											S_0	MENT:NUL 				dadj
+obèsement	obèse	ADV											S_0	MENT:NUL 				dadj
+objectivement	objectif	ADV											FS_VE	VEMENT:NUL 				dadj
+obligatoirement	obligatoire	ADV											S_0	MENT:NUL 				dadj
+obligeamment	obligeant	ADV											S_E	MMENT:NUL 				dadj
+obliquement	oblique	ADV											S_0	MENT:NUL 				dadj
+obscènement	obscène	ADV											S_0	MENT:NUL 				dadj
+obscurément	obscur	ADV											S_E	EGRAVE_MENT:NUL 				dadj
+obséquieusement	obséquieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+obstinément	obstiné	ADV											S_E	MENT:NUL 				dadj
+obtusément	obtus	ADV											0_E	EGRAVE_MENT:NUL 				dadj
+occasionnellement	occasionnel	ADV											S_DE	D_EMENT:NUL 				dadj
+occultement	occulte	ADV											S_0	MENT:NUL 				dadj
+oculairement	oculaire	ADV											S_0	MENT:NUL 				dadj
+odieusement	odieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+oecuméniquement	oecuménique	ADV											S_0	MENT:NUL 				dadj
+œcuméniquement	oecuménique	ADV											S_0	MENT:NUL 				dadj
+offensivement	offensif	ADV											FS_VE	VEMENT:NUL 				dadj
+officiellement	officiel	ADV											S_DE	D_EMENT:NUL 				dadj
+officieusement	officieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+oiseusement	oiseux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+oisivement	oisif	ADV											FS_VE	VEMENT:NUL 				dadj
+oligarchiquement	oligarchique	ADV											S_0	MENT:NUL 				dadj
+ombrageusement	ombrageux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+onctueusement	onctueux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+onduleusement	onduleux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+onéreusement	onéreux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+oniriquement	onirique	ADV											S_0	MENT:NUL 				dadj
+ontologiquement	ontologique	ADV											S_0	MENT:NUL 				dadj
+opaquement	opaque	ADV											S_0	MENT:NUL 				dadj
+opérationnellement	opérationnel	ADV											S_DE	D_EMENT:NUL 				dadj
+opératoirement	opératoire	ADV											S_0	MENT:NUL 				dadj
+opiniâtrement	opiniâtre	ADV											S_0	MENT:NUL 				dadj
+opportunément	opportun	ADV											S_E	EGRAVE_MENT:NUL 				dadj
+opportunistement	opportuniste	ADV											S_0	MENT:NUL 				dadj
+opposément	opposé	ADV											S_E	MENT:NUL 				dadj
+oppressivement	oppressif	ADV											FS_VE	VEMENT:NUL 				dadj
+optimistement	optimiste	ADV											S_0	MENT:NUL 				dadj
+optiquement	optique	ADV											S_0	MENT:NUL 				dadj
+opulemment	opulent	ADV											S_E	MMENT:NUL 				dadj
+orageusement	orageux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+oralement	oral	ADV											AUX_ALE	EMENT:NUL 				dadj
+oratoirement	oratoire	ADV											S_0	MENT:NUL 				dadj
+orbiculairement	orbiculaire	ADV											S_0	MENT:NUL 				dadj
+orchestralement	orchestral	ADV											AUX_ALE	EMENT:NUL 				dadj
+ordinairement	ordinaire	ADV											S_0	MENT:NUL 				dadj
+ordurièrement	ordurier	ADV											ERS_ERE	EREMENT:NUL 				dadj
+organiquement	organique	ADV											S_0	MENT:NUL 				dadj
+organoleptiquement	organoleptique	ADV											S_0	MENT:NUL 				dadj
+orgiastiquement	orgiastique	ADV											S_0	MENT:NUL 				dadj
+orgueilleusement	orgueilleux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+orientalement	oriental	ADV											AUX_ALE	EMENT:NUL 				dadj
+originairement	originaire	ADV											S_0	MENT:NUL 				dadj
+originalement	original	ADV											AUX_ALE	EMENT:NUL 				dadj
+originellement	originel	ADV											S_DE	D_EMENT:NUL 				dadj
+orthodoxement	orthodoxe	ADV											S_0	MENT:NUL 				dadj
+orthogonalement	orthogonal	ADV											AUX_ALE	EMENT:NUL 				dadj
+orthopédiquement	orthopédique	ADV											S_0	MENT:NUL 				dadj
+ostensiblement	ostensible	ADV											S_0	MENT:NUL 				dadj
+ostentatoirement	ostentatoire	ADV											S_0	MENT:NUL 				dadj
+oublieusement	oublieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+outrageusement	outrageux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+outrancièrement	outrancier	ADV											ERS_ERE	EREMENT:NUL 				dadj
+outrecuidamment	outrecuidant	ADV											S_E	MMENT:NUL 				dadj
+ouvertement	ouvert	ADV											S_E	EMENT:NUL 				dadj
+pacifiquement	pacifique	ADV											S_0	MENT:NUL 				dadj
+païennement	païen	ADV											S_DE	D_EMENT:NUL 				dadj
+paillardement	paillard	ADV											S_E	EMENT:NUL 				dadj
+pairement	pair	ADV											S_E	EMENT:NUL 				dadj
+paisiblement	paisible	ADV											S_0	MENT:NUL 				dadj
+pâlement	pâle	ADV											S_0	MENT:NUL 				dadj
+paléographiquement	paléographique	ADV											S_0	MENT:NUL 				dadj
+paléontologiquement	paléontologique	ADV											S_0	MENT:NUL 				dadj
+palingénésiquement	palingénésique	ADV											S_0	MENT:NUL 				dadj
+palpablement	palpable	ADV											S_0	MENT:NUL 				dadj
+panoramiquement	panoramique	ADV											S_0	MENT:NUL 				dadj
+pantagruéliquement	pantagruélique	ADV											S_0	MENT:NUL 				dadj
+papelardement	papelard	ADV											S_E	EMENT:NUL 				dadj
+paraboliquement	parabolique	ADV											S_0	MENT:NUL 				dadj
+paradoxalement	paradoxal	ADV											AUX_ALE	EMENT:NUL 				dadj
+parallèlement	parallèle	ADV											S_0	MENT:NUL 				dadj
+parcellairement	parcellaire	ADV											S_0	MENT:NUL 				dadj
+parcimonieusement	parcimonieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+pareillement	pareil	ADV											S_DE	D_EMENT:NUL 				dadj
+paresseusement	paresseux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+parfaitement	parfait	ADV											S_E	EMENT:NUL 				dadj
+parisiennement	parisien	ADV											S_DE	D_EMENT:NUL 				dadj
+parlementairement	parlementaire	ADV											S_0	MENT:NUL 				dadj
+partialement	partial	ADV											AUX_ALE	EMENT:NUL 				dadj
+particulièrement	particulier	ADV											ERS_ERE	EREMENT:NUL 				dadj
+partiellement	partiel	ADV											S_DE	D_EMENT:NUL 				dadj
+passablement	passable	ADV											S_0	MENT:NUL 				dadj
+passagèrement	passager	ADV											ERS_ERE	EREMENT:NUL 				dadj
+passivement	passif	ADV											FS_VE	VEMENT:NUL 				dadj
+passionnément	passionné	ADV											S_E	MENT:NUL 				dadj
+passionnellement	passionnel	ADV											S_DE	D_EMENT:NUL 				dadj
+pastoralement	pastoral	ADV											AUX_ALE	EMENT:NUL 				dadj
+pataudement	pataud	ADV											S_E	EMENT:NUL 				dadj
+patelinement	patelin	ADV											S_E	EMENT:NUL 				dadj
+patemment	patent	ADV											S_E	MMENT:NUL 				dadj
+paternellement	paternel	ADV											S_DE	D_EMENT:NUL 				dadj
+pâteusement	pâteux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+pathétiquement	pathétique	ADV											S_0	MENT:NUL 				dadj
+pathologiquement	pathologique	ADV											S_0	MENT:NUL 				dadj
+patibulairement	patibulaire	ADV											S_0	MENT:NUL 				dadj
+patiemment	patient	ADV											S_E	MMENT:NUL 				dadj
+patriarcalement	patriarcal	ADV											AUX_ALE	EMENT:NUL 				dadj
+patrimonialement	patrimonial	ADV											AUX_ALE	EMENT:NUL 				dadj
+patriotiquement	patriotique	ADV											S_0	MENT:NUL 				dadj
+pauvrement	pauvre	ADV											S_0	MENT:NUL 				dadj
+paysannement	paysan	ADV											S_DE	D_EMENT:NUL 				dadj
+pécuniairement	pécuniaire	ADV											S_0	MENT:NUL 				dadj
+pédagogiquement	pédagogique	ADV											S_0	MENT:NUL 				dadj
+pédamment	pédant	ADV											S_E	MMENT:NUL 				dadj
+pédantesquement	pédantesque	ADV											S_0	MENT:NUL 				dadj
+pédestrement	pédestre	ADV											S_0	MENT:NUL 				dadj
+peinardement	peinard	ADV											S_E	EMENT:NUL 				dadj
+péjorativement	péjoratif	ADV											FS_VE	VEMENT:NUL 				dadj
+pénalement	pénal	ADV											AUX_ALE	EMENT:NUL 				dadj
+penaudement	penaud	ADV											S_E	EMENT:NUL 				dadj
+péniblement	pénible	ADV											S_0	MENT:NUL 				dadj
+pénitentiairement	pénitentiaire	ADV											S_0	MENT:NUL 				dadj
+pensivement	pensif	ADV											FS_VE	VEMENT:NUL 				dadj
+perceptiblement	perceptible	ADV											S_0	MENT:NUL 				dadj
+perceptivement	perceptif	ADV											FS_VE	VEMENT:NUL 				dadj
+perdurablement	perdurable	ADV											S_0	MENT:NUL 				dadj
+péremptoirement	péremptoire	ADV											S_0	MENT:NUL 				dadj
+perfidement	perfide	ADV											S_0	MENT:NUL 				dadj
+périlleusement	périlleux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+périodiquement	périodique	ADV											S_0	MENT:NUL 				dadj
+périphériquement	périphérique	ADV											S_0	MENT:NUL 				dadj
+pernicieusement	pernicieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+perpendiculairement	perpendiculaire	ADV											S_0	MENT:NUL 				dadj
+perpétuellement	perpétuel	ADV											S_DE	D_EMENT:NUL 				dadj
+perplexement	perplexe	ADV											S_0	MENT:NUL 				dadj
+persévéramment	persévérant	ADV											S_E	MMENT:NUL 				dadj
+personnellement	personnel	ADV											S_DE	D_EMENT:NUL 				dadj
+perspicacement	perspicace	ADV											S_0	MENT:NUL 				dadj
+persuasivement	persuasif	ADV											FS_VE	VEMENT:NUL 				dadj
+pertinemment	pertinent	ADV											S_E	MMENT:NUL 				dadj
+perversement	pervers	ADV											0_E	EMENT:NUL 				dadj
+pesamment	pesant	ADV											S_E	MMENT:NUL 				dadj
+pessimistement	pessimiste	ADV											S_0	MENT:NUL 				dadj
+petitement	petit	ADV											S_E	EMENT:NUL 				dadj
+peureusement	peureux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+pharisaïquement	pharisaïque	ADV											S_0	MENT:NUL 				dadj
+phénoménalement	phénoménal	ADV											AUX_ALE	EMENT:NUL 				dadj
+phénoménologiquement	phénoménologique	ADV											S_0	MENT:NUL 				dadj
+philanthropiquement	philanthropique	ADV											S_0	MENT:NUL 				dadj
+philologiquement	philologique	ADV											S_0	MENT:NUL 				dadj
+philosophiquement	philosophique	ADV											S_0	MENT:NUL 				dadj
+phobiquement	phobique	ADV											S_0	MENT:NUL 				dadj
+phonétiquement	phonétique	ADV											S_0	MENT:NUL 				dadj
+phoniquement	phonique	ADV											S_0	MENT:NUL 				dadj
+phonographiquement	phonographique	ADV											S_0	MENT:NUL 				dadj
+phonologiquement	phonologique	ADV											S_0	MENT:NUL 				dadj
+photographiquement	photographique	ADV											S_0	MENT:NUL 				dadj
+phrénologiquement	phrénologique	ADV											S_0	MENT:NUL 				dadj
+phylétiquement	phylétique	ADV											S_0	MENT:NUL 				dadj
+physiologiquement	physiologique	ADV											S_0	MENT:NUL 				dadj
+physionomiquement	physionomique	ADV											S_0	MENT:NUL 				dadj
+physiquement	physique	ADV											S_0	MENT:NUL 				dadj
+picturalement	pictural	ADV											AUX_ALE	EMENT:NUL 				dadj
+piètrement	piètre	ADV											S_0	MENT:NUL 				dadj
+pieusement	pieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+piteusement	piteux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+pitoyablement	pitoyable	ADV											S_0	MENT:NUL 				dadj
+pittoresquement	pittoresque	ADV											S_0	MENT:NUL 				dadj
+placidement	placide	ADV											S_0	MENT:NUL 				dadj
+plaintivement	plaintif	ADV											FS_VE	VEMENT:NUL 				dadj
+plaisamment	plaisant	ADV											S_E	MMENT:NUL 				dadj
+planétairement	planétaire	ADV											S_0	MENT:NUL 				dadj
+plantureusement	plantureux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+plastiquement	plastique	ADV											S_0	MENT:NUL 				dadj
+platement	plat	ADV											S_E	EMENT:NUL 				dadj
+platoniquement	platonique	ADV											S_0	MENT:NUL 				dadj
+plausiblement	plausible	ADV											S_0	MENT:NUL 				dadj
+pleinement	plein	ADV											S_E	EMENT:NUL 				dadj
+plénièrement	plénier	ADV											ERS_ERE	EREMENT:NUL 				dadj
+pleutrement	pleutre	ADV											S_0	MENT:NUL 				dadj
+pneumatiquement	pneumatique	ADV											S_0	MENT:NUL 				dadj
+poétiquement	poétique	ADV											S_0	MENT:NUL 				dadj
+poisseusement	poisseux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+polémiquement	polémique	ADV											S_0	MENT:NUL 				dadj
+poliment	poli	ADV											S_E	MENT:NUL 				dadj
+politiquement	politique	ADV											S_0	MENT:NUL 				dadj
+pompeusement	pompeux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+ponctuellement	ponctuel	ADV											S_DE	D_EMENT:NUL 				dadj
+pondérément	pondéré	ADV											S_E	MENT:NUL 				dadj
+pontificalement	pontifical	ADV											AUX_ALE	EMENT:NUL 				dadj
+populairement	populaire	ADV											S_0	MENT:NUL 				dadj
+posément	posé	ADV											S_E	MENT:NUL 				dadj
+positivement	positif	ADV											FS_VE	VEMENT:NUL 				dadj
+positionnellement	positionnel	ADV											S_DE	D_EMENT:NUL 				dadj
+possiblement	possible	ADV											S_0	MENT:NUL 				dadj
+postérieurement	postérieur	ADV											S_E	EMENT:NUL 				dadj
+posthumément	posthume	ADV											S_0	B_EGRAVE_MENT:NUL 				dadj
+potentiellement	potentiel	ADV											S_DE	D_EMENT:NUL 				dadj
+poussivement	poussif	ADV											FS_VE	VEMENT:NUL 				dadj
+pragmatiquement	pragmatique	ADV											S_0	MENT:NUL 				dadj
+pratiquement	pratique	ADV											S_0	MENT:NUL 				dadj
+préalablement	préalable	ADV											S_0	MENT:NUL 				dadj
+précairement	précaire	ADV											S_0	MENT:NUL 				dadj
+précautionneusement	précautionneux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+précédemment	précédent	ADV											S_E	MMENT:NUL 				dadj
+précieusement	précieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+précipitamment	précipitant	ADV											S_E	MMENT:NUL 				dadj
+précisément	précis	ADV											0_E	EGRAVE_MENT:NUL 				dadj
+précocement	précoce	ADV											S_0	MENT:NUL 				dadj
+préférablement	préférable	ADV											S_0	MENT:NUL 				dadj
+préférentiellement	préférentiel	ADV											S_DE	D_EMENT:NUL 				dadj
+préhistoriquement	préhistorique	ADV											S_0	MENT:NUL 				dadj
+préliminairement	préliminaire	ADV											S_0	MENT:NUL 				dadj
+prématurément	prématuré	ADV											S_E	MENT:NUL 				dadj
+prépositivement	prépositif	ADV											FS_VE	VEMENT:NUL 				dadj
+présentement	présent	ADV											S_E	EMENT:NUL 				dadj
+présomptivement	présomptif	ADV											FS_VE	VEMENT:NUL 				dadj
+présomptueusement	présomptueux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+prestement	preste	ADV											S_0	MENT:NUL 				dadj
+présumablement	présumable	ADV											S_0	MENT:NUL 				dadj
+prétendument	prétendu	ADV											S_E	MENT:NUL 				dadj
+prétentieusement	prétentieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+préventivement	préventif	ADV											FS_VE	VEMENT:NUL 				dadj
+prévôtalement	prévôtal	ADV											AUX_ALE	EMENT:NUL 				dadj
+primairement	primaire	ADV											S_0	MENT:NUL 				dadj
+primitivement	primitif	ADV											FS_VE	VEMENT:NUL 				dadj
+primordialement	primordial	ADV											AUX_ALE	EMENT:NUL 				dadj
+princièrement	princier	ADV											ERS_ERE	EREMENT:NUL 				dadj
+principalement	principal	ADV											AUX_ALE	EMENT:NUL 				dadj
+printanièrement	printanier	ADV											ERS_ERE	EREMENT:NUL 				dadj
+prioritairement	prioritaire	ADV											S_0	MENT:NUL 				dadj
+privativement	privatif	ADV											FS_VE	VEMENT:NUL 				dadj
+privément	privé	ADV											S_E	MENT:NUL 				dadj
+probablement	probable	ADV											S_0	MENT:NUL 				dadj
+problématiquement	problématique	ADV											S_0	MENT:NUL 				dadj
+processionnellement	processionnel	ADV											S_DE	D_EMENT:NUL 				dadj
+prochainement	prochain	ADV											S_E	EMENT:NUL 				dadj
+proconsulairement	proconsulaire	ADV											S_0	MENT:NUL 				dadj
+prodigieusement	prodigieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+prodiguement	prodigue	ADV											S_0	MENT:NUL 				dadj
+productivement	productif	ADV											FS_VE	VEMENT:NUL 				dadj
+professionnellement	professionnel	ADV											S_DE	D_EMENT:NUL 				dadj
+professoralement	professoral	ADV											AUX_ALE	EMENT:NUL 				dadj
+profitablement	profitable	ADV											S_0	MENT:NUL 				dadj
+profondément	profond	ADV											S_E	EGRAVE_MENT:NUL 				dadj
+profusément	profus	ADV											0_E	EGRAVE_MENT:NUL 				dadj
+progressivement	progressif	ADV											FS_VE	VEMENT:NUL 				dadj
+projectivement	projectif	ADV											FS_VE	VEMENT:NUL 				dadj
+prolétairement	prolétaire	ADV											S_0	MENT:NUL 				dadj
+prolixement	prolixe	ADV											S_0	MENT:NUL 				dadj
+promptement	prompt	ADV											S_E	EMENT:NUL 				dadj
+pronominalement	pronominal	ADV											AUX_ALE	EMENT:NUL 				dadj
+prophétiquement	prophétique	ADV											S_0	MENT:NUL 				dadj
+prophylactiquement	prophylactique	ADV											S_0	MENT:NUL 				dadj
+propitiatoirement	propitiatoire	ADV											S_0	MENT:NUL 				dadj
+proportionnément	proportionné	ADV											S_E	MENT:NUL 				dadj
+proportionnellement	proportionnel	ADV											S_DE	D_EMENT:NUL 				dadj
+proprement	propre	ADV											S_0	MENT:NUL 				dadj
+prosaïquement	prosaïque	ADV											S_0	MENT:NUL 				dadj
+prospectivement	prospectif	ADV											FS_VE	VEMENT:NUL 				dadj
+protocolairement	protocolaire	ADV											S_0	MENT:NUL 				dadj
+proverbialement	proverbial	ADV											AUX_ALE	EMENT:NUL 				dadj
+providentiellement	providentiel	ADV											S_DE	D_EMENT:NUL 				dadj
+provincialement	provincial	ADV											AUX_ALE	EMENT:NUL 				dadj
+provisoirement	provisoire	ADV											S_0	MENT:NUL 				dadj
+prudemment	prudent	ADV											S_E	MMENT:NUL 				dadj
+prudhommesquement	prudhommesque	ADV											S_0	MENT:NUL 				dadj
+psychiquement	psychique	ADV											S_0	MENT:NUL 				dadj
+psychologiquement	psychologique	ADV											S_0	MENT:NUL 				dadj
+puamment	puant	ADV											S_E	MMENT:NUL 				dadj
+publiquement	public	ADV											CS_QUE	QUEMENT:NUL 				dadj
+publicitairement	publicitaire	ADV											S_0	MENT:NUL 				dadj
+pudibondement	pudibond	ADV											S_E	EMENT:NUL 				dadj
+pudiquement	pudique	ADV											S_0	MENT:NUL 				dadj
+puérilement	puéril	ADV											S_E	EMENT:NUL 				dadj
+puissamment	puissant	ADV											S_E	MMENT:NUL 				dadj
+purement	pur	ADV											S_E	EMENT:NUL 				dadj
+puritainement	puritain	ADV											S_E	EMENT:NUL 				dadj
+pyramidalement	pyramidal	ADV											AUX_ALE	EMENT:NUL 				dadj
+quadruplement	quadruple	ADV											S_0	MENT:NUL 				dadj
+qualitativement	qualitatif	ADV											FS_VE	VEMENT:NUL 				dadj
+quantitativement	quantitatif	ADV											FS_VE	VEMENT:NUL 				dadj
+quiètement	quiet	ADV											ETS_ETE	ETEMENT:NUL 				dadj
+quittement	quitte	ADV											S_0	MENT:NUL 				dadj
+quotidiennement	quotidien	ADV											S_DE	D_EMENT:NUL 				dadj
+racialement	racial	ADV											AUX_ALE	EMENT:NUL 				dadj
+radicalement	radical	ADV											AUX_ALE	EMENT:NUL 				dadj
+radieusement	radieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+radiologiquement	radiologique	ADV											S_0	MENT:NUL 				dadj
+rageusement	rageur	ADV											EURS_EUSE	EUSEMENT:NUL 				dadj
+raidement	raide	ADV											S_0	MENT:NUL 				dadj
+railleusement	railleur	ADV											EURS_EUSE	EUSEMENT:NUL 				dadj
+raisonnablement	raisonnable	ADV											S_0	MENT:NUL 				dadj
+rapacement	rapace	ADV											S_0	MENT:NUL 				dadj
+rapidement	rapide	ADV											S_0	MENT:NUL 				dadj
+rarement	rare	ADV											S_0	MENT:NUL 				dadj
+rationnellement	rationnel	ADV											S_DE	D_EMENT:NUL 				dadj
+récemment	récent	ADV											S_E	MMENT:NUL 				dadj
+réciproquement	réciproque	ADV											S_0	MENT:NUL 				dadj
+reconventionnellement	reconventionnel	ADV											S_DE	D_EMENT:NUL 				dadj
+rectangulairement	rectangulaire	ADV											S_0	MENT:NUL 				dadj
+redoutablement	redoutable	ADV											S_0	MENT:NUL 				dadj
+réellement	réel	ADV											S_DE	D_EMENT:NUL 				dadj
+réflexivement	réflexif	ADV											FS_VE	VEMENT:NUL 				dadj
+régionalement	régional	ADV											AUX_ALE	EMENT:NUL 				dadj
+règlementairement	règlementaire	ADV								Rec			S_0	MENT:NUL 				dadj
+réglementairement	règlementaire	ADV								Opt			S_0	MENT:NUL 				dadj
+régressivement	régressif	ADV											FS_VE	VEMENT:NUL 				dadj
+regrettablement	regrettable	ADV											S_0	MENT:NUL 				dadj
+régulièrement	régulier	ADV											ERS_ERE	EREMENT:NUL 				dadj
+relativement	relatif	ADV											FS_VE	VEMENT:NUL 				dadj
+religieusement	religieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+remarquablement	remarquable	ADV											S_0	MENT:NUL 				dadj
+représentativement	représentatif	ADV											FS_VE	VEMENT:NUL 				dadj
+reproductivement	reproductif	ADV											FS_VE	VEMENT:NUL 				dadj
+résineusement	résineux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+résolument	résolu	ADV											S_E	MENT:NUL 				dadj
+respectablement	respectable	ADV											S_0	MENT:NUL 				dadj
+respectivement	respectif	ADV											FS_VE	VEMENT:NUL 				dadj
+respectueusement	respectueux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+rétroactivement	rétroactif	ADV											FS_VE	VEMENT:NUL 				dadj
+rétrospectivement	rétrospectif	ADV											FS_VE	VEMENT:NUL 				dadj
+revêchement	revêche	ADV											S_0	MENT:NUL 				dadj
+révérencieusement	révérencieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+réversiblement	réversible	ADV											S_0	MENT:NUL 				dadj
+rêveusement	rêveur	ADV											EURS_EUSE	EUSEMENT:NUL 				dadj
+révolutionnairement	révolutionnaire	ADV											S_0	MENT:NUL 				dadj
+richement	riche	ADV											S_0	MENT:NUL 				dadj
+ridiculement	ridicule	ADV											S_0	MENT:NUL 				dadj
+rigidement	rigide	ADV											S_0	MENT:NUL 				dadj
+rigoureusement	rigoureux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+risiblement	risible	ADV											S_0	MENT:NUL 				dadj
+rituellement	rituel	ADV											S_DE	D_EMENT:NUL 				dadj
+robustement	robuste	ADV											S_0	MENT:NUL 				dadj
+rocailleusement	rocailleux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+rogatoirement	rogatoire	ADV											S_0	MENT:NUL 				dadj
+roidement	roide	ADV											S_0	MENT:NUL 				dadj
+romainement	romain	ADV											S_E	EMENT:NUL 				dadj
+romanesquement	romanesque	ADV											S_0	MENT:NUL 				dadj
+romantiquement	romantique	ADV											S_0	MENT:NUL 				dadj
+rondement	rond	ADV											S_E	EMENT:NUL 				dadj
+rondouillardement	rondouillard	ADV											S_E	EMENT:NUL 				dadj
+rosement	rose	ADV											S_0	MENT:NUL 				dadj
+roturièrement	roturier	ADV											ERS_ERE	EREMENT:NUL 				dadj
+rougement	rouge	ADV											S_0	MENT:NUL 				dadj
+routinièrement	routinier	ADV											ERS_ERE	EREMENT:NUL 				dadj
+royalement	royal	ADV											AUX_ALE	EMENT:NUL 				dadj
+rudement	rude	ADV											S_0	MENT:NUL 				dadj
+rudimentairement	rudimentaire	ADV											S_0	MENT:NUL 				dadj
+ruineusement	ruineux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+ruralement	rural	ADV											AUX_ALE	EMENT:NUL 				dadj
+rustiquement	rustique	ADV											S_0	MENT:NUL 				dadj
+rythmiquement	rythmique	ADV											S_0	MENT:NUL 				dadj
+sacerdotalement	sacerdotal	ADV											AUX_ALE	EMENT:NUL 				dadj
+sacramentellement	sacramentel	ADV											S_DE	D_EMENT:NUL 				dadj
+sacrément	sacré	ADV											S_E	MENT:NUL 				dadj
+sacrilègement	sacrilège	ADV											S_0	MENT:NUL 				dadj
+sadiquement	sadique	ADV											S_0	MENT:NUL 				dadj
+sagacement	sagace	ADV											S_0	MENT:NUL 				dadj
+sagement	sage	ADV											S_0	MENT:NUL 				dadj
+sagittalement	sagittal	ADV											AUX_ALE	EMENT:NUL 				dadj
+sainement	sain	ADV											S_E	EMENT:NUL 				dadj
+saintement	saint	ADV											S_E	EMENT:NUL 				dadj
+saisonnièrement	saisonnier	ADV											ERS_ERE	EREMENT:NUL 				dadj
+salacement	salace	ADV											S_0	MENT:NUL 				dadj
+salement	sale	ADV											S_0	MENT:NUL 				dadj
+salutairement	salutaire	ADV											S_0	MENT:NUL 				dadj
+sanitairement	sanitaire	ADV											S_0	MENT:NUL 				dadj
+sarcastiquement	sarcastique	ADV											S_0	MENT:NUL 				dadj
+sardoniquement	sardonique	ADV											S_0	MENT:NUL 				dadj
+sataniquement	satanique	ADV											S_0	MENT:NUL 				dadj
+satiriquement	satirique	ADV											S_0	MENT:NUL 				dadj
+satisfaisamment	satisfaisant	ADV											S_E	MMENT:NUL 				dadj
+saumâtrement	saumâtre	ADV											S_0	MENT:NUL 				dadj
+sauvagement	sauvage	ADV											S_0	MENT:NUL 				dadj
+savamment	savant	ADV											S_E	MMENT:NUL 				dadj
+savoureusement	savoureux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+scandaleusement	scandaleux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+scélératement	scélérat	ADV											S_E	EMENT:NUL 				dadj
+scéniquement	scénique	ADV											S_0	MENT:NUL 				dadj
+sceptiquement	sceptique	ADV											S_0	MENT:NUL 				dadj
+schématiquement	schématique	ADV											S_0	MENT:NUL 				dadj
+scientifiquement	scientifique	ADV											S_0	MENT:NUL 				dadj
+scolairement	scolaire	ADV											S_0	MENT:NUL 				dadj
+scolastiquement	scolastique	ADV											S_0	MENT:NUL 				dadj
+scrupuleusement	scrupuleux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+sculpturalement	sculptural	ADV											AUX_ALE	EMENT:NUL 				dadj
+sèchement	sec	ADV											ECS_ECHE	ECHEMENT:NUL 				dadj
+secondairement	secondaire	ADV											S_0	MENT:NUL 				dadj
+secrètement	secret	ADV											ETS_ETE	ETEMENT:NUL 				dadj
+séculairement	séculaire	ADV											S_0	MENT:NUL 				dadj
+séculièrement	séculier	ADV											ERS_ERE	EREMENT:NUL 				dadj
+sédentairement	sédentaire	ADV											S_0	MENT:NUL 				dadj
+séditieusement	séditieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+seigneurialement	seigneurial	ADV											AUX_ALE	EMENT:NUL 				dadj
+sélectivement	sélectif	ADV											FS_VE	VEMENT:NUL 				dadj
+sémantiquement	sémantique	ADV											S_0	MENT:NUL 				dadj
+semblablement	semblable	ADV											S_0	MENT:NUL 				dadj
+semestriellement	semestriel	ADV											S_DE	D_EMENT:NUL 				dadj
+sempiternellement	sempiternel	ADV											S_DE	D_EMENT:NUL 				dadj
+sénilement	sénile	ADV											S_0	MENT:NUL 				dadj
+sensément	sensé	ADV											S_E	MENT:NUL 				dadj
+sensiblement	sensible	ADV											S_0	MENT:NUL 				dadj
+sensuellement	sensuel	ADV											S_DE	D_EMENT:NUL 				dadj
+sentencieusement	sentencieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+sentimentalement	sentimental	ADV											AUX_ALE	EMENT:NUL 				dadj
+séparément	séparé	ADV											S_E	MENT:NUL 				dadj
+séquentiellement	séquentiel	ADV											S_DE	D_EMENT:NUL 				dadj
+sereinement	serein	ADV											S_E	EMENT:NUL 				dadj
+sérieusement	sérieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+serviablement	serviable	ADV											S_0	MENT:NUL 				dadj
+servilement	servile	ADV											S_0	MENT:NUL 				dadj
+sévèrement	sévère	ADV											S_0	MENT:NUL 				dadj
+sexuellement	sexuel	ADV											S_DE	D_EMENT:NUL 				dadj
+sidéralement	sidéral	ADV											AUX_ALE	EMENT:NUL 				dadj
+significativement	significatif	ADV											FS_VE	VEMENT:NUL 				dadj
+silencieusement	silencieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+similairement	similaire	ADV											S_0	MENT:NUL 				dadj
+simplement	simple	ADV											S_0	MENT:NUL 				dadj
+simultanément	simultané	ADV											S_E	MENT:NUL 				dadj
+sincèrement	sincère	ADV											S_0	MENT:NUL 				dadj
+singulièrement	singulier	ADV											ERS_ERE	EREMENT:NUL 				dadj
+sinistrement	sinistre	ADV											S_0	MENT:NUL 				dadj
+sinueusement	sinueux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+sobrement	sobre	ADV											S_0	MENT:NUL 				dadj
+sociablement	sociable	ADV											S_0	MENT:NUL 				dadj
+socialement	social	ADV											AUX_ALE	EMENT:NUL 				dadj
+sociétairement	sociétaire	ADV											S_0	MENT:NUL 				dadj
+sociologiquement	sociologique	ADV											S_0	MENT:NUL 				dadj
+soigneusement	soigneux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+soldatesquement	soldatesque	ADV											S_0	MENT:NUL 				dadj
+solennellement	solennel	ADV											S_DE	D_EMENT:NUL 				dadj
+solidairement	solidaire	ADV											S_0	MENT:NUL 				dadj
+solidement	solide	ADV											S_0	MENT:NUL 				dadj
+solitairement	solitaire	ADV											S_0	MENT:NUL 				dadj
+somatiquement	somatique	ADV											S_0	MENT:NUL 				dadj
+sombrement	sombre	ADV											S_0	MENT:NUL 				dadj
+sommairement	sommaire	ADV											S_0	MENT:NUL 				dadj
+somnambuliquement	somnambulique	ADV											S_0	MENT:NUL 				dadj
+somptueusement	somptueux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+songeusement	songeur	ADV											EURS_EUSE	EUSEMENT:NUL 				dadj
+sonorement	sonore	ADV											S_0	MENT:NUL 				dadj
+sophistiquement	sophistique	ADV											S_0	MENT:NUL 				dadj
+sordidement	sordide	ADV											S_0	MENT:NUL 				dadj
+sororalement	sororal	ADV											AUX_ALE	EMENT:NUL 				dadj
+sottement	sot	ADV											S_DE	D_EMENT:NUL 				dadj
+soucieusement	soucieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+soudainement	soudain	ADV											S_E	EMENT:NUL 				dadj
+soupçonneusement	soupçonneux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+souplement	souple	ADV											S_0	MENT:NUL 				dadj
+sourcilleusement	sourcilleux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+sourdement	sourd	ADV											S_E	EMENT:NUL 				dadj
+sournoisement	sournois	ADV											0_E	EMENT:NUL 				dadj
+souterrainement	souterrain	ADV											S_E	EMENT:NUL 				dadj
+souverainement	souverain	ADV											S_E	EMENT:NUL 				dadj
+soyeusement	soyeux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+spacieusement	spacieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+spasmodiquement	spasmodique	ADV											S_0	MENT:NUL 				dadj
+spatialement	spatial	ADV											AUX_ALE	EMENT:NUL 				dadj
+spécialement	spécial	ADV											AUX_ALE	EMENT:NUL 				dadj
+spécieusement	spécieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+spécifiquement	spécifique	ADV											S_0	MENT:NUL 				dadj
+spectaculairement	spectaculaire	ADV											S_0	MENT:NUL 				dadj
+spectralement	spectral	ADV											AUX_ALE	EMENT:NUL 				dadj
+spéculairement	spéculaire	ADV											S_0	MENT:NUL 				dadj
+spéculativement	spéculatif	ADV											FS_VE	VEMENT:NUL 				dadj
+sphériquement	sphérique	ADV											S_0	MENT:NUL 				dadj
+spirituellement	spirituel	ADV											S_DE	D_EMENT:NUL 				dadj
+splendidement	splendide	ADV											S_0	MENT:NUL 				dadj
+spontanément	spontané	ADV											S_E	MENT:NUL 				dadj
+sporadiquement	sporadique	ADV											S_0	MENT:NUL 				dadj
+sportivement	sportif	ADV											FS_VE	VEMENT:NUL 				dadj
+stationnairement	stationnaire	ADV											S_0	MENT:NUL 				dadj
+statiquement	statique	ADV											S_0	MENT:NUL 				dadj
+statistiquement	statistique	ADV											S_0	MENT:NUL 				dadj
+statutairement	statutaire	ADV											S_0	MENT:NUL 				dadj
+stéréographiquement	stéréographique	ADV											S_0	MENT:NUL 				dadj
+stérilement	stérile	ADV											S_0	MENT:NUL 				dadj
+stoïquement	stoïque	ADV											S_0	MENT:NUL 				dadj
+stratégiquement	stratégique	ADV											S_0	MENT:NUL 				dadj
+stratigraphiquement	stratigraphique	ADV											S_0	MENT:NUL 				dadj
+strictement	strict	ADV											S_E	EMENT:NUL 				dadj
+stridemment	strident	ADV											S_E	MMENT:NUL 				dadj
+strophiquement	strophique	ADV											S_0	MENT:NUL 				dadj
+structuralement	structural	ADV											AUX_ALE	EMENT:NUL 				dadj
+structurellement	structurel	ADV											S_DE	D_EMENT:NUL 				dadj
+studieusement	studieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+stupidement	stupide	ADV											S_0	MENT:NUL 				dadj
+stylistiquement	stylistique	ADV											S_0	MENT:NUL 				dadj
+suavement	suave	ADV											S_0	MENT:NUL 				dadj
+subalternement	subalterne	ADV											S_0	MENT:NUL 				dadj
+subconsciemment	subconscient	ADV											S_E	MMENT:NUL 				dadj
+subitement	subit	ADV											S_E	EMENT:NUL 				dadj
+subjectivement	subjectif	ADV											FS_VE	VEMENT:NUL 				dadj
+sublimement	sublime	ADV											S_0	MENT:NUL 				dadj
+subrepticement	subreptice	ADV											S_0	MENT:NUL 				dadj
+subséquemment	subséquent	ADV											S_E	MMENT:NUL 				dadj
+subsidiairement	subsidiaire	ADV											S_0	MENT:NUL 				dadj
+substantiellement	substantiel	ADV											S_DE	D_EMENT:NUL 				dadj
+substantivement	substantif	ADV											FS_VE	VEMENT:NUL 				dadj
+subtilement	subtil	ADV											S_E	EMENT:NUL 				dadj
+successivement	successif	ADV											FS_VE	VEMENT:NUL 				dadj
+succinctement	succinct	ADV											S_E	EMENT:NUL 				dadj
+superbement	superbe	ADV											S_0	MENT:NUL 				dadj
+superficiellement	superficiel	ADV											S_DE	D_EMENT:NUL 				dadj
+superfinement	superfin	ADV											S_E	EMENT:NUL 				dadj
+supérieurement	supérieur	ADV											S_E	EMENT:NUL 				dadj
+superlativement	superlatif	ADV											FS_VE	VEMENT:NUL 				dadj
+superstitieusement	superstitieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+supplémentairement	supplémentaire	ADV											S_0	MENT:NUL 				dadj
+supplétivement	supplétif	ADV											FS_VE	VEMENT:NUL 				dadj
+supportablement	supportable	ADV											S_0	MENT:NUL 				dadj
+supposément	supposé	ADV											S_E	MENT:NUL 				dadj
+supranationalement	supranational	ADV											AUX_ALE	EMENT:NUL 				dadj
+suprêmement	suprême	ADV											S_0	MENT:NUL 				dadj
+surabondamment	surabondant	ADV											S_E	MMENT:NUL 				dadj
+surérogatoirement	surérogatoire	ADV											S_0	MENT:NUL 				dadj
+surhumainement	surhumain	ADV											S_E	EMENT:NUL 				dadj
+surnaturellement	surnaturel	ADV											S_DE	D_EMENT:NUL 				dadj
+surréellement	surréel	ADV											S_DE	D_EMENT:NUL 				dadj
+suspicieusement	suspicieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+sybaritiquement	sybaritique	ADV											S_0	MENT:NUL 				dadj
+syllogistiquement	syllogistique	ADV											S_0	MENT:NUL 				dadj
+symboliquement	symbolique	ADV											S_0	MENT:NUL 				dadj
+symétriquement	symétrique	ADV											S_0	MENT:NUL 				dadj
+sympathiquement	sympathique	ADV											S_0	MENT:NUL 				dadj
+symphoniquement	symphonique	ADV											S_0	MENT:NUL 				dadj
+symptomatiquement	symptomatique	ADV											S_0	MENT:NUL 				dadj
+synchroniquement	synchronique	ADV											S_0	MENT:NUL 				dadj
+syncrétiquement	syncrétique	ADV											S_0	MENT:NUL 				dadj
+synergiquement	synergique	ADV											S_0	MENT:NUL 				dadj
+synonymiquement	synonymique	ADV											S_0	MENT:NUL 				dadj
+synoptiquement	synoptique	ADV											S_0	MENT:NUL 				dadj
+synthétiquement	synthétique	ADV											S_0	MENT:NUL 				dadj
+systématiquement	systématique	ADV											S_0	MENT:NUL 				dadj
+tacitement	tacite	ADV											S_0	MENT:NUL 				dadj
+taciturnement	taciturne	ADV											S_0	MENT:NUL 				dadj
+tactiquement	tactique	ADV											S_0	MENT:NUL 				dadj
+talentueusement	talentueux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+tangentiellement	tangentiel	ADV											S_DE	D_EMENT:NUL 				dadj
+tangiblement	tangible	ADV											S_0	MENT:NUL 				dadj
+tapageusement	tapageur	ADV											EURS_EUSE	EUSEMENT:NUL 				dadj
+tardivement	tardif	ADV											FS_VE	VEMENT:NUL 				dadj
+techniquement	technique	ADV											S_0	MENT:NUL 				dadj
+télégraphiquement	télégraphique	ADV											S_0	MENT:NUL 				dadj
+télépathiquement	télépathique	ADV											S_0	MENT:NUL 				dadj
+téléphoniquement	téléphonique	ADV											S_0	MENT:NUL 				dadj
+témérairement	téméraire	ADV											S_0	MENT:NUL 				dadj
+tempétueusement	tempétueux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+temporairement	temporaire	ADV											S_0	MENT:NUL 				dadj
+temporellement	temporel	ADV											S_DE	D_EMENT:NUL 				dadj
+tenacement	tenace	ADV											S_0	MENT:NUL 				dadj
+tendanciellement	tendanciel	ADV											S_DE	D_EMENT:NUL 				dadj
+tendancieusement	tendancieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+tendrement	tendre	ADV											S_0	MENT:NUL 				dadj
+ténébreusement	ténébreux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+terriblement	terrible	ADV											S_0	MENT:NUL 				dadj
+territorialement	territorial	ADV											AUX_ALE	EMENT:NUL 				dadj
+tétaniquement	tétanique	ADV											S_0	MENT:NUL 				dadj
+textuellement	textuel	ADV											S_DE	D_EMENT:NUL 				dadj
+théâtralement	théâtral	ADV											AUX_ALE	EMENT:NUL 				dadj
+thématiquement	thématique	ADV											S_0	MENT:NUL 				dadj
+théologiquement	théologique	ADV											S_0	MENT:NUL 				dadj
+théoriquement	théorique	ADV											S_0	MENT:NUL 				dadj
+thérapeutiquement	thérapeutique	ADV											S_0	MENT:NUL 				dadj
+thermiquement	thermique	ADV											S_0	MENT:NUL 				dadj
+thermométriquement	thermométrique	ADV											S_0	MENT:NUL 				dadj
+thétiquement	thétique	ADV											S_0	MENT:NUL 				dadj
+tièdement	tiède	ADV											S_0	MENT:NUL 				dadj
+timidement	timide	ADV											S_0	MENT:NUL 				dadj
+tolérablement	tolérable	ADV											S_0	MENT:NUL 				dadj
+topiquement	topique	ADV											S_0	MENT:NUL 				dadj
+topographiquement	topographique	ADV											S_0	MENT:NUL 				dadj
+torrentiellement	torrentiel	ADV											S_DE	D_EMENT:NUL 				dadj
+torrentueusement	torrentueux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+tortueusement	tortueux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+totalement	total	ADV											AUX_ALE	EMENT:NUL 				dadj
+toxicologiquement	toxicologique	ADV											S_0	MENT:NUL 				dadj
+tracassièrement	tracassier	ADV											ERS_ERE	EREMENT:NUL 				dadj
+traditionnellement	traditionnel	ADV											S_DE	D_EMENT:NUL 				dadj
+tragiquement	tragique	ADV											S_0	MENT:NUL 				dadj
+trainardement	trainard	ADV								Rec			S_E	EMENT:NUL 				dadj
+traînardement	trainard	ADV								Opt			S_E	EMENT:NUL 				dadj
+tranquillement	tranquille	ADV											S_0	MENT:NUL 				dadj
+transcendantalement	transcendantal	ADV											AUX_ALE	EMENT:NUL 				dadj
+transitivement	transitif	ADV											FS_VE	VEMENT:NUL 				dadj
+transitoirement	transitoire	ADV											S_0	MENT:NUL 				dadj
+transversalement	transversal	ADV											AUX_ALE	EMENT:NUL 				dadj
+triangulairement	triangulaire	ADV											S_0	MENT:NUL 				dadj
+tridimensionnellement	tridimensionnel	ADV											S_DE	D_EMENT:NUL 				dadj
+trigonométriquement	trigonométrique	ADV											S_0	MENT:NUL 				dadj
+trimestriellement	trimestriel	ADV											S_DE	D_EMENT:NUL 				dadj
+triomphalement	triomphal	ADV											AUX_ALE	EMENT:NUL 				dadj
+triplement	triple	ADV											S_0	MENT:NUL 				dadj
+tristement	triste	ADV											S_0	MENT:NUL 				dadj
+trivialement	trivial	ADV											AUX_ALE	EMENT:NUL 				dadj
+trompeusement	trompeur	ADV											EURS_EUSE	EUSEMENT:NUL 				dadj
+tumultuairement	tumultuaire	ADV											S_0	MENT:NUL 				dadj
+tumultueusement	tumultueux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+turpidement	turpide	ADV											S_0	MENT:NUL 				dadj
+typiquement	typique	ADV											S_0	MENT:NUL 				dadj
+typographiquement	typographique	ADV											S_0	MENT:NUL 				dadj
+tyranniquement	tyrannique	ADV											S_0	MENT:NUL 				dadj
+ultérieurement	ultérieur	ADV											S_E	EMENT:NUL 				dadj
+ultimement	ultime	ADV											S_0	MENT:NUL 				dadj
+unanimement	unanime	ADV											S_0	MENT:NUL 				dadj
+uniment	uni	ADV											S_E	MENT:NUL 				dadj
+uniformément	uniforme	ADV											S_0	B_EGRAVE_MENT:NUL 				dadj
+unilatéralement	unilatéral	ADV											AUX_ALE	EMENT:NUL 				dadj
+uniquement	unique	ADV											S_0	MENT:NUL 				dadj
+unitairement	unitaire	ADV											S_0	MENT:NUL 				dadj
+universellement	universel	ADV											S_DE	D_EMENT:NUL 				dadj
+univoquement	univoque	ADV											S_0	MENT:NUL 				dadj
+urgemment	urgent	ADV											S_E	MMENT:NUL 				dadj
+usuellement	usuel	ADV											S_DE	D_EMENT:NUL 				dadj
+usurairement	usuraire	ADV											S_0	MENT:NUL 				dadj
+utilement	utile	ADV											S_0	MENT:NUL 				dadj
+utilitairement	utilitaire	ADV											S_0	MENT:NUL 				dadj
+vaguement	vague	ADV											S_0	MENT:NUL 				dadj
+vaillamment	vaillant	ADV											S_E	MMENT:NUL 				dadj
+vainement	vain	ADV											S_E	EMENT:NUL 				dadj
+valablement	valable	ADV											S_0	MENT:NUL 				dadj
+valeureusement	valeureux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+validement	valide	ADV											S_0	MENT:NUL 				dadj
+vaniteusement	vaniteux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+vaporeusement	vaporeux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+vastement	vaste	ADV											S_0	MENT:NUL 				dadj
+végétalement	végétal	ADV											AUX_ALE	EMENT:NUL 				dadj
+végétativement	végétatif	ADV											FS_VE	VEMENT:NUL 				dadj
+véhémentement	véhément	ADV											S_E	EMENT:NUL 				dadj
+vélocement	véloce	ADV											S_0	MENT:NUL 				dadj
+vénalement	vénal	ADV											AUX_ALE	EMENT:NUL 				dadj
+vénéneusement	vénéneux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+vénérablement	vénérable	ADV											S_0	MENT:NUL 				dadj
+véniellement	véniel	ADV											S_DE	D_EMENT:NUL 				dadj
+venimeusement	venimeux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+ventralement	ventral	ADV											AUX_ALE	EMENT:NUL 				dadj
+véracement	vérace	ADV											S_0	MENT:NUL 				dadj
+verbalement	verbal	ADV											AUX_ALE	EMENT:NUL 				dadj
+verbeusement	verbeux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+véridiquement	véridique	ADV											S_0	MENT:NUL 				dadj
+véritablement	véritable	ADV											S_0	MENT:NUL 				dadj
+vertement	vert	ADV											S_E	EMENT:NUL 				dadj
+verticalement	vertical	ADV											AUX_ALE	EMENT:NUL 				dadj
+vertigineusement	vertigineux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+vertueusement	vertueux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+vésaniquement	vésanique	ADV											S_0	MENT:NUL 				dadj
+vestimentairement	vestimentaire	ADV											S_0	MENT:NUL 				dadj
+vétilleusement	vétilleux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+veulement	veule	ADV											S_0	MENT:NUL 				dadj
+vicieusement	vicieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+victorieusement	victorieux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+vivement	vif	ADV											FS_VE	VEMENT:NUL 				dadj
+vigilamment	vigilant	ADV											S_E	MMENT:NUL 				dadj
+vigoureusement	vigoureux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+vilement	vil	ADV											S_E	EMENT:NUL 				dadj
+vilainement	vilain	ADV											S_E	EMENT:NUL 				dadj
+vindicativement	vindicatif	ADV											FS_VE	VEMENT:NUL 				dadj
+violemment	violent	ADV											S_E	MMENT:NUL 				dadj
+virginalement	virginal	ADV											AUX_ALE	EMENT:NUL 				dadj
+virilement	viril	ADV											S_E	EMENT:NUL 				dadj
+virtuellement	virtuel	ADV											S_DE	D_EMENT:NUL 				dadj
+virulemment	virulent	ADV											S_E	MMENT:NUL 				dadj
+viscéralement	viscéral	ADV											AUX_ALE	EMENT:NUL 				dadj
+visiblement	visible	ADV											S_0	MENT:NUL 				dadj
+visqueusement	visqueux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+visuellement	visuel	ADV											S_DE	D_EMENT:NUL 				dadj
+vitalement	vital	ADV											AUX_ALE	EMENT:NUL 				dadj
+vocalement	vocal	ADV											AUX_ALE	EMENT:NUL 				dadj
+volcaniquement	volcanique	ADV											S_0	MENT:NUL 				dadj
+volontairement	volontaire	ADV											S_0	MENT:NUL 				dadj
+volubilement	volubile	ADV											S_0	MENT:NUL 				dadj
+volumétriquement	volumétrique	ADV											S_0	MENT:NUL 				dadj
+voluptueusement	voluptueux	ADV											EUX_EUSE	EUSEMENT:NUL 				dadj
+voracement	vorace	ADV											S_0	MENT:NUL 				dadj
+vraiment	vrai	ADV											S_E	MENT:NUL 				dadj
+vraisemblablement	vraisemblable	ADV											S_0	MENT:NUL 				dadj
+vulgairement	vulgaire	ADV											S_0	MENT:NUL 				dadj
+zoologiquement	zoologique	ADV											S_0	MENT:NUL 				dadj
