@@ -1,0 +1,15 @@
+faire 4 fichiers txt des noms fs, ms, fp, mp
+> enlever mots d'origine étrangère
+> œ >> oe
+> æ >> ae
+> compter les autres char spéciaux
+>  mots
+
+https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html
+
+
+
+
+
+
+
