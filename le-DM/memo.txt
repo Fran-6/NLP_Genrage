@@ -7,9 +7,7 @@ faire 4 fichiers txt des noms fs, ms, fp, mp
 
 https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html
 
-def letterToIndex(letter):
-    return allowed_characters.find(letter)
-remplacer par un dictionnaire prédéfini
+
 
 From all the phonologically possible wordforms in a language, the meaningful ones are termed as
 words, the ones with no meaning attached to them as pseudowords, and the phonologically impossible
